@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KaraokeKeyの使い方 - 図解マニュアル</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #1e1e1e;
+            padding: 1.5rem;
+            text-align: center;
+            border-bottom: 2px solid #03dac6;
+        }
+        h1 { margin: 0; font-size: 1.4rem; color: #03dac6; }
+        h2 { font-size: 1.1rem; color: #ffeb3b; border-left: 4px solid #03dac6; padding-left: 0.5rem; margin-top: 2rem; }
+        
+        main {
+            width: 90%;
+            max-width: 600px;
+            margin: 0 auto;
+            padding-bottom: 50px;
+        }
+        .step-box {
+            background-color: #1e1e1e;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        .step-num {
+            background: #6200ee;
+            color: white;
+            border-radius: 50%;
+            width: 24px;
+            height: 24px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-right: 0.5rem;
+            font-size: 0.9rem;
+        }
+        .step-title { font-weight: bold; font-size: 1rem; color: #fff; }
+        .step-text { font-size: 0.9rem; color: #ddd; margin: 0.5rem 0; padding-left: 1.8rem; }
+
+        /* 📸 写真・図をあとから入れるための枠 */
+        .photo-placeholder {
+            background-color: #2c2c2c;
+            border: 2px dashed #03dac6;
+            border-radius: 6px;
+            padding: 2rem 1rem;
+            text-align: center;
+            margin: 1rem 0 0.5rem 1.8rem;
+            color: #aaaaaa;
+            font-size: 0.85rem;
+        }
+        .photo-placeholder-title {
+            color: #03dac6;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+            font-size: 0.95rem;
+        }
+        .img-fluid {
+            max-width: 100%;
+            height: auto;
+            display: none; /* 画像を入れたらここを block にするか、このクラスを外してください */
+            border-radius: 4px;
+        }
+
+        .btn-close {
+            display: block;
+            width: 100%;
+            background-color: #333;
+            color: white;
+            border: 1px solid #555;
+            padding: 1rem;
+            text-align: center;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 4px;
+            margin-top: 2rem;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>📖 KaraokeKey かんたん図解マニュアル</h1>
+</header>
+
+<main>
+
+    <h2>1. 自分の持ち歌（マイリスト）を検索する</h2>
+    
+    <div class="step-box">
+        <div>
+            <span class="step-num">1</span>
+            <span class="step-title">検索窓に歌い手や曲名を入力する</span>
+        </div>
+        <p class="step-text">画面真ん中あたりにある「マイリスト内をその場で検索...」という四角い枠を押し、キーボードで文字（例：あ、米津、など）を入力します。</p>
+        
+        <!-- 📸 写真を入れる枠 -->
+        <div class="photo-placeholder">
+            <div class="photo-placeholder-title">📸 【ここに写真①を入れる】</div>
+            <div>スマホの画面で、検索窓に文字を打ち込んでいる様子のスクリーンショット</div>
+            <!-- あとから画像を入れる時は下のタグを使います -->
+            <!-- <img src="images/search_input.png" class="img-fluid" alt="検索入力画面"> -->
+        </div>
+    </div>
+
+    <div class="step-box">
+        <div>
+            <span class="step-num">2</span>
+            <span class="step-title">すぐ真下に結果が出る</span>
+        </div>
+        <p class="step-text">文字を入れると、画面が下に切り替わるのではなく、<b>検索窓のすぐ真下に緑色の枠で囲まれた「検索結果」</b>がその場でパッと現れます。</p>
+        
+        <!-- 📸 写真を入れる枠 -->
+        <div class="photo-placeholder">
+            <div class="photo-placeholder-title">📸 【ここに写真②を入れる】</div>
+            <div>文字を入れた瞬間、すぐ下に「〇曲見つかりました」と緑枠のリストが出ている画面のスクリーンショット</div>
+            <!-- <img src="images/search_result.png" class="img-fluid" alt="検索結果画面"> -->
+        </div>
+    </div>
+
+
+    <h2>2. 新しい曲を自分のリストに登録する</h2>
+
+    <div class="step-box">
+        <div>
+            <span class="step-num">3</span>
+            <span class="step-title">曲名とアーティスト名を入れる</span>
+        </div>
+        <p class="step-text">画面の一番上にある「曲名」と「アーティスト」の枠に、新しく覚えたい曲やいつも歌う曲を入力します。</p>
+        
+        <!-- 📸 写真を入れる枠 -->
+        <div class="photo-placeholder">
+            <div class="photo-placeholder-title">📸 【ここに写真③を入れる】</div>
+            <div>曲名とアーティスト名が入力された登録エリアのスクリーンショット</div>
+            <!-- <img src="images/add_song.png" class="img-fluid" alt="登録画面"> -->
+        </div>
+    </div>
+
+    <div class="step-box">
+        <div>
+            <span class="step-num">4</span>
+            <span class="step-title">キーと星（自信度）を選んで追加</span>
+        </div>
+        <p class="step-text">自分に合うキー（原曲キー、-1、+2など）と、その曲の得意度（星の数）を選んだら、紫色の「リストに追加」ボタンを押します。これで一番下のマイリストへ自動で保存されます。</p>
+        
+        <!-- 📸 写真を入れる枠 -->
+        <div class="photo-placeholder">
+            <div class="photo-placeholder-title">📸 【ここに写真④を入れる】</div>
+            <div>「リストに追加」ボタンを押そうとしている瞬間のスクリーンショット</div>
+            <!-- <img src="images/add_button.png" class="img-fluid" alt="追加ボタン"> -->
+        </div>
+    </div>
+
+
+    <h2>3. データのバックアップ（一番重要！）</h2>
+
+    <div class="step-box">
+        <div>
+            <span class="step-num">5</span>
+            <span class="step-title">定期的に「ファイルに保存」を押す</span>
+        </div>
+        <p class="step-text">スマートフォンの故障やブラウザの掃除（キャッシュ消去）で曲が消えてしまうのを防ぐため、ときどき「データをファイルに保存」ボタンを押して、大切なマイリストをスマホ内に保存（ダウンロード）しておいてください。</p>
+        
+        <!-- 📸 写真を入れる枠 -->
+        <div class="photo-placeholder">
+            <div class="photo-placeholder-title">📸 【ここに写真⑤を入れる】</div>
+            <div>「データ管理」エリアのボタン（特にファイルに保存ボタン）を指し示している図</div>
+            <!-- <img src="images/backup.png" class="img-fluid" alt="データ管理画面"> -->
+        </div>
+    </div>
+
+    <!-- アプリに戻るボタン -->
+    <a href="index.html" class="btn-close">◀ アプリに戻る</a>
+
+</main>
+
+</body>
+</html>

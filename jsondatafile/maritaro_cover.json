@@ -1,0 +1,5917 @@
+[
+  {
+    "id": "maritaro_cover001",
+    "title": "かもめが翔んだ日",
+    "titleKana": "かもめがとんだひ",
+    "artist": "Acid Black Cherry",
+    "artistKana": "あしっどぶらっくちぇりー"
+  },
+  {
+    "id": "maritaro_cover002",
+    "title": "うっせぇわ",
+    "titleKana": "うっせぇわ",
+    "artist": "Ado",
+    "artistKana": "あど"
+  },
+  {
+    "id": "maritaro_cover003",
+    "title": "唱",
+    "titleKana": "しょう",
+    "artist": "Ado",
+    "artistKana": "あど"
+  },
+  {
+    "id": "maritaro_cover004",
+    "title": "残響散歌",
+    "titleKana": "ざんきょうさんか",
+    "artist": "Aimer",
+    "artistKana": "えめ"
+  },
+  {
+    "id": "maritaro_cover005",
+    "title": "moving on",
+    "titleKana": "むーびんぐおん",
+    "artist": "Alice",
+    "artistKana": "ありす"
+  },
+  {
+    "id": "maritaro_cover006",
+    "title": "愛は腕の中",
+    "titleKana": "あいはうでのなか",
+    "artist": "Ann",
+    "artistKana": "あん"
+  },
+  {
+    "id": "maritaro_cover007",
+    "title": "FANTASTIC BABY",
+    "titleKana": "ふぁんたすてぃっくべいびー",
+    "artist": "BIGBANG",
+    "artistKana": "びっぐばん"
+  },
+  {
+    "id": "maritaro_cover008",
+    "title": "ハッピーエンド",
+    "titleKana": "はっぴーえんど",
+    "artist": "back number",
+    "artistKana": "ばっくなんばー"
+  },
+  {
+    "id": "maritaro_cover009",
+    "title": "VALENTI",
+    "titleKana": "ばれんてぃ",
+    "artist": "BoA",
+    "artistKana": "ぼあ"
+  },
+  {
+    "id": "maritaro_cover010",
+    "title": "LOVE PHANTOM",
+    "titleKana": "らぶふぁんとむ",
+    "artist": "B'z",
+    "artistKana": "びーず"
+  },
+  {
+    "id": "maritaro_cover011",
+    "title": "今夜月の見える丘に",
+    "titleKana": "こんやつきのみえるおかに",
+    "artist": "B'z",
+    "artistKana": "びーず"
+  },
+  {
+    "id": "maritaro_cover012",
+    "title": "ロマンティックが止まらない",
+    "titleKana": "ろまんてぃっくがとまらない",
+    "artist": "C-C-B",
+    "artistKana": "しーしーびー"
+  },
+  {
+    "id": "maritaro_cover013",
+    "title": "My Heart Will Go On",
+    "titleKana": "まいはーとうぃるごーおん",
+    "artist": "Céline Dion",
+    "artistKana": "せりーぬでぃおん"
+  },
+  {
+    "id": "maritaro_cover014",
+    "title": "SAY YES",
+    "titleKana": "せいいえす",
+    "artist": "CHAGE＆ASKA(チャゲ＆飛鳥)",
+    "artistKana": "ちゃげあんどあすか"
+  },
+  {
+    "id": "maritaro_cover015",
+    "title": "モーニングムーン",
+    "titleKana": "もーにんぐむーん",
+    "artist": "CHAGE＆ASKA(チャゲ＆飛鳥)",
+    "artistKana": "ちゃげあんどあすか"
+  },
+  {
+    "id": "maritaro_cover016",
+    "title": "万里の河",
+    "titleKana": "ばんりのかわ",
+    "artist": "CHAGE＆ASKA(チャゲ＆飛鳥)",
+    "artistKana": "ちゃげあんどあすか"
+  },
+  {
+    "id": "maritaro_cover017",
+    "title": "Girls Just Want To Have Fun",
+    "titleKana": "がーるずじゃすとわんとぅーはぶふぁん",
+    "artist": "Cyndi Lauper",
+    "artistKana": "しんでぃろーぱー"
+  },
+  {
+    "id": "maritaro_cover018",
+    "title": "Time After Time",
+    "titleKana": "たいむあふたーたいむ",
+    "artist": "Cyndi Lauper",
+    "artistKana": "しんでぃろーぱー"
+  },
+  {
+    "id": "maritaro_cover019",
+    "title": "If We Hold On Together",
+    "titleKana": "いふうぃーほーるどおんとぅげざー",
+    "artist": "Diana Ross",
+    "artistKana": "だいあなろす"
+  },
+  {
+    "id": "maritaro_cover020",
+    "title": "君は桜",
+    "titleKana": "きみはさくら",
+    "artist": "DRAGON DREAM",
+    "artistKana": "どらごんどりーむ"
+  },
+  {
+    "id": "maritaro_cover021",
+    "title": "LOVE LOVE LOVE",
+    "titleKana": "らぶらぶらぶ",
+    "artist": "DREAMS COME TRUE",
+    "artistKana": "どりーむずかむとぅるー"
+  },
+  {
+    "id": "maritaro_cover022",
+    "title": "やさしいキスをして",
+    "titleKana": "やさしいきすをして",
+    "artist": "DREAMS COME TRUE",
+    "artistKana": "どりーむずかむとぅるー"
+  },
+  {
+    "id": "maritaro_cover023",
+    "title": "決戦は金曜日",
+    "titleKana": "けっせんはないようび",
+    "artist": "DREAMS COME TRUE",
+    "artistKana": "どりーむずかむとぅるー"
+  },
+  {
+    "id": "maritaro_cover024",
+    "title": "OP廻廻奇譚（かいかいきたん）呪術廻戦",
+    "titleKana": "おーぴーかいかきたんじゅじゅつかいせん",
+    "artist": "Eve",
+    "artistKana": "いぶ"
+  },
+  {
+    "id": "maritaro_cover025",
+    "title": "fragile",
+    "titleKana": "ふらじーる",
+    "artist": "Every Little Thing",
+    "artistKana": "えぶりりするしんぐ"
+  },
+  {
+    "id": "maritaro_cover026",
+    "title": "Time goes by",
+    "titleKana": "たいむごーずばい",
+    "artist": "Every Little Thing",
+    "artistKana": "えぶりりするしんぐ"
+  },
+  {
+    "id": "maritaro_cover027",
+    "title": "パプリカ",
+    "titleKana": "ぱぷりか",
+    "artist": "Foorin",
+    "artistKana": "ふーりん"
+  },
+  {
+    "id": "maritaro_cover028",
+    "title": "サヨナラ",
+    "titleKana": "さよなら",
+    "artist": "GAO",
+    "artistKana": "がお"
+  },
+  {
+    "id": "maritaro_cover029",
+    "title": "DEPARTURES",
+    "titleKana": "でぃぱーちゃーず",
+    "artist": "globe",
+    "artistKana": "ぐろーぶ"
+  },
+  {
+    "id": "maritaro_cover030",
+    "title": "ROSE",
+    "titleKana": "ろーず",
+    "artist": "HANA",
+    "artistKana": "はな"
+  },
+  {
+    "id": "maritaro_cover031",
+    "title": "人生なんて・・・ね",
+    "titleKana": "じんせいなんてね",
+    "artist": "HANZO",
+    "artistKana": "はんぞー"
+  },
+  {
+    "id": "maritaro_cover032",
+    "title": "眠りつく・・・まで",
+    "titleKana": "ねむりつくまで",
+    "artist": "HANZO",
+    "artistKana": "はんぞー"
+  },
+  {
+    "id": "maritaro_cover033",
+    "title": "スサノオ〜愛の神〜",
+    "titleKana": "すさのおあいのかみ",
+    "artist": "HANZO",
+    "artistKana": "はんぞー"
+  },
+  {
+    "id": "maritaro_cover034",
+    "title": "くちびるの花",
+    "titleKana": "くちびるのはな",
+    "artist": "HANZO ケイ潤子",
+    "artistKana": "はんぞーけいじゅんこ"
+  },
+  {
+    "id": "maritaro_cover035",
+    "title": "ピンク スパイダー",
+    "titleKana": "ぴんくすぱいだー",
+    "artist": "hide with Spread Beaver",
+    "artistKana": "ひでのうぃずすぷれっどびーばー"
+  },
+  {
+    "id": "maritaro_cover036",
+    "title": "366日",
+    "titleKana": "さんびゃくろくじゅうろくにち",
+    "artist": "HY",
+    "artistKana": "えいちわい"
+  },
+  {
+    "id": "maritaro_cover037",
+    "title": "明日がくるなら",
+    "titleKana": "あしたがくるなら",
+    "artist": "JUJU",
+    "artistKana": "じゅじゅ"
+  },
+  {
+    "id": "maritaro_cover038",
+    "title": "ふたりこのまま～For Youall in Love",
+    "titleKana": "ふたりこのままふぉーゆーおーるいんらぶ",
+    "artist": "JUN＆MIE",
+    "artistKana": "じゅんあんどみえ"
+  },
+  {
+    "id": "maritaro_cover039",
+    "title": "Only Human",
+    "titleKana": "おんりーひゅーまん",
+    "artist": "K",
+    "artistKana": "けー"
+  },
+  {
+    "id": "maritaro_cover040",
+    "title": "バーボン・ダブルで・・・(哀愁のジャズ・シンガー)",
+    "titleKana": "ばーぼんだぶるであいしゅうのじゃずしんがー",
+    "artist": "KANA",
+    "artistKana": "かな"
+  },
+  {
+    "id": "maritaro_cover041",
+    "title": "永遠の月",
+    "titleKana": "えいえんのつき",
+    "artist": "KANA",
+    "artistKana": "かな"
+  },
+  {
+    "id": "maritaro_cover042",
+    "title": "ミスター",
+    "titleKana": "みすたー",
+    "artist": "KARA",
+    "artistKana": "から"
+  },
+  {
+    "id": "maritaro_cover043",
+    "title": "白日",
+    "titleKana": "はくじつ",
+    "artist": "King Gnu",
+    "artistKana": "きんぐぬー"
+  },
+  {
+    "id": "maritaro_cover044",
+    "title": "未来へ",
+    "titleKana": "みらいへ",
+    "artist": "Kiroro",
+    "artistKana": "きろろ"
+  },
+  {
+    "id": "maritaro_cover045",
+    "title": "恋に罪は無い",
+    "titleKana": "こいにつみはない",
+    "artist": "Kusuyo",
+    "artistKana": "くすよ"
+  },
+  {
+    "id": "maritaro_cover046",
+    "title": "無造作紳士 L'Aquoiboniste",
+    "titleKana": "むぞうさしんしらきぼにすと",
+    "artist": "Jane Birkin",
+    "artistKana": "じぇーんばーきん"
+  },
+  {
+    "id": "maritaro_cover047",
+    "title": "今すぐKiss Me",
+    "titleKana": "いますぐきすみー",
+    "artist": "LINDBERG",
+    "artistKana": "りんどばーぐ"
+  },
+  {
+    "id": "maritaro_cover048",
+    "title": "紅蓮華 鬼滅の刃",
+    "titleKana": "ぐれんげきめつのやいば",
+    "artist": "LiSA",
+    "artistKana": "りさ"
+  },
+  {
+    "id": "maritaro_cover049",
+    "title": "シャイニン・オン君が哀しくて",
+    "titleKana": "しゃいにんおんきみがかなしくて",
+    "artist": "LOOK",
+    "artistKana": "るっく"
+  },
+  {
+    "id": "maritaro_cover050",
+    "title": "フェンス",
+    "titleKana": "ふぇんす",
+    "artist": "Paradise Lost",
+    "artistKana": "ぱらだいすろすと"
+  },
+  {
+    "id": "maritaro_cover051",
+    "title": "すみれSeptember LOVE",
+    "titleKana": "すみれせぷてんばーらぶ",
+    "artist": "一風堂",
+    "artistKana": "いっぷうどう"
+  },
+  {
+    "id": "maritaro_cover052",
+    "title": "独り言花",
+    "titleKana": "ひとりごとばな",
+    "artist": "LUHICA",
+    "artistKana": "るひか"
+  },
+  {
+    "id": "maritaro_cover053",
+    "title": "Everything",
+    "titleKana": "えぶりしんぐ",
+    "artist": "MISIA",
+    "artistKana": "みーしゃ"
+  },
+  {
+    "id": "maritaro_cover054",
+    "title": "オルフェンズの涙",
+    "titleKana": "おるふぇんずのなみだ",
+    "artist": "MISIA",
+    "artistKana": "みーしゃ"
+  },
+  {
+    "id": "maritaro_cover055",
+    "title": "逢いたくていま",
+    "titleKana": "あいたくていま",
+    "artist": "MISIA",
+    "artistKana": "みーしゃ"
+  },
+  {
+    "id": "maritaro_cover056",
+    "title": "冬のエトランゼ",
+    "titleKana": "ふゆのえとらんぜ",
+    "artist": "MISIA",
+    "artistKana": "みーしゃ"
+  },
+  {
+    "id": "maritaro_cover057",
+    "title": "Hello, Again 〜昔からある場所〜",
+    "titleKana": "はろーあげいんむかしからあるばしょ",
+    "artist": "MY LITTLE LOVER",
+    "artistKana": "まいりとるらばー"
+  },
+  {
+    "id": "maritaro_cover058",
+    "title": "KAGUYA",
+    "titleKana": "かぐや",
+    "artist": "NEWS",
+    "artistKana": "にゅーす"
+  },
+  {
+    "id": "maritaro_cover059",
+    "title": "今を抱きしめて",
+    "titleKana": "いまをだきしめて",
+    "artist": "NOA（吉田栄作&仙道敦子）",
+    "artistKana": "のあよしだえいさくあんどせんどうあつこ"
+  },
+  {
+    "id": "maritaro_cover060",
+    "title": "Easy Lover",
+    "titleKana": "いーじーらばー",
+    "artist": "Philip Bailey & Phil Collins",
+    "artistKana": "ふぃりっぷべいりーあんどふぃるこりんず"
+  },
+  {
+    "id": "maritaro_cover061",
+    "title": "Diamonds",
+    "titleKana": "だいあもんど",
+    "artist": "Princess Princess",
+    "artistKana": "ぷりんせすぷりんせす"
+  },
+  {
+    "id": "maritaro_cover062",
+    "title": "PERFECT HUMAN",
+    "titleKana": "ぱーふぇくとひゅーまん",
+    "artist": "RADIO FISH",
+    "artistKana": "らじおふぃっしゅ"
+  },
+  {
+    "id": "maritaro_cover063",
+    "title": "A RAINBOW",
+    "titleKana": "えーれいんぼー",
+    "artist": "RAINBOW",
+    "artistKana": "れいんぼー"
+  },
+  {
+    "id": "maritaro_cover064",
+    "title": "RASPBERRY DREAM",
+    "titleKana": "らずべりーどりーむ",
+    "artist": "REBECCA",
+    "artistKana": "れべっか"
+  },
+  {
+    "id": "maritaro_cover065",
+    "title": "乙女",
+    "titleKana": "おとめ",
+    "artist": "Rising",
+    "artistKana": "らいじんぐ"
+  },
+  {
+    "id": "maritaro_cover066",
+    "title": "月のしずく",
+    "titleKana": "つきのしずく",
+    "artist": "RUI",
+    "artistKana": "るい"
+  },
+  {
+    "id": "maritaro_cover067",
+    "title": "雪の小説",
+    "titleKana": "ゆきのしょうせつ",
+    "artist": "satomi",
+    "artistKana": "さとみ"
+  },
+  {
+    "id": "maritaro_cover068",
+    "title": "うち、泣かへんわ",
+    "titleKana": "うちなかへんわ",
+    "artist": "SHO-KEIKO",
+    "artistKana": "しょーけいこ"
+  },
+  {
+    "id": "maritaro_cover069",
+    "title": "ONE WAY HEART",
+    "titleKana": "わんうぇいはーと",
+    "artist": "SHOW-YA",
+    "artistKana": "しょうや"
+  },
+  {
+    "id": "maritaro_cover070",
+    "title": "しどけなくエモーション",
+    "titleKana": "しどけなくえもーしょん",
+    "artist": "SHOW-YA",
+    "artistKana": "しょうや"
+  },
+  {
+    "id": "maritaro_cover071",
+    "title": "ジプシー・クィーン",
+    "titleKana": "じぷしーくいーん",
+    "artist": "SHOW-YA",
+    "artistKana": "しょうや"
+  },
+  {
+    "id": "maritaro_cover072",
+    "title": "その後で殺したい",
+    "titleKana": "そのあとでころしたい",
+    "artist": "SHOW-YA",
+    "artistKana": "しょうや"
+  },
+  {
+    "id": "maritaro_cover073",
+    "title": "限界LOVERS",
+    "titleKana": "げんかいらばーず",
+    "artist": "SHOW-YA",
+    "artistKana": "しょうや"
+  },
+  {
+    "id": "maritaro_cover074",
+    "title": "孤独の迷路",
+    "titleKana": "こどくのめいろ",
+    "artist": "SHOW-YA",
+    "artistKana": "しょうや"
+  },
+  {
+    "id": "maritaro_cover075",
+    "title": "水の中の逃亡者",
+    "titleKana": "みずのなかのとうぼうしゃ",
+    "artist": "SHOW-YA",
+    "artistKana": "しょうや"
+  },
+  {
+    "id": "maritaro_cover076",
+    "title": "SPIRIT",
+    "titleKana": "すぴりっと",
+    "artist": "PAMELAH",
+    "artistKana": "ぱめら"
+  },
+  {
+    "id": "maritaro_cover077",
+    "title": "ウエディング・ベル",
+    "titleKana": "うえでぃんぐべる",
+    "artist": "Sugar",
+    "artistKana": "しゅがー"
+  },
+  {
+    "id": "maritaro_cover078",
+    "title": "さくらびと",
+    "titleKana": "さくらびと",
+    "artist": "Sunset Swish",
+    "artistKana": "さんせっとすうぃっしゅ"
+  },
+  {
+    "id": "maritaro_cover079",
+    "title": "星空のディスタンス",
+    "titleKana": "ほしぞらのでぃすたんす",
+    "artist": "THE ALFEE",
+    "artistKana": "じあるふぃー"
+  },
+  {
+    "id": "maritaro_cover080",
+    "title": "RAGING BULL",
+    "titleKana": "れいじんぐぶる",
+    "artist": "THE JET BOY BANGERZ",
+    "artistKana": "ざじぇっとぼーいばんげるず"
+  },
+  {
+    "id": "maritaro_cover081",
+    "title": "PUNK SING A GLORIA",
+    "titleKana": "ぱんくしんぐあぐろりあ",
+    "artist": "THE WILLARD",
+    "artistKana": "ざうぃらーど"
+  },
+  {
+    "id": "maritaro_cover082",
+    "title": "THE END",
+    "titleKana": "じえんど",
+    "artist": "THE WILLARD",
+    "artistKana": "ざうぃらーど"
+  },
+  {
+    "id": "maritaro_cover083",
+    "title": "宙船",
+    "titleKana": "そらふね",
+    "artist": "TOKIO",
+    "artistKana": "ときお"
+  },
+  {
+    "id": "maritaro_cover084",
+    "title": "ふられ気分でRock'n Roll",
+    "titleKana": "ふられきぶんでろっくんろーる",
+    "artist": "TOM CAT",
+    "artistKana": "とむきゃっと"
+  },
+  {
+    "id": "maritaro_cover085",
+    "title": "EZ DO DANCE",
+    "titleKana": "いーじーどぅーだんす",
+    "artist": "trf",
+    "artistKana": "てぃーあーるえふ"
+  },
+  {
+    "id": "maritaro_cover086",
+    "title": "夏祭り",
+    "titleKana": "なつまつり",
+    "artist": "Whiteberry",
+    "artistKana": "ほわいとべりー"
+  },
+  {
+    "id": "maritaro_cover087",
+    "title": "Saving All My Love For You",
+    "titleKana": "せーびんぐおーるまいらぶふぉーゆー",
+    "artist": "Whitney Houston",
+    "artistKana": "ほいっとにーひゅーすとん"
+  },
+  {
+    "id": "maritaro_cover088",
+    "title": "VIVID VICE",
+    "titleKana": "びびっどばいす",
+    "artist": "Who-ya Extended",
+    "artistKana": "ふーやえくすてんでぃっど"
+  },
+  {
+    "id": "maritaro_cover089",
+    "title": "呪術廻戦『VIVID VICE』",
+    "titleKana": "じゅじゅつかいせんびびっどばいす",
+    "artist": "Who-ya Extended",
+    "artistKana": "ふーやえくすてんでぃっど"
+  },
+  {
+    "id": "maritaro_cover090",
+    "title": "愛が止まらない",
+    "titleKana": "あいがとまらない",
+    "artist": "Wink",
+    "artistKana": "うぃんく"
+  },
+  {
+    "id": "maritaro_cover091",
+    "title": "淋しい熱帯魚",
+    "titleKana": "さびしいねったいぎょ",
+    "artist": "Wink",
+    "artistKana": "うぃんく"
+  },
+  {
+    "id": "maritaro_cover092",
+    "title": "BORN TO BE FREE",
+    "titleKana": "ぼーんとぅーびーふりー",
+    "artist": "X JAPAN",
+    "artistKana": "えっくすじゃぱん"
+  },
+  {
+    "id": "maritaro_cover093",
+    "title": "Endless Rain",
+    "titleKana": "えんどれすれいん",
+    "artist": "X JAPAN",
+    "artistKana": "えっくすじゃぱん"
+  },
+  {
+    "id": "maritaro_cover094",
+    "title": "Forever Love",
+    "titleKana": "ふぉーえばーらぶ",
+    "artist": "X JAPAN",
+    "artistKana": "えっくすじゃぱん"
+  },
+  {
+    "id": "maritaro_cover095",
+    "title": "Rusty Nail",
+    "titleKana": "らすてぃねいる",
+    "artist": "X JAPAN",
+    "artistKana": "えっくすじゃぱん"
+  },
+  {
+    "id": "maritaro_cover096",
+    "title": "Tears",
+    "titleKana": "てぃあーず",
+    "artist": "X JAPAN",
+    "artistKana": "えっくすじゃぱん"
+  },
+  {
+    "id": "maritaro_cover097",
+    "title": "紅(KURENAI)",
+    "titleKana": "くれない",
+    "artist": "X JAPAN",
+    "artistKana": "えっくすじゃぱん"
+  },
+  {
+    "id": "maritaro_cover098",
+    "title": "闘うりゃんせ",
+    "titleKana": "たたかうりゃんせ",
+    "artist": "YOKO",
+    "artistKana": "ようこ"
+  },
+  {
+    "id": "maritaro_cover099",
+    "title": "一握の夢",
+    "titleKana": "いちあくのゆめ",
+    "artist": "YOSHIMI",
+    "artistKana": "よしみ"
+  },
+  {
+    "id": "maritaro_cover100",
+    "title": "泣きたくて",
+    "titleKana": "なきたくて",
+    "artist": "YOSHIMI",
+    "artistKana": "よしみ"
+  },
+  {
+    "id": "maritaro_cover101",
+    "title": "あさがお",
+    "titleKana": "あさがお",
+    "artist": "あさみちゆき",
+    "artistKana": "あさみちゆき"
+  },
+  {
+    "id": "maritaro_cover102",
+    "title": "黄昏シネマ",
+    "titleKana": "たそがれしねま",
+    "artist": "あさみちゆき",
+    "artistKana": "あさみちゆき"
+  },
+  {
+    "id": "maritaro_cover103",
+    "title": "四畳半の蝉",
+    "titleKana": "よじょうはんのせみ",
+    "artist": "あさみちゆき",
+    "artistKana": "あさみちゆき"
+  },
+  {
+    "id": "maritaro_cover104",
+    "title": "鮨屋で・・・",
+    "titleKana": "すしやで",
+    "artist": "あさみちゆき",
+    "artistKana": "あさみちゆき"
+  },
+  {
+    "id": "maritaro_cover105",
+    "title": "愛が消えないように",
+    "titleKana": "あいがきえないように",
+    "artist": "あずみ万里子",
+    "artistKana": "あずみまりこ"
+  },
+  {
+    "id": "maritaro_cover106",
+    "title": "貴方へのメッセージ",
+    "titleKana": "あなたへのめっせーじ",
+    "artist": "あずみ万里子",
+    "artistKana": "あずみまりこ"
+  },
+  {
+    "id": "maritaro_cover107",
+    "title": "待つわ",
+    "titleKana": "まつわ",
+    "artist": "あみん",
+    "artistKana": "あみん"
+  },
+  {
+    "id": "maritaro_cover108",
+    "title": "チャンピオン",
+    "titleKana": "ちゃんぴおん",
+    "artist": "アリス",
+    "artistKana": "ありす"
+  },
+  {
+    "id": "maritaro_cover109",
+    "title": "あゝ無情",
+    "titleKana": "ああむじょう",
+    "artist": "アン・ルイス",
+    "artistKana": "あんるいす"
+  },
+  {
+    "id": "maritaro_cover110",
+    "title": "グッド・バイ・マイ・ラブ",
+    "titleKana": "ぐっばいまいらぶ",
+    "artist": "アン・ルイス",
+    "artistKana": "あんるいす"
+  },
+  {
+    "id": "maritaro_cover111",
+    "title": "ラ・セゾン",
+    "titleKana": "らせぞん",
+    "artist": "アン・ルイス",
+    "artistKana": "あんるいす"
+  },
+  {
+    "id": "maritaro_cover112",
+    "title": "六本木心中",
+    "titleKana": "ろっぽんぎしんじゅう",
+    "artist": "アン・ルイス",
+    "artistKana": "あんるいす"
+  },
+  {
+    "id": "maritaro_cover113",
+    "title": "はじめてのチュウ",
+    "titleKana": "はじめてのちゅう",
+    "artist": "あんしんパパ",
+    "artistKana": "あんしんぱぱ"
+  },
+  {
+    "id": "maritaro_cover114",
+    "title": "SAKURA",
+    "titleKana": "さくら",
+    "artist": "いきものがかり",
+    "artistKana": "いきものがかり"
+  },
+  {
+    "id": "maritaro_cover115",
+    "title": "ブルーバード",
+    "titleKana": "ぶるーばーど",
+    "artist": "いきものがかり",
+    "artistKana": "いきものがかり"
+  },
+  {
+    "id": "maritaro_cover116",
+    "title": "YELL",
+    "titleKana": "えーる",
+    "artist": "いきものがかり",
+    "artistKana": "いきものがかり"
+  },
+  {
+    "id": "maritaro_cover117",
+    "title": "スピリッツ",
+    "titleKana": "すぴりっつ",
+    "artist": "いきものがかり",
+    "artistKana": "いきものがかり"
+  },
+  {
+    "id": "maritaro_cover118",
+    "title": "ブルーライト・ヨコハマ",
+    "titleKana": "ぶるーらいとよこはま",
+    "artist": "いしだあゆみ",
+    "artistKana": "いしだあゆみ"
+  },
+  {
+    "id": "maritaro_cover119",
+    "title": "キッスは目にして",
+    "titleKana": "きっすはめにして",
+    "artist": "ヴィーナス",
+    "artistKana": "ヴぃーなす"
+  },
+  {
+    "id": "maritaro_cover120",
+    "title": "母きずな",
+    "titleKana": "ははきずな",
+    "artist": "エドアルド",
+    "artistKana": "えどあるど"
+  },
+  {
+    "id": "maritaro_cover121",
+    "title": "カスバの女",
+    "titleKana": "かすばのおんな",
+    "artist": "エト邦枝",
+    "artistKana": "えとくにえだ"
+  },
+  {
+    "id": "maritaro_cover122",
+    "title": "Superstar's Showtime!",
+    "titleKana": "すーぱーすたーずしょーたいむ",
+    "artist": "大谷翔平",
+    "artistKana": "おおたにしょうへい"
+  },
+  {
+    "id": "maritaro_cover123",
+    "title": "ヨコハマ・ヘンリー",
+    "titleKana": "よこはまへんりー",
+    "artist": "おかゆ",
+    "artistKana": "おかゆ"
+  },
+  {
+    "id": "maritaro_cover124",
+    "title": "愛してよ",
+    "titleKana": "あいしてよ",
+    "artist": "おかゆ",
+    "artistKana": "おかゆ"
+  },
+  {
+    "id": "maritaro_cover125",
+    "title": "さよなら",
+    "titleKana": "さよなら",
+    "artist": "オフコース",
+    "artistKana": "おふこーす"
+  },
+  {
+    "id": "maritaro_cover126",
+    "title": "思い出通り",
+    "titleKana": "おもいでどおり",
+    "artist": "カウベルス",
+    "artistKana": "かうべるす"
+  },
+  {
+    "id": "maritaro_cover127",
+    "title": "君は1000%",
+    "titleKana": "きみはせんぱーせんと",
+    "artist": "カルロストシキ&オメガトライブ",
+    "artistKana": "かるろすとしきあんどおめがとらいぶ"
+  },
+  {
+    "id": "maritaro_cover128",
+    "title": "ショパンの雨音",
+    "titleKana": "しょぱんのあまおと",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover129",
+    "title": "暗夜航路",
+    "titleKana": "あんやこうろ",
+    "artist": "キム・ヨンジャ",
+    "artistKana": "きむよんじゃ"
+  },
+  {
+    "id": "maritaro_cover130",
+    "title": "情恋歌",
+    "titleKana": "じょうれんか",
+    "artist": "キム・ヨンジャ",
+    "artistKana": "きむよんじゃ"
+  },
+  {
+    "id": "maritaro_cover131",
+    "title": "熱い河",
+    "titleKana": "あついかわ",
+    "artist": "キム・ヨンジャ",
+    "artistKana": "きむよんじゃ"
+  },
+  {
+    "id": "maritaro_cover132",
+    "title": "北の雪虫",
+    "titleKana": "きたのゆきむし",
+    "artist": "キム・ヨンジャ",
+    "artistKana": "きむよんじゃ"
+  },
+  {
+    "id": "maritaro_cover133",
+    "title": "涙の鎖",
+    "titleKana": "なみだのくさり",
+    "artist": "キム・ヨンジャ",
+    "artistKana": "きむよんじゃ"
+  },
+  {
+    "id": "maritaro_cover134",
+    "title": "別れちゃったの",
+    "titleKana": "わかれちゃったの",
+    "artist": "キム・ランヒ",
+    "artistKana": "きむらんひ"
+  },
+  {
+    "id": "maritaro_cover135",
+    "title": "サヨナラをあげる",
+    "titleKana": "さよならをあげる",
+    "artist": "クミコ",
+    "artistKana": "くみこ"
+  },
+  {
+    "id": "maritaro_cover136",
+    "title": "大都会",
+    "titleKana": "だいとかい",
+    "artist": "クリスタルキング",
+    "artistKana": "くりすたるきんぐ"
+  },
+  {
+    "id": "maritaro_cover137",
+    "title": "女々しくて",
+    "titleKana": "めめしくて",
+    "artist": "ゴールデンボンバー",
+    "artistKana": "ごーるでんぼんばー"
+  },
+  {
+    "id": "maritaro_cover138",
+    "title": "ガンダーラ",
+    "titleKana": "がんだーら",
+    "artist": "ゴダイゴ",
+    "artistKana": "ごだいご"
+  },
+  {
+    "id": "maritaro_cover139",
+    "title": "銀河鉄道999",
+    "titleKana": "ぎんがてつどうすりーないん",
+    "artist": "ゴダイゴ",
+    "artistKana": "ごだいご"
+  },
+  {
+    "id": "maritaro_cover140",
+    "title": "蕾",
+    "titleKana": "つぼみ",
+    "artist": "コブクロ",
+    "artistKana": "こぶくろ"
+  },
+  {
+    "id": "maritaro_cover141",
+    "title": "愛のかけら",
+    "titleKana": "あいのかけら",
+    "artist": "こゆり",
+    "artistKana": "こゆり"
+  },
+  {
+    "id": "maritaro_cover142",
+    "title": "恋のバカンス",
+    "titleKana": "こいのばかんす",
+    "artist": "ザ・ピーナッツ",
+    "artistKana": "ざぴーなっつ"
+  },
+  {
+    "id": "maritaro_cover143",
+    "title": "フィナーレ・・・そして",
+    "titleKana": "ふぃなーれそして",
+    "artist": "ざいま弘子",
+    "artistKana": "ざいまひろこ"
+  },
+  {
+    "id": "maritaro_cover144",
+    "title": "大漁まつり",
+    "titleKana": "たいりょうまつり",
+    "artist": "さくらまや",
+    "artistKana": "さくらまや"
+  },
+  {
+    "id": "maritaro_cover145",
+    "title": "勝手にシンドバッド",
+    "titleKana": "かってにしんどばっど",
+    "artist": "サザンオールスターズ",
+    "artistKana": "さざんおーるすたーず"
+  },
+  {
+    "id": "maritaro_cover146",
+    "title": "海雪",
+    "titleKana": "うみゆき",
+    "artist": "ジェロ",
+    "artistKana": "じぇろ"
+  },
+  {
+    "id": "maritaro_cover147",
+    "title": "魅せられて",
+    "titleKana": "みせられて",
+    "artist": "ジュディ・オング",
+    "artistKana": "じゅでぃおんぐ"
+  },
+  {
+    "id": "maritaro_cover148",
+    "title": "ロンリー・チャップリン",
+    "titleKana": "ろんりーちゃっぷりん",
+    "artist": "鈴木聖美&鈴木雅之",
+    "artistKana": "すずききよみあんどすずきまさゆき"
+  },
+  {
+    "id": "maritaro_cover149",
+    "title": "ロビンソン",
+    "titleKana": "ろびんそん",
+    "artist": "スピッツ",
+    "artistKana": "すぴっつ"
+  },
+  {
+    "id": "maritaro_cover150",
+    "title": "不思議Tokyoシンデレラ",
+    "titleKana": "ふしぎとうきょうしんでれら",
+    "artist": "セイントフォー",
+    "artistKana": "せいんとふぉー"
+  },
+  {
+    "id": "maritaro_cover151",
+    "title": "港のヨーコ・ヨコハマ・ヨコスカ",
+    "titleKana": "みなとのよーこよこはまよこすか",
+    "artist": "ダウン・タウン・ブギウギ・バンド",
+    "artistKana": "だうんたうんぶぎうぎばんど"
+  },
+  {
+    "id": "maritaro_cover152",
+    "title": "SAIKAI～再会～",
+    "titleKana": "さいかい",
+    "artist": "タケ・ウケタ",
+    "artistKana": "たけうけた"
+  },
+  {
+    "id": "maritaro_cover153",
+    "title": "かもめの街",
+    "titleKana": "かもめのまち",
+    "artist": "ちあきなおみ",
+    "artistKana": "ちあきなおみ"
+  },
+  {
+    "id": "maritaro_cover154",
+    "title": "喝采",
+    "titleKana": "かっさい",
+    "artist": "ちあきなおみ",
+    "artistKana": "ちあきなおみ"
+  },
+  {
+    "id": "maritaro_cover155",
+    "title": "紅い花",
+    "titleKana": "あかいはな",
+    "artist": "ちあきなおみ",
+    "artistKana": "ちあきなおみ"
+  },
+  {
+    "id": "maritaro_cover156",
+    "title": "朝日のあたる家（朝日楼）",
+    "titleKana": "あさひのあたるいえあさひろう",
+    "artist": "ちあきなおみ",
+    "artistKana": "ちあきなおみ"
+  },
+  {
+    "id": "maritaro_cover157",
+    "title": "悲しみを拾って",
+    "titleKana": "かなしみをひろって",
+    "artist": "ちあきなおみ",
+    "artistKana": "ちあきなおみ"
+  },
+  {
+    "id": "maritaro_cover158",
+    "title": "雪は、バラードのように・・・",
+    "titleKana": "ゆきはばらーどのように",
+    "artist": "チェウニ",
+    "artistKana": "ちぇうに"
+  },
+  {
+    "id": "maritaro_cover159",
+    "title": "東京の枯葉",
+    "titleKana": "とうきょうのかれは",
+    "artist": "チェウニ",
+    "artistKana": "ちぇうに"
+  },
+  {
+    "id": "maritaro_cover160",
+    "title": "ギザギザハートの子守唄",
+    "titleKana": "ぎざぎざはーとのこもりうた",
+    "artist": "チェッカーズ",
+    "artistKana": "ちぇっかーず"
+  },
+  {
+    "id": "maritaro_cover161",
+    "title": "涙のリクエスト",
+    "titleKana": "なみだのりくえすと",
+    "artist": "チェッカーズ",
+    "artistKana": "ちぇっかーず"
+  },
+  {
+    "id": "maritaro_cover162",
+    "title": "チェビ-燕-",
+    "titleKana": "ちぇびつばめ",
+    "artist": "チャン・ウンスク",
+    "artistKana": "ちゃんうんすく"
+  },
+  {
+    "id": "maritaro_cover163",
+    "title": "なんや知らんけど",
+    "titleKana": "なんやしらんけど",
+    "artist": "チャン・ウンスク",
+    "artistKana": "ちゃんうんすく"
+  },
+  {
+    "id": "maritaro_cover164",
+    "title": "泣きまね",
+    "titleKana": "なきまね",
+    "artist": "チャン・ウンスク",
+    "artistKana": "ちゃんうんすく"
+  },
+  {
+    "id": "maritaro_cover165",
+    "title": "硝子のピアス",
+    "titleKana": "がらすのぴあす",
+    "artist": "チャン・ウンスク",
+    "artistKana": "ちゃんうんすく"
+  },
+  {
+    "id": "maritaro_cover166",
+    "title": "無情のかけら",
+    "titleKana": "むじょうのかけら",
+    "artist": "チャン・ウンスク",
+    "artistKana": "ちゃんうんすく"
+  },
+  {
+    "id": "maritaro_cover167",
+    "title": "涙のエアターミナル〜成田発18時50分〜",
+    "titleKana": "なみだのえあたーみなるなりたはつじゅうはちじごじゅっぷん",
+    "artist": "チャン・ウンスク",
+    "artistKana": "ちゃんうんすく"
+  },
+  {
+    "id": "maritaro_cover168",
+    "title": "最期の川",
+    "titleKana": "さいごのかわ",
+    "artist": "チャン・ユンジョン",
+    "artistKana": "ちゃんゆんじょん"
+  },
+  {
+    "id": "maritaro_cover169",
+    "title": "窓の外の女",
+    "titleKana": "まどのそとのおんな",
+    "artist": "チョー・ヨンピル",
+    "artistKana": "ちょーよんぴる"
+  },
+  {
+    "id": "maritaro_cover170",
+    "title": "つぐない",
+    "titleKana": "つぐない",
+    "artist": "テレサ・テン",
+    "artistKana": "てれさてん"
+  },
+  {
+    "id": "maritaro_cover171",
+    "title": "空港",
+    "titleKana": "くうこう",
+    "artist": "テレサ・テン",
+    "artistKana": "てれさてん"
+  },
+  {
+    "id": "maritaro_cover172",
+    "title": "時の流れに身をまかせ",
+    "titleKana": "ときのおながれにみをまかせ",
+    "artist": "テレサ・テン",
+    "artistKana": "てれさてん"
+  },
+  {
+    "id": "maritaro_cover173",
+    "title": "お祭りさわぎ",
+    "titleKana": "おまつりさわぎ",
+    "artist": "ニック・ニューサ",
+    "artistKana": "にっくにゅーさ"
+  },
+  {
+    "id": "maritaro_cover174",
+    "title": "サチコ",
+    "titleKana": "さちこ",
+    "artist": "ニック・ニューサ",
+    "artistKana": "ニックニューサ"
+  },
+  {
+    "id": "maritaro_cover175",
+    "title": "オラはにんきもの",
+    "titleKana": "おらはにんきもの",
+    "artist": "のはらしんのすけ",
+    "artistKana": "のはらしんのすけ"
+  },
+  {
+    "id": "maritaro_cover176",
+    "title": "クレヨンしんちゃん",
+    "titleKana": "くれよんしんちゃん",
+    "artist": "のはらしんのすけ",
+    "artistKana": "のはらしんのすけ"
+  },
+  {
+    "id": "maritaro_cover177",
+    "title": "たかが恋されど愛",
+    "titleKana": "たかがこいされどあい",
+    "artist": "パク・ジュヨン",
+    "artistKana": "ぱくじゅよん"
+  },
+  {
+    "id": "maritaro_cover178",
+    "title": "太陽のユートピア",
+    "titleKana": "たいようのゆーとぴあ",
+    "artist": "パティ",
+    "artistKana": "ぱてぃ"
+  },
+  {
+    "id": "maritaro_cover179",
+    "title": "さくらなみき",
+    "titleKana": "さくらなみき",
+    "artist": "はやと",
+    "artistKana": "はやと"
+  },
+  {
+    "id": "maritaro_cover180",
+    "title": "ガラスの部屋",
+    "titleKana": "がらすのへや",
+    "artist": "ハン・ジナ",
+    "artistKana": "はんじな"
+  },
+  {
+    "id": "maritaro_cover181",
+    "title": "どうせ捨て猫",
+    "titleKana": "どうせすてねこ",
+    "artist": "ハン・ジナ",
+    "artistKana": "はんじな"
+  },
+  {
+    "id": "maritaro_cover182",
+    "title": "もいちど薔薇を",
+    "titleKana": "もいちどばらを",
+    "artist": "ハン・ジナ",
+    "artistKana": "はんじな"
+  },
+  {
+    "id": "maritaro_cover183",
+    "title": "窓",
+    "titleKana": "まど",
+    "artist": "ハン・ジナ",
+    "artistKana": "はんじな"
+  },
+  {
+    "id": "maritaro_cover184",
+    "title": "東京エトランゼ",
+    "titleKana": "とうきょうえとらんぜ",
+    "artist": "ハン・ジナ",
+    "artistKana": "はんじな"
+  },
+  {
+    "id": "maritaro_cover185",
+    "title": "悲しみの向こう側",
+    "titleKana": "かなしみのむこうがわ",
+    "artist": "ハン・ジナ",
+    "artistKana": "はんじな"
+  },
+  {
+    "id": "maritaro_cover186",
+    "title": "扉",
+    "titleKana": "とびら",
+    "artist": "ハン・ジナ",
+    "artistKana": "はんじな"
+  },
+  {
+    "id": "maritaro_cover187",
+    "title": "NEO SUNGLASS",
+    "titleKana": "ねおさんぐらす",
+    "artist": "ピコ太郎",
+    "artistKana": "ぴこたろう"
+  },
+  {
+    "id": "maritaro_cover188",
+    "title": "ペンパイナッポーアッポーペン",
+    "titleKana": "ぺんぱいなっぽーあっぽーぺん",
+    "artist": "ピコ太郎",
+    "artistKana": "ぴこたろう"
+  },
+  {
+    "id": "maritaro_cover189",
+    "title": "雪になる⋯",
+    "titleKana": "ゆきになる",
+    "artist": "ひなたみな",
+    "artistKana": "ひなたみな"
+  },
+  {
+    "id": "maritaro_cover190",
+    "title": "光のトビラ～ある女の詩～",
+    "titleKana": "ひかりのとびらあるおんなのうた",
+    "artist": "ヒロコ",
+    "artistKana": "ひろこ"
+  },
+  {
+    "id": "maritaro_cover191",
+    "title": "UFO",
+    "titleKana": "ゆーふぉー",
+    "artist": "ピンク・レディー",
+    "artistKana": "ぴんくれでぃー"
+  },
+  {
+    "id": "maritaro_cover192",
+    "title": "ウォンデッド〜指名手配〜",
+    "titleKana": "うぉんでっどしめいてはい",
+    "artist": "ピンク・レディー",
+    "artistKana": "ぴんくれでぃー"
+  },
+  {
+    "id": "maritaro_cover193",
+    "title": "カルメン77",
+    "titleKana": "かるめんななじゅうなな",
+    "artist": "ピンク・レディー",
+    "artistKana": "ぴんくれでぃー"
+  },
+  {
+    "id": "maritaro_cover194",
+    "title": "渚のシンドバッド",
+    "titleKana": "なぎさのしんどばっど",
+    "artist": "ピンク・レディー",
+    "artistKana": "ぴんくれでぃー"
+  },
+  {
+    "id": "maritaro_cover195",
+    "title": "6月のジルバ",
+    "titleKana": "ろくがつのじるば",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover196",
+    "title": "SAKE",
+    "titleKana": "さけ",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover197",
+    "title": "グラスの花",
+    "titleKana": "ぐらすのはな",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover198",
+    "title": "哀しみのアアドレス",
+    "titleKana": "かなしみのおあどれす",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover199",
+    "title": "一夜花",
+    "titleKana": "ひとよばな",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover200",
+    "title": "雨音",
+    "titleKana": "あまおと",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover201",
+    "title": "横浜ロンリー",
+    "titleKana": "よこはまろんりー",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover202",
+    "title": "海風",
+    "titleKana": "うみかぜ",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover203",
+    "title": "君すむ街",
+    "titleKana": "きみすむまち",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover204",
+    "title": "幸せかげぼうし",
+    "titleKana": "しあわせかげぼうし",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover205",
+    "title": "酒よおまえは",
+    "titleKana": "さけよおまえは",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover206",
+    "title": "待ちくたびれて",
+    "titleKana": "まちくたびれて",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover207",
+    "title": "冬ヒバリ",
+    "titleKana": "ふゆひばり",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover208",
+    "title": "夕月橋",
+    "titleKana": "ゆうづきばし",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover209",
+    "title": "落葉樹",
+    "titleKana": "らくようじゅ",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover210",
+    "title": "嵐が丘",
+    "titleKana": "あらしがおか",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover211",
+    "title": "涙のピリオド",
+    "titleKana": "なみだのぴりおど",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover212",
+    "title": "蜃気楼",
+    "titleKana": "しんきろう",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover213",
+    "title": "ふるさと川",
+    "titleKana": "ふるさとがわ",
+    "artist": "まつざき幸介",
+    "artistKana": "まつざきこうすけ"
+  },
+  {
+    "id": "maritaro_cover214",
+    "title": "愛の法則",
+    "titleKana": "あいのほうそく",
+    "artist": "マリー・ルウ",
+    "artistKana": "まりーるう"
+  },
+  {
+    "id": "maritaro_cover215",
+    "title": "運命の時計",
+    "titleKana": "うんめいのとけい",
+    "artist": "みずき小夜子",
+    "artistKana": "みずきさよこ"
+  },
+  {
+    "id": "maritaro_cover216",
+    "title": "ブルーローズの愛",
+    "titleKana": "ぶるーろーずのあい",
+    "artist": "みずき小夜子",
+    "artistKana": "みずきさよこ"
+  },
+  {
+    "id": "maritaro_cover217",
+    "title": "愛してもなお",
+    "titleKana": "あいしてもなお",
+    "artist": "モナオ",
+    "artistKana": "もなお"
+  },
+  {
+    "id": "maritaro_cover218",
+    "title": "ダンシング・オールナイト",
+    "titleKana": "だんしんぐおーるないと",
+    "artist": "もんた&ブラザーズ",
+    "artistKana": "もんたあんどぶらざーず"
+  },
+  {
+    "id": "maritaro_cover219",
+    "title": "猫のファド",
+    "titleKana": "ねこのふぁど",
+    "artist": "リンダ・コラソン",
+    "artistKana": "りんだこらそん"
+  },
+  {
+    "id": "maritaro_cover220",
+    "title": "女のサンバ",
+    "titleKana": "おんなのさんば",
+    "artist": "れいか",
+    "artistKana": "れいか"
+  },
+  {
+    "id": "maritaro_cover221",
+    "title": "硝子のシャボン玉",
+    "titleKana": "がらすのしゃぼんだま",
+    "artist": "れいか",
+    "artistKana": "れいか"
+  },
+  {
+    "id": "maritaro_cover222",
+    "title": "とわず語りの数え唄",
+    "titleKana": "とわずがたりのかぞえうた",
+    "artist": "れいか",
+    "artistKana": "れいか"
+  },
+  {
+    "id": "maritaro_cover223",
+    "title": "フレンズ",
+    "titleKana": "ふれんず",
+    "artist": "レベッカ",
+    "artistKana": "れべっか"
+  },
+  {
+    "id": "maritaro_cover224",
+    "title": "ラズベリードリーム",
+    "titleKana": "らずべりーどりーむ",
+    "artist": "レベッカ",
+    "artistKana": "れべっか"
+  },
+  {
+    "id": "maritaro_cover225",
+    "title": "粉雪",
+    "titleKana": "こなゆき",
+    "artist": "レミオロメン",
+    "artistKana": "れみおろめん"
+  },
+  {
+    "id": "maritaro_cover226",
+    "title": "ロビンソン",
+    "titleKana": "ろびんそん",
+    "artist": "スピッツ",
+    "artistKana": "すぴっつ"
+  },
+  {
+    "id": "maritaro_cover227",
+    "title": "側にいて",
+    "titleKana": "そばにいて",
+    "artist": "阿部真央",
+    "artistKana": "あべまお"
+  },
+  {
+    "id": "maritaro_cover228",
+    "title": "二人でお酒を",
+    "titleKana": "ふたりでおさけを",
+    "artist": "梓みちよ",
+    "artistKana": "あずさみちよ"
+  },
+  {
+    "id": "maritaro_cover229",
+    "title": "三日月",
+    "titleKana": "みかづき",
+    "artist": "絢香",
+    "artistKana": "あやか"
+  },
+  {
+    "id": "maritaro_cover230",
+    "title": "みちのく挽歌",
+    "titleKana": "みちのくばんか",
+    "artist": "綾瀬一美",
+    "artistKana": "あやせかずみ"
+  },
+  {
+    "id": "maritaro_cover231",
+    "title": "Body Feels EXIT",
+    "titleKana": "ばでぃふぃーるずえぐじっと",
+    "artist": "安室奈美恵",
+    "artistKana": "あむろなみえ"
+  },
+  {
+    "id": "maritaro_cover232",
+    "title": "CAN YOU CELEBRATE ?",
+    "titleKana": "きゃんゆーせれぶれいと",
+    "artist": "安室奈美恵",
+    "artistKana": "あむろなみえ"
+  },
+  {
+    "id": "maritaro_cover233",
+    "title": "Happiness",
+    "titleKana": "はぴねす",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover234",
+    "title": "Lazy Daisy",
+    "titleKana": "れいじーでいじー",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover235",
+    "title": "エクスタシー",
+    "titleKana": "えくすたしー",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover236",
+    "title": "じれったい",
+    "titleKana": "じれったい",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover237",
+    "title": "プルシアンブルーの肖像",
+    "titleKana": "ぷるしあんぶるーのしょうぞう",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover238",
+    "title": "マスカレード",
+    "titleKana": "ますかれーど",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover239",
+    "title": "ワインレッドの心",
+    "titleKana": "わいんれっどのこころ",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover240",
+    "title": "月に濡れたふたり",
+    "titleKana": "つきにぬれたふたり",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover241",
+    "title": "好きさ",
+    "titleKana": "すきさ",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover242",
+    "title": "真夜中すぎの恋",
+    "titleKana": "まよなかすぎのこい",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover243",
+    "title": "熱視線",
+    "titleKana": "ねっしせん",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover244",
+    "title": "碧い瞳のエリス",
+    "titleKana": "あおいひとみのえりす",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover245",
+    "title": "恋の予感",
+    "titleKana": "こいのよかん",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover246",
+    "title": "Friend",
+    "titleKana": "ふれんど",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover247",
+    "title": "キ・ツ・イ",
+    "titleKana": "きつい",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover248",
+    "title": "メロディー",
+    "titleKana": "めろでぃー",
+    "artist": "安全地帯／玉置浩二",
+    "artistKana": "あんぜんちたいたまきこうじ"
+  },
+  {
+    "id": "maritaro_cover249",
+    "title": "空に刺さった三日月",
+    "titleKana": "そらにささったみかづき",
+    "artist": "安田一葉",
+    "artistKana": "やすだかずは"
+  },
+  {
+    "id": "maritaro_cover250",
+    "title": "答えはひとつ",
+    "titleKana": "こたえはひとつ",
+    "artist": "安藤みゆ",
+    "artistKana": "あんどうみゆ"
+  },
+  {
+    "id": "maritaro_cover251",
+    "title": "CAT'S EYE",
+    "titleKana": "きゃっつあい",
+    "artist": "杏里",
+    "artistKana": "あんり"
+  },
+  {
+    "id": "maritaro_cover252",
+    "title": "オリビアを聴きながら",
+    "titleKana": "おりびあをききながら",
+    "artist": "杏里",
+    "artistKana": "あんり"
+  },
+  {
+    "id": "maritaro_cover253",
+    "title": "悲しみが止まらない",
+    "titleKana": "かなしみがとまらない",
+    "artist": "杏里",
+    "artistKana": "あんり"
+  },
+  {
+    "id": "maritaro_cover254",
+    "title": "少女人形",
+    "titleKana": "しょうじょにんぎょう",
+    "artist": "伊藤つかさ",
+    "artistKana": "いとうつかさ"
+  },
+  {
+    "id": "maritaro_cover255",
+    "title": "MY HEART WILL GO ON",
+    "titleKana": "まいはーとうぃるごーおん",
+    "artist": "伊藤由奈",
+    "artistKana": "いとうゆな"
+  },
+  {
+    "id": "maritaro_cover256",
+    "title": "恋",
+    "titleKana": "こい",
+    "artist": "衣城之内早苗",
+    "artistKana": "じょうのうちさなえ"
+  },
+  {
+    "id": "maritaro_cover257",
+    "title": "となりのトトロ",
+    "titleKana": "となりのととろ",
+    "artist": "井上あずみ",
+    "artistKana": "いのうえあずみ"
+  },
+  {
+    "id": "maritaro_cover258",
+    "title": "リバーサイドホテル",
+    "titleKana": "りばーさいどほてる",
+    "artist": "井上陽水",
+    "artistKana": "いのうえようすい"
+  },
+  {
+    "id": "maritaro_cover259",
+    "title": "ハナミズキ",
+    "titleKana": "はなみずき",
+    "artist": "一青窈",
+    "artistKana": "ひととよう"
+  },
+  {
+    "id": "maritaro_cover260",
+    "title": "涙のリバー",
+    "titleKana": "なみだのりばー",
+    "artist": "一葉",
+    "artistKana": "ひとは"
+  },
+  {
+    "id": "maritaro_cover261",
+    "title": "旅立ちの駅",
+    "titleKana": "たびだちのえき",
+    "artist": "一葉",
+    "artistKana": "ひとは"
+  },
+  {
+    "id": "maritaro_cover262",
+    "title": "クリスマスキャロルの頃には",
+    "titleKana": "くりすますきゃろるのころには",
+    "artist": "稲垣潤一",
+    "artistKana": "いながきじゅんいち"
+  },
+  {
+    "id": "maritaro_cover263",
+    "title": "愛する者よ、死に候え",
+    "titleKana": "あいするものよしにそうらえ",
+    "artist": "陰陽座",
+    "artistKana": "おんみょうざ"
+  },
+  {
+    "id": "maritaro_cover264",
+    "title": "甲賀忍法帖",
+    "titleKana": "こうがにんぽうちょう",
+    "artist": "陰陽座",
+    "artistKana": "おんみょうざ"
+  },
+  {
+    "id": "maritaro_cover265",
+    "title": "Automatic",
+    "titleKana": "おーとまてぃっく",
+    "artist": "宇多田ヒカル",
+    "artistKana": "うただひかる"
+  },
+  {
+    "id": "maritaro_cover266",
+    "title": "Can you keep a secret",
+    "titleKana": "きゃんゆーきーぷあしーくれっと",
+    "artist": "宇多田ヒカル",
+    "artistKana": "うただひかる"
+  },
+  {
+    "id": "maritaro_cover267",
+    "title": "Wait & See 〜リスク〜",
+    "titleKana": "うぇいとあんどしーりすく",
+    "artist": "宇多田ヒカル",
+    "artistKana": "うただひかる"
+  },
+  {
+    "id": "maritaro_cover268",
+    "title": "プリズナーオブラブ",
+    "titleKana": "ぷりずなーおぶらぶ",
+    "artist": "宇多田ヒカル",
+    "artistKana": "うただひかる"
+  },
+  {
+    "id": "maritaro_cover269",
+    "title": "First Love",
+    "titleKana": "ふぁーすとらぶ",
+    "artist": "宇多田ヒカル",
+    "artistKana": "うただひかる"
+  },
+  {
+    "id": "maritaro_cover270",
+    "title": "サザエさん",
+    "titleKana": "さざえさん",
+    "artist": "宇野ゆう子",
+    "artistKana": "うのゆうこ"
+  },
+  {
+    "id": "maritaro_cover271",
+    "title": "ZUTTO",
+    "titleKana": "ずっと",
+    "artist": "永井真理子",
+    "artistKana": "ながいまりこ"
+  },
+  {
+    "id": "maritaro_cover272",
+    "title": "ご唱和ください我の名を!",
+    "titleKana": "ごしょうわくださいわれのなを",
+    "artist": "遠藤正明",
+    "artistKana": "えんどうまさあき"
+  },
+  {
+    "id": "maritaro_cover273",
+    "title": "新宿恋唄",
+    "titleKana": "しんじゅくこいうた",
+    "artist": "遠矢大門",
+    "artistKana": "とおやだいもん"
+  },
+  {
+    "id": "maritaro_cover274",
+    "title": "秘恋抄",
+    "titleKana": "ひれんしょう",
+    "artist": "塩乃華織",
+    "artistKana": "しおのかおり"
+  },
+  {
+    "id": "maritaro_cover275",
+    "title": "愛の奴隷",
+    "titleKana": "あいのどれい",
+    "artist": "奥村チヨ",
+    "artistKana": "おくむらちよ"
+  },
+  {
+    "id": "maritaro_cover276",
+    "title": "ありがとうの花",
+    "titleKana": "ありがとうのはな",
+    "artist": "横山だいすけ 三谷たくみ",
+    "artistKana": "よこやまだいすけみたにたくみ"
+  },
+  {
+    "id": "maritaro_cover277",
+    "title": "Still I Love you",
+    "titleKana": "すてぃるあいらぶゆー",
+    "artist": "欧陽菲菲",
+    "artistKana": "おうようふぃふぃ"
+  },
+  {
+    "id": "maritaro_cover278",
+    "title": "ラヴ・イズ・オヴァー",
+    "titleKana": "らぶいずおゔぁー",
+    "artist": "欧陽菲菲",
+    "artistKana": "おうようふぃふぃ"
+  },
+  {
+    "id": "maritaro_cover279",
+    "title": "雨の御堂筋",
+    "titleKana": "あめのみどうすじ",
+    "artist": "欧陽菲菲",
+    "artistKana": "おうようふぃふぃ"
+  },
+  {
+    "id": "maritaro_cover280",
+    "title": "追憶〜Never Fall InLove",
+    "titleKana": "ついおくねばーふぉーるいんらぶ",
+    "artist": "欧陽菲菲",
+    "artistKana": "おうようふぃふぃ"
+  },
+  {
+    "id": "maritaro_cover281",
+    "title": "はぐれそうな天使",
+    "titleKana": "はぐれそうなてんし",
+    "artist": "岡村孝子",
+    "artistKana": "おかむらたかこ"
+  },
+  {
+    "id": "maritaro_cover282",
+    "title": "夢をあきらめないで",
+    "titleKana": "ゆめをあきらめないで",
+    "artist": "岡村孝子",
+    "artistKana": "おかむらたかこ"
+  },
+  {
+    "id": "maritaro_cover283",
+    "title": "Alone",
+    "titleKana": "あろーん",
+    "artist": "岡本真夜",
+    "artistKana": "おかもとまよ"
+  },
+  {
+    "id": "maritaro_cover284",
+    "title": "雪枕",
+    "titleKana": "ゆきまくら",
+    "artist": "沖田真早美",
+    "artistKana": "おきたまさみ"
+  },
+  {
+    "id": "maritaro_cover285",
+    "title": "ダンシング・ヒーロー",
+    "titleKana": "だんしんぐひーろー",
+    "artist": "荻野目洋子",
+    "artistKana": "おぎのめようこ"
+  },
+  {
+    "id": "maritaro_cover286",
+    "title": "六本木純情派",
+    "titleKana": "ろっぽんぎじゅんじょうは",
+    "artist": "荻野目洋子",
+    "artistKana": "おぎのめようこ"
+  },
+  {
+    "id": "maritaro_cover287",
+    "title": "やるんか東京",
+    "titleKana": "やるんかとうきょう",
+    "artist": "加東竜次",
+    "artistKana": "かとうりゅうじ"
+  },
+  {
+    "id": "maritaro_cover288",
+    "title": "君の詩",
+    "titleKana": "きみのうた",
+    "artist": "加東竜次",
+    "artistKana": "かとうりゅうじ"
+  },
+  {
+    "id": "maritaro_cover289",
+    "title": "月下美人",
+    "titleKana": "げっかびじん",
+    "artist": "加東竜次",
+    "artistKana": "かとうりゅうじ"
+  },
+  {
+    "id": "maritaro_cover290",
+    "title": "北は遥か",
+    "titleKana": "きたははるか",
+    "artist": "加東竜次",
+    "artistKana": "かとうりゅうじ"
+  },
+  {
+    "id": "maritaro_cover291",
+    "title": "よこはまブルース",
+    "titleKana": "よこはまぶるーす",
+    "artist": "加東竜次",
+    "artistKana": "かとうりゅうじ"
+  },
+  {
+    "id": "maritaro_cover292",
+    "title": "商売繁盛コロナに負けるな",
+    "titleKana": "しょうばいはんじょうころなにまけるな",
+    "artist": "加東竜次",
+    "artistKana": "かとうりゅうじ"
+  },
+  {
+    "id": "maritaro_cover293",
+    "title": "ピエロの涙",
+    "titleKana": "ぴえろのなみだ",
+    "artist": "加納歌佳",
+    "artistKana": "かのううたか"
+  },
+  {
+    "id": "maritaro_cover294",
+    "title": "大阪レイニーナイト",
+    "titleKana": "おおさかれいにーないと",
+    "artist": "加納歌佳",
+    "artistKana": "かのううたか"
+  },
+  {
+    "id": "maritaro_cover295",
+    "title": "涙そうそう",
+    "titleKana": "なだそうそう",
+    "artist": "夏川りみ",
+    "artistKana": "なつかわりみ"
+  },
+  {
+    "id": "maritaro_cover296",
+    "title": "ただいま",
+    "titleKana": "ただいま",
+    "artist": "河口恭吾",
+    "artistKana": "かわぐちきょうご"
+  },
+  {
+    "id": "maritaro_cover297",
+    "title": "Glass",
+    "titleKana": "ぐらす",
+    "artist": "河村隆一",
+    "artistKana": "かわむらりゅういち"
+  },
+  {
+    "id": "maritaro_cover298",
+    "title": "十六夜川",
+    "titleKana": "いざよいがわ",
+    "artist": "河嶋けんじ",
+    "artistKana": "かわしまけんじ"
+  },
+  {
+    "id": "maritaro_cover299",
+    "title": "さよなら大好きな人",
+    "titleKana": "さよならだいすきなひと",
+    "artist": "花＊花",
+    "artistKana": "はなはな"
+  },
+  {
+    "id": "maritaro_cover300",
+    "title": "海鳥哀歌",
+    "titleKana": "うみどりあいか",
+    "artist": "花咲ゆき美",
+    "artistKana": "ハナサキユキミ"
+  },
+  {
+    "id": "maritaro_cover301",
+    "title": "冬の蛍",
+    "titleKana": "ふゆのほたる",
+    "artist": "花咲ゆき美",
+    "artistKana": "はなさきゆきみ"
+  },
+  {
+    "id": "maritaro_cover302",
+    "title": "哀しみの訪問者",
+    "titleKana": "かなしみのほうもんしゃ",
+    "artist": "花山ゆか",
+    "artistKana": "はなやまゆか"
+  },
+  {
+    "id": "maritaro_cover303",
+    "title": "I BELIEVE",
+    "titleKana": "あいびりーぶ",
+    "artist": "華原朋美",
+    "artistKana": "かはらともみ"
+  },
+  {
+    "id": "maritaro_cover304",
+    "title": "I'm proud",
+    "titleKana": "あいむぷらうど",
+    "artist": "華原朋美",
+    "artistKana": "かはらともみ"
+  },
+  {
+    "id": "maritaro_cover305",
+    "title": "夢やぶれて-I DREAMED A DREAM",
+    "titleKana": "ゆめやぶれてあいどりーむどあどりーむ",
+    "artist": "華原朋美",
+    "artistKana": "かはらともみ"
+  },
+  {
+    "id": "maritaro_cover306",
+    "title": "長い夜のメモリー",
+    "titleKana": "ながいよるのめもりー",
+    "artist": "外野桜子",
+    "artistKana": "そとのさくらこ"
+  },
+  {
+    "id": "maritaro_cover307",
+    "title": "ハートブレイカー",
+    "titleKana": "はーとぶれいかー",
+    "artist": "葛城ユキ",
+    "artistKana": "かつらぎゆき"
+  },
+  {
+    "id": "maritaro_cover308",
+    "title": "ボヘミアン",
+    "titleKana": "ぼへみあん",
+    "artist": "葛城ユキ",
+    "artistKana": "かつらぎゆき"
+  },
+  {
+    "id": "maritaro_cover309",
+    "title": "夢迷子〜同床異夢〜",
+    "titleKana": "ゆめまいごどうしょういむ",
+    "artist": "叶純子",
+    "artistKana": "かのうじゅんこ"
+  },
+  {
+    "id": "maritaro_cover310",
+    "title": "天河伝説殺人事件",
+    "titleKana": "てんかわでんせつさつじんじけん",
+    "artist": "関口誠人",
+    "artistKana": "せきぐちまこと"
+  },
+  {
+    "id": "maritaro_cover311",
+    "title": "きみの朝",
+    "titleKana": "きみのあさ",
+    "artist": "岸田智史",
+    "artistKana": "きしださとし"
+  },
+  {
+    "id": "maritaro_cover312",
+    "title": "聖母たちのララバイ",
+    "titleKana": "マドンナたちのららばい",
+    "artist": "岩崎宏美",
+    "artistKana": "いわさきひろみ"
+  },
+  {
+    "id": "maritaro_cover313",
+    "title": "タッチ",
+    "titleKana": "たっち",
+    "artist": "岩崎良美",
+    "artistKana": "いわさきよしみ"
+  },
+  {
+    "id": "maritaro_cover314",
+    "title": "夜祭り",
+    "titleKana": "よまつり",
+    "artist": "岩本公水",
+    "artistKana": "いわもとくみ"
+  },
+  {
+    "id": "maritaro_cover315",
+    "title": "TSUGARU",
+    "titleKana": "つがる",
+    "artist": "吉幾三",
+    "artistKana": "よしいくぞう"
+  },
+  {
+    "id": "maritaro_cover316",
+    "title": "オラ東京さ行ぐだ",
+    "titleKana": "おらとうきょうさいぐだ",
+    "artist": "吉幾三",
+    "artistKana": "よしいくぞう"
+  },
+  {
+    "id": "maritaro_cover317",
+    "title": "酒よ",
+    "titleKana": "さけよ",
+    "artist": "吉幾三",
+    "artistKana": "よしいくぞう"
+  },
+  {
+    "id": "maritaro_cover318",
+    "title": "情炎",
+    "titleKana": "じょうえん",
+    "artist": "吉幾三",
+    "artistKana": "よしいくぞう"
+  },
+  {
+    "id": "maritaro_cover319",
+    "title": "ありがとうの唄",
+    "titleKana": "ありがとうのうた",
+    "artist": "吉幾三",
+    "artistKana": "よしいくぞう"
+  },
+  {
+    "id": "maritaro_cover320",
+    "title": "大ちゃん数え唄",
+    "titleKana": "だいちゃんかぞえうた",
+    "artist": "吉田よしみ(天童よしみ)",
+    "artistKana": "よしだよしみてんどうよしみ"
+  },
+  {
+    "id": "maritaro_cover321",
+    "title": "霧の川",
+    "titleKana": "きりのかわ",
+    "artist": "丘みどり",
+    "artistKana": "おかみどり"
+  },
+  {
+    "id": "maritaro_cover322",
+    "title": "異邦人",
+    "titleKana": "いほうじん",
+    "artist": "久保田早紀",
+    "artistKana": "くぼたさき"
+  },
+  {
+    "id": "maritaro_cover323",
+    "title": "2億4千万の瞳",
+    "titleKana": "におくよんせんまんのひとみ",
+    "artist": "郷ひろみ",
+    "artistKana": "ごうひろみ"
+  },
+  {
+    "id": "maritaro_cover324",
+    "title": "お嫁サンバ",
+    "titleKana": "およめさんば",
+    "artist": "郷ひろみ",
+    "artistKana": "ごうひろみ"
+  },
+  {
+    "id": "maritaro_cover325",
+    "title": "だってGIRI GIRI",
+    "titleKana": "だってぎりぎり",
+    "artist": "暁めぐみ",
+    "artistKana": "あかつきめぐみ"
+  },
+  {
+    "id": "maritaro_cover326",
+    "title": "行かないで",
+    "titleKana": "いかないで",
+    "artist": "玉置浩二",
+    "artistKana": "たまきこうじ"
+  },
+  {
+    "id": "maritaro_cover327",
+    "title": "フルール",
+    "titleKana": "ふるーる",
+    "artist": "近藤晃央",
+    "artistKana": "こんどうあきひさ"
+  },
+  {
+    "id": "maritaro_cover328",
+    "title": "ギンギラギンにさりげなく",
+    "titleKana": "ぎんぎらぎんにさりげなく",
+    "artist": "近藤真彦",
+    "artistKana": "こんどうまさひこ"
+  },
+  {
+    "id": "maritaro_cover329",
+    "title": "スニーカーぶる〜す",
+    "titleKana": "すにーかーぶるーす",
+    "artist": "近藤真彦",
+    "artistKana": "こんどうまさひこ"
+  },
+  {
+    "id": "maritaro_cover330",
+    "title": "ブルージーンズメモリー",
+    "titleKana": "ぶるーじーんずめもりー",
+    "artist": "近藤真彦",
+    "artistKana": "こんどうまさひこ"
+  },
+  {
+    "id": "maritaro_cover331",
+    "title": "青春の帰り道",
+    "titleKana": "せいしゅんのかえりみち",
+    "artist": "金村ひろし",
+    "artistKana": "かねむらひろし"
+  },
+  {
+    "id": "maritaro_cover332",
+    "title": "現代東京奇譚",
+    "titleKana": "げんだいとうきょうきたん",
+    "artist": "桑田佳祐",
+    "artistKana": "くわたけいすけ"
+  },
+  {
+    "id": "maritaro_cover333",
+    "title": "真夜中のシャワー",
+    "titleKana": "まよなかのしゃわー",
+    "artist": "桂銀淑",
+    "artistKana": "けいうんすく"
+  },
+  {
+    "id": "maritaro_cover334",
+    "title": "人魚伝説",
+    "titleKana": "にんぎょでんせつ",
+    "artist": "桂銀淑",
+    "artistKana": "けいうんすく"
+  },
+  {
+    "id": "maritaro_cover335",
+    "title": "酔いどれて",
+    "titleKana": "よいどれて",
+    "artist": "桂銀淑",
+    "artistKana": "けいうんすく"
+  },
+  {
+    "id": "maritaro_cover336",
+    "title": "大阪暮色",
+    "titleKana": "おおさかぼしょく",
+    "artist": "桂銀淑",
+    "artistKana": "けいうんすく"
+  },
+  {
+    "id": "maritaro_cover337",
+    "title": "葉桜",
+    "titleKana": "はざくら",
+    "artist": "桂銀淑",
+    "artistKana": "けいうんすく"
+  },
+  {
+    "id": "maritaro_cover338",
+    "title": "Tokyo 見返り美人",
+    "titleKana": "とうきょうみかえりびじん",
+    "artist": "研ナオコ",
+    "artistKana": "けんなおこ"
+  },
+  {
+    "id": "maritaro_cover339",
+    "title": "ワダツミの木",
+    "titleKana": "わだつみのき",
+    "artist": "元ちとせ",
+    "artistKana": "はじめちとせ"
+  },
+  {
+    "id": "maritaro_cover340",
+    "title": "冬の扉",
+    "titleKana": "ふゆのとびら",
+    "artist": "原大輔",
+    "artistKana": "はらだいすけ"
+  },
+  {
+    "id": "maritaro_cover341",
+    "title": "心・・・遼遠",
+    "titleKana": "こころりょうえん",
+    "artist": "原田こうじ",
+    "artistKana": "はらだこうじ"
+  },
+  {
+    "id": "maritaro_cover342",
+    "title": "女・・・そして女",
+    "titleKana": "おんなそしておんな",
+    "artist": "原田ゆかり",
+    "artistKana": "原田ゆかり"
+  },
+  {
+    "id": "maritaro_cover343",
+    "title": "YOKOHAMA〜横浜〜 原田康司 作詞作曲：円谷弘之",
+    "titleKana": "よこはまよこはまはらだこうじさくしさくきょくつむらやひろゆき",
+    "artist": "原田康司",
+    "artistKana": "はらだこうじ"
+  },
+  {
+    "id": "maritaro_cover344",
+    "title": "時をかける少女",
+    "titleKana": "ときをかけるしょうじょ",
+    "artist": "原田知世",
+    "artistKana": "はらだともよ"
+  },
+  {
+    "id": "maritaro_cover345",
+    "title": "秋月の女",
+    "titleKana": "あきづきのおんな",
+    "artist": "原田悠里",
+    "artistKana": "はらだゆり"
+  },
+  {
+    "id": "maritaro_cover346",
+    "title": "パンク蛹化の女",
+    "titleKana": "ぱんくむしが化のおんな",
+    "artist": "戸川純",
+    "artistKana": "とがわじゅん"
+  },
+  {
+    "id": "maritaro_cover347",
+    "title": "愛はさりげなく",
+    "titleKana": "あいはさりげなく",
+    "artist": "五十川ゆき",
+    "artistKana": "いそがわゆき"
+  },
+  {
+    "id": "maritaro_cover348",
+    "title": "焔の酒",
+    "titleKana": "ほのおのさけ",
+    "artist": "五十川ゆき",
+    "artistKana": "いそがわゆき"
+  },
+  {
+    "id": "maritaro_cover349",
+    "title": "蛍火挽歌〜令和〜",
+    "titleKana": "ほたるびばんかれいわ",
+    "artist": "五十川ゆき",
+    "artistKana": "いそがわゆき"
+  },
+  {
+    "id": "maritaro_cover350",
+    "title": "飛べない鳥じゃあるまいし",
+    "titleKana": "とべないとりじゃあるまいし",
+    "artist": "五十川ゆき",
+    "artistKana": "いそがわゆき"
+  },
+  {
+    "id": "maritaro_cover351",
+    "title": "山河",
+    "titleKana": "さんが",
+    "artist": "五木ひろし",
+    "artistKana": "いつきひろし"
+  },
+  {
+    "id": "maritaro_cover352",
+    "title": "居酒屋",
+    "titleKana": "いざかや",
+    "artist": "五木ひろし&木の実ナナ",
+    "artistKana": "いつきひろしあんどきのみなな"
+  },
+  {
+    "id": "maritaro_cover353",
+    "title": "恋人よ",
+    "titleKana": "こいびとよ",
+    "artist": "五輪真弓",
+    "artistKana": "いつわまゆみ"
+  },
+  {
+    "id": "maritaro_cover354",
+    "title": "肘川あらし",
+    "titleKana": "ひじかわあらし",
+    "artist": "伍代夏子",
+    "artistKana": "ごだいなつこ"
+  },
+  {
+    "id": "maritaro_cover355",
+    "title": "愛のうた",
+    "titleKana": "あいのうた",
+    "artist": "倖田來未",
+    "artistKana": "こうだくみ"
+  },
+  {
+    "id": "maritaro_cover356",
+    "title": "Blue Rose",
+    "titleKana": "ぶるーろーず",
+    "artist": "工藤静香",
+    "artistKana": "くどうしずか"
+  },
+  {
+    "id": "maritaro_cover357",
+    "title": "Blue Velvet",
+    "titleKana": "ぶるーべるべっと",
+    "artist": "工藤静香",
+    "artistKana": "くどうしずか"
+  },
+  {
+    "id": "maritaro_cover358",
+    "title": "Jaguar Line",
+    "titleKana": "じゃがーらいん",
+    "artist": "工藤静香",
+    "artistKana": "くどうしずか"
+  },
+  {
+    "id": "maritaro_cover359",
+    "title": "黄砂に吹かれて",
+    "titleKana": "こうさにふかれて",
+    "artist": "工藤静香",
+    "artistKana": "くどうしずか"
+  },
+  {
+    "id": "maritaro_cover360",
+    "title": "嵐の素顔",
+    "titleKana": "あらしのすがお",
+    "artist": "工藤静香",
+    "artistKana": "くどうしずか"
+  },
+  {
+    "id": "maritaro_cover361",
+    "title": "恋一夜",
+    "titleKana": "こいいちよ",
+    "artist": "工藤静香",
+    "artistKana": "くどうしずか"
+  },
+  {
+    "id": "maritaro_cover362",
+    "title": "慟哭",
+    "titleKana": "どうこく",
+    "artist": "工藤静香",
+    "artistKana": "くどうしずか"
+  },
+  {
+    "id": "maritaro_cover363",
+    "title": "Promise",
+    "titleKana": "ぷろみす",
+    "artist": "広瀬香美",
+    "artistKana": "ひろせこうみ"
+  },
+  {
+    "id": "maritaro_cover364",
+    "title": "もしも奇跡が",
+    "titleKana": "もしもきせきが",
+    "artist": "恒樹",
+    "artistKana": "こうき"
+  },
+  {
+    "id": "maritaro_cover365",
+    "title": "すき",
+    "titleKana": "すき",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover366",
+    "title": "そぞろ雨",
+    "titleKana": "そぞろあめ",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover367",
+    "title": "一夜宿",
+    "titleKana": "ひとよやど",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover368",
+    "title": "宇治川哀歌",
+    "titleKana": "うじがわあいか",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover369",
+    "title": "鴎の願い",
+    "titleKana": "かもめのねがい",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover370",
+    "title": "人形",
+    "titleKana": "にんぎょう",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover371",
+    "title": "早稲田通り",
+    "titleKana": "わせだどおり",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover372",
+    "title": "氷雪の海",
+    "titleKana": "ひょうせつのうみ",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover373",
+    "title": "無言坂",
+    "titleKana": "むごんざか",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover374",
+    "title": "志乃は心の港なのさ",
+    "titleKana": "しのはこころのみとなのさ",
+    "artist": "香西かおり",
+    "artistKana": "こうざいかおり"
+  },
+  {
+    "id": "maritaro_cover375",
+    "title": "for you ・・・",
+    "titleKana": "ふぉーゆー",
+    "artist": "高橋真梨子",
+    "artistKana": "たかはしまりこ"
+  },
+  {
+    "id": "maritaro_cover376",
+    "title": "はがゆい唇",
+    "titleKana": "はがゆいくちびる",
+    "artist": "高橋真梨子",
+    "artistKana": "たかはしまりこ"
+  },
+  {
+    "id": "maritaro_cover377",
+    "title": "桃色吐息",
+    "titleKana": "ももいろといき",
+    "artist": "高橋真梨子",
+    "artistKana": "たかはしまりこ"
+  },
+  {
+    "id": "maritaro_cover378",
+    "title": "魂のルフラン",
+    "titleKana": "たましいのるふらん",
+    "artist": "高橋洋子",
+    "artistKana": "たかはしようこ"
+  },
+  {
+    "id": "maritaro_cover379",
+    "title": "残酷な天使のテーゼ",
+    "titleKana": "ざんこくなてんしのてーぜ",
+    "artist": "高橋洋子",
+    "artistKana": "たかはしようこ"
+  },
+  {
+    "id": "maritaro_cover380",
+    "title": "ダンスはうまく踊れない",
+    "titleKana": "だんすはうまくおどれない",
+    "artist": "高樹澪",
+    "artistKana": "たかきみお"
+  },
+  {
+    "id": "maritaro_cover381",
+    "title": "そんなヒロシに騙されて",
+    "titleKana": "そんなひろしにだまされて",
+    "artist": "高田みづえ",
+    "artistKana": "たかだみづえ"
+  },
+  {
+    "id": "maritaro_cover382",
+    "title": "私はピアノ",
+    "titleKana": "わたしはぴあの",
+    "artist": "高田みづえ",
+    "artistKana": "たかだみづえ"
+  },
+  {
+    "id": "maritaro_cover383",
+    "title": "硝子坂",
+    "titleKana": "がらすざか",
+    "artist": "高田みづえ",
+    "artistKana": "たかだみづえ"
+  },
+  {
+    "id": "maritaro_cover384",
+    "title": "クリスタルグラス",
+    "titleKana": "くりすたるぐらす",
+    "artist": "黒川直美",
+    "artistKana": "くろかわなおみ"
+  },
+  {
+    "id": "maritaro_cover385",
+    "title": "天の川絶唱",
+    "titleKana": "あまのがわぜっしょう",
+    "artist": "黒木梨花",
+    "artistKana": "くろきりか"
+  },
+  {
+    "id": "maritaro_cover386",
+    "title": "まつぽいよ",
+    "titleKana": "まつぽいよ",
+    "artist": "最上川司",
+    "artistKana": "もがみがわつかさ"
+  },
+  {
+    "id": "maritaro_cover387",
+    "title": "望郷じょんから",
+    "titleKana": "ぼうきょうじょんから",
+    "artist": "細川たかし",
+    "artistKana": "ほそかわたかし"
+  },
+  {
+    "id": "maritaro_cover388",
+    "title": "北酒場",
+    "titleKana": "きたさかば",
+    "artist": "細川たかし",
+    "artistKana": "ほそかわたかし"
+  },
+  {
+    "id": "maritaro_cover389",
+    "title": "アジアの海賊",
+    "titleKana": "あじあのかいぞく",
+    "artist": "坂本冬美",
+    "artistKana": "さかもとふゆみ"
+  },
+  {
+    "id": "maritaro_cover390",
+    "title": "ブッダのように私は死んだ",
+    "titleKana": "ぶっだのようにわたしはしんだ",
+    "artist": "坂本冬美",
+    "artistKana": "さかもとふゆみ"
+  },
+  {
+    "id": "maritaro_cover391",
+    "title": "火の国の女",
+    "titleKana": "ひのくにのおんな",
+    "artist": "坂本冬美",
+    "artistKana": "さかもとふゆみ"
+  },
+  {
+    "id": "maritaro_cover392",
+    "title": "祝い酒",
+    "titleKana": "いわいざけ",
+    "artist": "坂本冬美",
+    "artistKana": "さかもとふゆみ"
+  },
+  {
+    "id": "maritaro_cover393",
+    "title": "夜桜お七",
+    "titleKana": "よざくらおしち",
+    "artist": "坂本冬美",
+    "artistKana": "さかもとふゆみ"
+  },
+  {
+    "id": "maritaro_cover394",
+    "title": "恋は火の舞剣の舞",
+    "titleKana": "こいはひのまいつるぎのまい",
+    "artist": "坂本冬美",
+    "artistKana": "さかもとふゆみ"
+  },
+  {
+    "id": "maritaro_cover395",
+    "title": "また君に恋してる",
+    "titleKana": "またきみにこいしてる",
+    "artist": "坂本冬美",
+    "artistKana": "さかもとふゆみ"
+  },
+  {
+    "id": "maritaro_cover396",
+    "title": "夜叉海峡",
+    "titleKana": "やしゃかいきょう",
+    "artist": "坂本冬美",
+    "artistKana": "さかもとふゆみ"
+  },
+  {
+    "id": "maritaro_cover397",
+    "title": "街の灯り",
+    "titleKana": "まちのあかり",
+    "artist": "堺正章",
+    "artistKana": "さかいまさあき"
+  },
+  {
+    "id": "maritaro_cover398",
+    "title": "夏のお嬢さん",
+    "titleKana": "なつのおじょうさん",
+    "artist": "榊原郁恵",
+    "artistKana": "さかきばらいくえ"
+  },
+  {
+    "id": "maritaro_cover399",
+    "title": "ずっと愛してる",
+    "titleKana": "ずっとあいしてる",
+    "artist": "崎島じゅん",
+    "artistKana": "さきしまじゅん"
+  },
+  {
+    "id": "maritaro_cover400",
+    "title": "海宿",
+    "titleKana": "うみやど",
+    "artist": "桜井くみ子",
+    "artistKana": "さくらいくみこ"
+  },
+  {
+    "id": "maritaro_cover401",
+    "title": "EXCITE",
+    "titleKana": "えくさいと",
+    "artist": "三浦大知",
+    "artistKana": "みうらだいち"
+  },
+  {
+    "id": "maritaro_cover402",
+    "title": "北海港節",
+    "titleKana": "ほっかいみなとぶし",
+    "artist": "三山ひろし",
+    "artistKana": "みやまひろし"
+  },
+  {
+    "id": "maritaro_cover403",
+    "title": "情女",
+    "titleKana": "じょうじょ",
+    "artist": "三上静",
+    "artistKana": "みかみしずか"
+  },
+  {
+    "id": "maritaro_cover404",
+    "title": "花火",
+    "titleKana": "ハナビ",
+    "artist": "三代目J Soul Brothers",
+    "artistKana": "さんだいめじぇいそうるぶらざーず"
+  },
+  {
+    "id": "maritaro_cover405",
+    "title": "黄昏に抱かれて",
+    "titleKana": "たそがれにだかれて",
+    "artist": "三木ゆかり",
+    "artistKana": "みきゆかり"
+  },
+  {
+    "id": "maritaro_cover406",
+    "title": "紅の雨",
+    "titleKana": "くれないのあめ",
+    "artist": "三木ゆかり MARIKO友人",
+    "artistKana": "みきゆかりまりこゆうじん"
+  },
+  {
+    "id": "maritaro_cover407",
+    "title": "届かぬ想い",
+    "titleKana": "とどかぬおもい",
+    "artist": "三木ゆかり",
+    "artistKana": "みきゆかり"
+  },
+  {
+    "id": "maritaro_cover408",
+    "title": "赤道小町ドキッ",
+    "titleKana": "せきどうこまちどきっ",
+    "artist": "山下久美子",
+    "artistKana": "やましたくみこ"
+  },
+  {
+    "id": "maritaro_cover409",
+    "title": "クリスマス・イブ",
+    "titleKana": "くりすますいぶ",
+    "artist": "山下達郎",
+    "artistKana": "やましたたつろう"
+  },
+  {
+    "id": "maritaro_cover410",
+    "title": "月の砂時計",
+    "titleKana": "つきのすなどけい",
+    "artist": "山口かおる",
+    "artistKana": "やまぐちかおる"
+  },
+  {
+    "id": "maritaro_cover411",
+    "title": "三井の晩鐘",
+    "titleKana": "みいのばんしょう",
+    "artist": "山口ひろみ",
+    "artistKana": "やまぐちひろみ"
+  },
+  {
+    "id": "maritaro_cover412",
+    "title": "ありがとうあなた",
+    "titleKana": "ありがとうあなた",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover413",
+    "title": "いい日旅立ち",
+    "titleKana": "いいひたびだち",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover414",
+    "title": "イミテーション・ゴールド",
+    "titleKana": "いみてーしょんごーるど",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover415",
+    "title": "プレイバックpartⅡ",
+    "titleKana": "ぷれいばっくぱーとつー",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover416",
+    "title": "マンジュシャカ",
+    "titleKana": "まんじゅしゃか",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover417",
+    "title": "ロックンロール・ウィドウ",
+    "titleKana": "ろっくんろーるうぃどう",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover418",
+    "title": "秋桜",
+    "titleKana": "こすもす",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover419",
+    "title": "絶体絶命",
+    "titleKana": "ぜったいぜつめい",
+    "artist": "山口百恵",
+    "artistKana": "やまぐchももえ"
+  },
+  {
+    "id": "maritaro_cover420",
+    "title": "夢先案内人",
+    "titleKana": "ゆめさきあんないにん",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover421",
+    "title": "曼珠沙華",
+    "titleKana": "まんじゅしゃか",
+    "artist": "山口百恵",
+    "artistKana": "やまぐちももえ"
+  },
+  {
+    "id": "maritaro_cover422",
+    "title": "海峡浪漫",
+    "titleKana": "かいきょうろまん",
+    "artist": "山内惠介",
+    "artistKana": "やまうちけいすけ"
+  },
+  {
+    "id": "maritaro_cover423",
+    "title": "どうにもとまらない",
+    "titleKana": "どうにもとまらない",
+    "artist": "山本リンダ",
+    "artistKana": "やまもとりんだ"
+  },
+  {
+    "id": "maritaro_cover424",
+    "title": "狙いうち",
+    "titleKana": "ねらいうち",
+    "artist": "山本リンダ",
+    "artistKana": "やまもとりんだ"
+  },
+  {
+    "id": "maritaro_cover425",
+    "title": "みちのくひとり旅",
+    "titleKana": "みちのくひとりたび",
+    "artist": "山本譲二",
+    "artistKana": "やまもとじょうじ"
+  },
+  {
+    "id": "maritaro_cover426",
+    "title": "北鴎",
+    "titleKana": "きたかもめ",
+    "artist": "山本智子",
+    "artistKana": "やまもとともこ"
+  },
+  {
+    "id": "maritaro_cover427",
+    "title": "過去",
+    "titleKana": "かこ",
+    "artist": "山本和恵",
+    "artistKana": "やまもとかずえ"
+  },
+  {
+    "id": "maritaro_cover428",
+    "title": "ノクターン",
+    "titleKana": "のくたーん",
+    "artist": "市川由紀乃",
+    "artistKana": "いちかわゆきの"
+  },
+  {
+    "id": "maritaro_cover429",
+    "title": "雪恋華",
+    "titleKana": "ゆきれんか",
+    "artist": "市川由紀乃",
+    "artistKana": "いちかわゆきの"
+  },
+  {
+    "id": "maritaro_cover430",
+    "title": "うちあけ話",
+    "titleKana": "うちあけばなし",
+    "artist": "寺本圭佑",
+    "artistKana": "てらもとけいすけ"
+  },
+  {
+    "id": "maritaro_cover431",
+    "title": "フラジール",
+    "titleKana": "ふらじーる",
+    "artist": "持田香織",
+    "artistKana": "もちだかおり"
+  },
+  {
+    "id": "maritaro_cover432",
+    "title": "あずさ2号",
+    "titleKana": "あずさにごう",
+    "artist": "狩人",
+    "artistKana": "かりうど"
+  },
+  {
+    "id": "maritaro_cover433",
+    "title": "碧いうさぎ",
+    "titleKana": "あおいうさぎ",
+    "artist": "酒井法子",
+    "artistKana": "さかいのりこ"
+  },
+  {
+    "id": "maritaro_cover434",
+    "title": "流氷夜噺し",
+    "titleKana": "りゅうひょうよばなし",
+    "artist": "秋吉真実",
+    "artistKana": "あきよしまみ"
+  },
+  {
+    "id": "maritaro_cover435",
+    "title": "ひとりごと",
+    "titleKana": "ひとりごと",
+    "artist": "秋元順",
+    "artistKana": "あきもとじゅん"
+  },
+  {
+    "id": "maritaro_cover436",
+    "title": "ROSE",
+    "titleKana": "ろーず",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover437",
+    "title": "その花は⋯～変わらぬ愛～",
+    "titleKana": "そのはなはかわらぬあい",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover438",
+    "title": "ティ・アモ〜風が吹いて〜",
+    "titleKana": "てぃあもかぜがふいて",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover439",
+    "title": "マディソン郡の恋",
+    "titleKana": "までぃそんぐんのこい",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover440",
+    "title": "メリーゴーランド～涙の贈りもの～",
+    "titleKana": "めりーごーらんどなみだのおくりもの",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover441",
+    "title": "ルージュの蝶々",
+    "titleKana": "るーじゅのちょうちょう",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover442",
+    "title": "哀しみのコンチェルト",
+    "titleKana": "かなしみのこんちぇると",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover443",
+    "title": "愛鍵",
+    "titleKana": "あいかぎ",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover444",
+    "title": "一杯のジュテーム",
+    "titleKana": "いっぱいのじゅてーむ",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover445",
+    "title": "引き潮",
+    "titleKana": "ひきしお",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover446",
+    "title": "雨の旅人",
+    "titleKana": "あめのたびびと",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover447",
+    "title": "希望の枯葉",
+    "titleKana": "きぼうのかれは",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover448",
+    "title": "夢のつづきを・・・",
+    "titleKana": "ゆめのつづきを",
+    "artist": "秋元順子",
+    "artistKana": "あきもとじゅんこ"
+  },
+  {
+    "id": "maritaro_cover449",
+    "title": "千の風になって",
+    "titleKana": "せんのかぜになって",
+    "artist": "秋川雅史",
+    "artistKana": "あきかわまさふみ"
+  },
+  {
+    "id": "maritaro_cover450",
+    "title": "デビルマンのうた",
+    "titleKana": "でびるまんのうた",
+    "artist": "十田敬三、ボーカル・ショップ",
+    "artistKana": "とだけいぞうぼーかるしょっぷ"
+  },
+  {
+    "id": "maritaro_cover451",
+    "title": "ふしぎなメルモ",
+    "titleKana": "ふしぎなめるも",
+    "artist": "出原千花子、ヤング・フレッシュ",
+    "artistKana": "いずはらちかこやんぐふれっしゅ"
+  },
+  {
+    "id": "maritaro_cover452",
+    "title": "死んだように眠りたい",
+    "titleKana": "しんだようにねむりたい",
+    "artist": "春菜美保",
+    "artistKana": "はるなみほ"
+  },
+  {
+    "id": "maritaro_cover453",
+    "title": "オモニ〜母へ〜",
+    "titleKana": "おもにははへ",
+    "artist": "小金沢昇司",
+    "artistKana": "こがねざわしょうじ"
+  },
+  {
+    "id": "maritaro_cover454",
+    "title": "願・一条戻り橋",
+    "titleKana": "ねがいいちじょうもどりばし",
+    "artist": "小金沢昇司",
+    "artistKana": "こがねざわしょうじ"
+  },
+  {
+    "id": "maritaro_cover455",
+    "title": "神楽坂",
+    "titleKana": "かぐらざか",
+    "artist": "小金沢昇司",
+    "artistKana": "こがねざわしょうじ"
+  },
+  {
+    "id": "maritaro_cover456",
+    "title": "あなたに会えてよかった",
+    "titleKana": "あなたにあえてよかった",
+    "artist": "小泉今日子",
+    "artistKana": "こいずみきょうこ"
+  },
+  {
+    "id": "maritaro_cover457",
+    "title": "なんてったってアイドル",
+    "titleKana": "なんてったってあいどる",
+    "artist": "小泉今日子",
+    "artistKana": "こいずみきょうこ"
+  },
+  {
+    "id": "maritaro_cover458",
+    "title": "学園天国",
+    "titleKana": "がくえんてんごく",
+    "artist": "小泉今日子",
+    "artistKana": "こいずみきょうこ"
+  },
+  {
+    "id": "maritaro_cover459",
+    "title": "渚のはいから人魚",
+    "titleKana": "なぎさのはいからにんぎょ",
+    "artist": "小泉今日子",
+    "artistKana": "こいずみきょうこ"
+  },
+  {
+    "id": "maritaro_cover460",
+    "title": "大和撫子七変化",
+    "titleKana": "やまとなでしこしちへんげ",
+    "artist": "小泉今日子",
+    "artistKana": "こいずみきょうこ"
+  },
+  {
+    "id": "maritaro_cover461",
+    "title": "木枯らしに抱かれて",
+    "titleKana": "こがらしにだかれて",
+    "artist": "小泉今日子",
+    "artistKana": "こいずみきょうこ"
+  },
+  {
+    "id": "maritaro_cover462",
+    "title": "嘆きの雪",
+    "titleKana": "なげきのゆき",
+    "artist": "小谷美紗子",
+    "artistKana": "おだにみさこ"
+  },
+  {
+    "id": "maritaro_cover463",
+    "title": "SAKURA CAFEにて",
+    "titleKana": "さくらかふぇにて",
+    "artist": "小田純平",
+    "artistKana": "おだじゅんぺい"
+  },
+  {
+    "id": "maritaro_cover464",
+    "title": "ほかされて",
+    "titleKana": "ほかされて",
+    "artist": "小田純平",
+    "artistKana": "おだじゅんぺい"
+  },
+  {
+    "id": "maritaro_cover465",
+    "title": "影唄",
+    "titleKana": "かげうた",
+    "artist": "小田純平",
+    "artistKana": "おだじゅんぺい"
+  },
+  {
+    "id": "maritaro_cover466",
+    "title": "紅い川",
+    "titleKana": "あかいかわ",
+    "artist": "小田純平",
+    "artistKana": "おだじゅんぺい"
+  },
+  {
+    "id": "maritaro_cover467",
+    "title": "砂時計",
+    "titleKana": "すなどけい",
+    "artist": "小田純平",
+    "artistKana": "おだじゅんぺい"
+  },
+  {
+    "id": "maritaro_cover468",
+    "title": "落椿",
+    "titleKana": "おちつばき",
+    "artist": "小田純平",
+    "artistKana": "おだじゅんぺい"
+  },
+  {
+    "id": "maritaro_cover469",
+    "title": "恋月夜",
+    "titleKana": "こいづきよ",
+    "artist": "小田純平",
+    "artistKana": "おだじゅんぺい"
+  },
+  {
+    "id": "maritaro_cover470",
+    "title": "夢のてっぺん",
+    "titleKana": "ゆめのてっぺん",
+    "artist": "小田純平",
+    "artistKana": "おだじゅんぺい"
+  },
+  {
+    "id": "maritaro_cover471",
+    "title": "You're the Only",
+    "titleKana": "ゆあじおんりー",
+    "artist": "小野正利",
+    "artistKana": "おのまさとし"
+  },
+  {
+    "id": "maritaro_cover472",
+    "title": "声・ロマン",
+    "titleKana": "こえろまん",
+    "artist": "小野正利",
+    "artistKana": "おのまさとし"
+  },
+  {
+    "id": "maritaro_cover473",
+    "title": "お久しぶりね",
+    "titleKana": "おひさしぶりね",
+    "artist": "小柳ミル子",
+    "artistKana": "こやなぎみるこ"
+  },
+  {
+    "id": "maritaro_cover474",
+    "title": "瀬戸の花嫁",
+    "titleKana": "せとのはなよめ",
+    "artist": "小柳ルミ子",
+    "artistKana": "こやなぎるみこ"
+  },
+  {
+    "id": "maritaro_cover475",
+    "title": "星の砂",
+    "titleKana": "ほしのすな",
+    "artist": "小柳ルミ子",
+    "artistKana": "こやなぎるみこ"
+  },
+  {
+    "id": "maritaro_cover476",
+    "title": "いそしぎ",
+    "titleKana": "いそしぎ",
+    "artist": "小林幸子",
+    "artistKana": "こばやしさちこ"
+  },
+  {
+    "id": "maritaro_cover477",
+    "title": "おもいで酒",
+    "titleKana": "おもいでざけ",
+    "artist": "小林幸子",
+    "artistKana": "こばやしさちこ"
+  },
+  {
+    "id": "maritaro_cover478",
+    "title": "恋螢",
+    "titleKana": "こいぼたる",
+    "artist": "小林幸子",
+    "artistKana": "こばやしさちこ"
+  },
+  {
+    "id": "maritaro_cover479",
+    "title": "雨音はショパンの調べ",
+    "titleKana": "あまおとはしょぱんのしらべ",
+    "artist": "小林麻美",
+    "artistKana": "こばやしまみ"
+  },
+  {
+    "id": "maritaro_cover480",
+    "title": "恋におちて-Fall in love-",
+    "titleKana": "こいにおちてふぉーるいんらぶ",
+    "artist": "小林明子",
+    "artistKana": "こばやしあきこ"
+  },
+  {
+    "id": "maritaro_cover481",
+    "title": "いつまでもそばにいて",
+    "titleKana": "いつまでもそばにいて",
+    "artist": "小檜山恵",
+    "artistKana": "こひやまめぐみ"
+  },
+  {
+    "id": "maritaro_cover482",
+    "title": "ユメヲダキシメテ",
+    "titleKana": "ゆめをだきしめて",
+    "artist": "小檜山恵",
+    "artistKana": "こひやまめぐみ"
+  },
+  {
+    "id": "maritaro_cover483",
+    "title": "仮面舞踏会",
+    "titleKana": "かめんぶとうかい",
+    "artist": "少年隊",
+    "artistKana": "しょうねんたい"
+  },
+  {
+    "id": "maritaro_cover484",
+    "title": "あなたの水中花",
+    "titleKana": "あなたのすいちゅうか",
+    "artist": "松原のぶえ",
+    "artistKana": "まつばらのぶえ"
+  },
+  {
+    "id": "maritaro_cover485",
+    "title": "おんなの出船",
+    "titleKana": "おんなのでふね",
+    "artist": "松原のぶえ",
+    "artistKana": "まつばらのぶえ"
+  },
+  {
+    "id": "maritaro_cover486",
+    "title": "下北半島哀愁路",
+    "titleKana": "しもきたはんとうあいしゅうじ",
+    "artist": "松原のぶえ",
+    "artistKana": "まつばらのぶえ"
+  },
+  {
+    "id": "maritaro_cover487",
+    "title": "合掌街道",
+    "titleKana": "がっしょうかいどう",
+    "artist": "松原のぶえ",
+    "artistKana": "まつばらのぶえ"
+  },
+  {
+    "id": "maritaro_cover488",
+    "title": "木蓮の涙",
+    "titleKana": "もくれんのなみだ",
+    "artist": "松原健之",
+    "artistKana": "まつばらたけし"
+  },
+  {
+    "id": "maritaro_cover489",
+    "title": "愛のメモリー",
+    "titleKana": "あいのめもりー",
+    "artist": "松崎しげる",
+    "artistKana": "まつざきしげる"
+  },
+  {
+    "id": "maritaro_cover490",
+    "title": "季節の中で",
+    "titleKana": "きせつのなかで",
+    "artist": "松山千春",
+    "artistKana": "まつやまちはる"
+  },
+  {
+    "id": "maritaro_cover491",
+    "title": "男の海",
+    "titleKana": "おとこのうみ",
+    "artist": "松川アキラ",
+    "artistKana": "まつかわあきら"
+  },
+  {
+    "id": "maritaro_cover492",
+    "title": "帰ってこいよ",
+    "titleKana": "かえってこいよ",
+    "artist": "松村和子",
+    "artistKana": "まつむらかずこ"
+  },
+  {
+    "id": "maritaro_cover493",
+    "title": "Rock'n Rouge",
+    "titleKana": "ろっくんるーじゅ",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover494",
+    "title": "SWEET MEMORIES",
+    "titleKana": "すいーとめもりーず",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover495",
+    "title": "あなたに逢いたくて〜Missing You〜",
+    "titleKana": "あなたにあいたくてみっしんぐゆー",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover496",
+    "title": "ハートのイアリング",
+    "titleKana": "はーとのいありんぐ",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover497",
+    "title": "夏の扉",
+    "titleKana": "なつのとびら",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover498",
+    "title": "渚のバルコニー",
+    "titleKana": "なぎさのばるこにー",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover499",
+    "title": "青い珊瑚礁",
+    "titleKana": "あおいさんごしょう",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover500",
+    "title": "赤いスイートピー",
+    "titleKana": "あかいすいーとぴー",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover501",
+    "title": "天使のウインク",
+    "titleKana": "てんしのういんく",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover502",
+    "title": "瞳はダイアモンド",
+    "titleKana": "ひとみはだいあもんど",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover503",
+    "title": "白いパラソル",
+    "titleKana": "しろいぱらそる",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover504",
+    "title": "風は秋色",
+    "titleKana": "かぜはあきいろ",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover505",
+    "title": "風立ちぬ",
+    "titleKana": "かぜたちぬ",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover506",
+    "title": "抱いて・・・",
+    "titleKana": "だいて",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover507",
+    "title": "薔薇のように咲いて桜のように散って",
+    "titleKana": "ばらのようにさいてさくらのようにちって",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover508",
+    "title": "秘密の花園",
+    "titleKana": "ひみつのはなぞの",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover509",
+    "title": "裸足 of 季節",
+    "titleKana": "はだしのきせつ",
+    "artist": "松田聖子",
+    "artistKana": "まつだせいこ"
+  },
+  {
+    "id": "maritaro_cover510",
+    "title": "あの日に帰りたい",
+    "titleKana": "あのひにかえりたい",
+    "artist": "松任谷由実",
+    "artistKana": "まつとうやゆみ"
+  },
+  {
+    "id": "maritaro_cover511",
+    "title": "ダンデライオン〜遅咲きのたんぽぽ",
+    "titleKana": "だんでらいおんおそざきのたんぽぽ",
+    "artist": "松任谷由実",
+    "artistKana": "まつとうやゆみ"
+  },
+  {
+    "id": "maritaro_cover512",
+    "title": "やさしさに包まれたなら",
+    "titleKana": "やさしさにつつまれたなら",
+    "artist": "松任谷由実",
+    "artistKana": "まつとうやゆみ"
+  },
+  {
+    "id": "maritaro_cover513",
+    "title": "守ってあげたい",
+    "titleKana": "まもってあげたい",
+    "artist": "松任谷由実",
+    "artistKana": "まつとうやゆみ"
+  },
+  {
+    "id": "maritaro_cover514",
+    "title": "春よ、来い",
+    "titleKana": "はるよこい",
+    "artist": "松任谷由実",
+    "artistKana": "まつとうやゆみ"
+  },
+  {
+    "id": "maritaro_cover515",
+    "title": "真夏の夜の夢",
+    "titleKana": "まなつのよのゆめ",
+    "artist": "松任谷由実",
+    "artistKana": "まつとうやゆみ"
+  },
+  {
+    "id": "maritaro_cover516",
+    "title": "恋人がサンタクロース",
+    "titleKana": "こいびとがさんたくろーす",
+    "artist": "松任谷由実",
+    "artistKana": "まつとうやゆみ"
+  },
+  {
+    "id": "maritaro_cover517",
+    "title": "雨の花",
+    "titleKana": "あめのはな",
+    "artist": "上杉香緒里",
+    "artistKana": "うえすぎかおり"
+  },
+  {
+    "id": "maritaro_cover518",
+    "title": "画しい色やね",
+    "titleKana": "かなしいいろやね",
+    "artist": "上田正樹",
+    "artistKana": "うえだまさき"
+  },
+  {
+    "id": "maritaro_cover519",
+    "title": "サンサーラ",
+    "titleKana": "さんさーら",
+    "artist": "城南海",
+    "artistKana": "きずきみなみ"
+  },
+  {
+    "id": "maritaro_cover520",
+    "title": "くちびる",
+    "titleKana": "くちびる",
+    "artist": "城之内早苗",
+    "artistKana": "じょうのうちさなえ"
+  },
+  {
+    "id": "maritaro_cover521",
+    "title": "津軽恋女",
+    "titleKana": "つがるこいおんな",
+    "artist": "新沼謙治",
+    "artistKana": "にいぬまけんじ"
+  },
+  {
+    "id": "maritaro_cover522",
+    "title": "北窓",
+    "titleKana": "きたまど",
+    "artist": "森サカエ",
+    "artistKana": "もりさかえ"
+  },
+  {
+    "id": "maritaro_cover523",
+    "title": "私がおばさんになっても",
+    "titleKana": "わたしがおばさんになっても",
+    "artist": "森高千里",
+    "artistKana": "もりたかちさと"
+  },
+  {
+    "id": "maritaro_cover524",
+    "title": "越冬つばめ",
+    "titleKana": "えっとうつばめ",
+    "artist": "森昌子",
+    "artistKana": "もりまさこ"
+  },
+  {
+    "id": "maritaro_cover525",
+    "title": "道行華",
+    "titleKana": "みちゆきばな",
+    "artist": "森昌子",
+    "artistKana": "もりまさこ"
+  },
+  {
+    "id": "maritaro_cover526",
+    "title": "悲しみ本線日本海",
+    "titleKana": "かなしみほんせんにほんかい",
+    "artist": "森昌子",
+    "artistKana": "もりまさこ"
+  },
+  {
+    "id": "maritaro_cover527",
+    "title": "SHOW ME",
+    "titleKana": "しょーみー",
+    "artist": "森川由加里",
+    "artistKana": "もりかわゆかり"
+  },
+  {
+    "id": "maritaro_cover528",
+    "title": "青春時代",
+    "titleKana": "せいしゅんじだい",
+    "artist": "森田公一とトップギャラン",
+    "artistKana": "もりたこういちととっぷぎゃらん"
+  },
+  {
+    "id": "maritaro_cover529",
+    "title": "ぼくたちの失敗",
+    "titleKana": "ぼくたちのしっぱい",
+    "artist": "森田童子",
+    "artistKana": "もりたどうじ"
+  },
+  {
+    "id": "maritaro_cover530",
+    "title": "恋文川",
+    "titleKana": "こいぶみがわ",
+    "artist": "真木ことみ",
+    "artistKana": "まきことみ"
+  },
+  {
+    "id": "maritaro_cover531",
+    "title": "さくら月夜",
+    "titleKana": "さくらづきよ",
+    "artist": "真木柚布子",
+    "artistKana": "まきゆうこ"
+  },
+  {
+    "id": "maritaro_cover532",
+    "title": "助六さん",
+    "titleKana": "すけろくさん",
+    "artist": "真木柚布子",
+    "artistKana": "まきゆうこ"
+  },
+  {
+    "id": "maritaro_cover533",
+    "title": "北の浜唄",
+    "titleKana": "きたのはまうた",
+    "artist": "真木柚布子",
+    "artistKana": "まきゆうこ"
+  },
+  {
+    "id": "maritaro_cover534",
+    "title": "夜叉",
+    "titleKana": "やしゃ",
+    "artist": "真木柚布子",
+    "artistKana": "まきゆうこ"
+  },
+  {
+    "id": "maritaro_cover535",
+    "title": "男船",
+    "titleKana": "おとこぶね",
+    "artist": "神野美伽",
+    "artistKana": "しんのみか"
+  },
+  {
+    "id": "maritaro_cover536",
+    "title": "浮雲ふたり",
+    "titleKana": "うきぐもふたり",
+    "artist": "神野美伽",
+    "artistKana": "しんのみか"
+  },
+  {
+    "id": "maritaro_cover537",
+    "title": "くちづけは永遠に終わらない",
+    "titleKana": "くちづけはえいえんにおわらない",
+    "artist": "辛島美登里",
+    "artistKana": "からしまみどり"
+  },
+  {
+    "id": "maritaro_cover538",
+    "title": "サイレント・イヴ",
+    "titleKana": "さいれんといゔ",
+    "artist": "辛島美登里",
+    "artistKana": "からしまみどり"
+  },
+  {
+    "id": "maritaro_cover539",
+    "title": "PHANTOM MINDS",
+    "titleKana": "ふぁんとむまいんず",
+    "artist": "水樹奈々",
+    "artistKana": "みずきなな"
+  },
+  {
+    "id": "maritaro_cover540",
+    "title": "深愛",
+    "titleKana": "しんあい",
+    "artist": "水樹奈々",
+    "artistKana": "みずきなな"
+  },
+  {
+    "id": "maritaro_cover541",
+    "title": "三陸挽歌",
+    "titleKana": "さんりくばんか",
+    "artist": "水森かおり",
+    "artistKana": "みずもりかおり"
+  },
+  {
+    "id": "maritaro_cover542",
+    "title": "水に咲く花・支笏湖へ",
+    "titleKana": "みずにさくはなしこつこへ",
+    "artist": "水森かおり",
+    "artistKana": "みずもりかおり"
+  },
+  {
+    "id": "maritaro_cover543",
+    "title": "鳥取砂丘",
+    "titleKana": "とっとりさきゅう",
+    "artist": "水森かおり",
+    "artistKana": "みずもりかおり"
+  },
+  {
+    "id": "maritaro_cover544",
+    "title": "サンセット・メモリー",
+    "titleKana": "さんせっとめもりー",
+    "artist": "杉村尚美",
+    "artistKana": "すぎむらなおみ"
+  },
+  {
+    "id": "maritaro_cover545",
+    "title": "鳥の詩",
+    "titleKana": "とりのうた",
+    "artist": "杉田かおる",
+    "artistKana": "すぎたかおる"
+  },
+  {
+    "id": "maritaro_cover546",
+    "title": "乳母車",
+    "titleKana": "うばぐるま",
+    "artist": "菅原洋一",
+    "artistKana": "すがわらよういち"
+  },
+  {
+    "id": "maritaro_cover547",
+    "title": "さよならエレジー",
+    "titleKana": "さよならえれじー",
+    "artist": "菅田将暉",
+    "artistKana": "すだまさき"
+  },
+  {
+    "id": "maritaro_cover548",
+    "title": "トドメの接吻さよならエレジー",
+    "titleKana": "とどめのきっすさよならえれじー",
+    "artist": "菅田将暉",
+    "artistKana": "すだまさき"
+  },
+  {
+    "id": "maritaro_cover549",
+    "title": "あんたのバラード",
+    "titleKana": "あんたのばらーど",
+    "artist": "世良公則&ツイスト",
+    "artistKana": "せらまさのりあんどついすと"
+  },
+  {
+    "id": "maritaro_cover550",
+    "title": "銃爪",
+    "titleKana": "ひきがね",
+    "artist": "世良公則＆ツイスト",
+    "artistKana": "せらまさのりあんどついすと"
+  },
+  {
+    "id": "maritaro_cover551",
+    "title": "燃えろいい女",
+    "titleKana": "もえろいいおんな",
+    "artist": "世良公則＆ツイスト",
+    "artistKana": "せらまさのりあんどついすと"
+  },
+  {
+    "id": "maritaro_cover552",
+    "title": "夢灯籠",
+    "titleKana": "ゆめとうろう",
+    "artist": "瀬口有希",
+    "artistKana": "せぐちゆうき"
+  },
+  {
+    "id": "maritaro_cover553",
+    "title": "雪舞い岬",
+    "titleKana": "ゆきまいみさき",
+    "artist": "瀬口侑希",
+    "artistKana": "せぐちゆうき"
+  },
+  {
+    "id": "maritaro_cover554",
+    "title": "千年の恋歌",
+    "titleKana": "せんねんのこいうた",
+    "artist": "瀬口侑希",
+    "artistKana": "せぐちゆうき"
+  },
+  {
+    "id": "maritaro_cover555",
+    "title": "冬の恋歌",
+    "titleKana": "ふゆのこいうた",
+    "artist": "瀬口侑希",
+    "artistKana": "せぐちゆうき"
+  },
+  {
+    "id": "maritaro_cover556",
+    "title": "北物語",
+    "titleKana": "きたものがたり",
+    "artist": "瀬川瑛子",
+    "artistKana": "せがわえいこ"
+  },
+  {
+    "id": "maritaro_cover557",
+    "title": "命くれない",
+    "titleKana": "いのちくれない",
+    "artist": "瀬川瑛子",
+    "artistKana": "せがわえいこ"
+  },
+  {
+    "id": "maritaro_cover558",
+    "title": "はぐれコキリコ",
+    "titleKana": "はぐれこきりこ",
+    "artist": "成世昌平",
+    "artistKana": "なるせしょうへい"
+  },
+  {
+    "id": "maritaro_cover559",
+    "title": "鶴の舞橋",
+    "titleKana": "つるのまいはし",
+    "artist": "成世昌平",
+    "artistKana": "なるせしょうへい"
+  },
+  {
+    "id": "maritaro_cover560",
+    "title": "雪哭き津軽",
+    "titleKana": "ゆきなきつがる",
+    "artist": "清水まり子",
+    "artistKana": "しみずまりこ"
+  },
+  {
+    "id": "maritaro_cover561",
+    "title": "釜山の月",
+    "titleKana": "ぷさんのつき",
+    "artist": "清水節子",
+    "artistKana": "しみずせつこ"
+  },
+  {
+    "id": "maritaro_cover562",
+    "title": "蝋人形の館",
+    "titleKana": "ろうにんぎょうのやかた",
+    "artist": "聖飢魔II",
+    "artistKana": "せいきまつ"
+  },
+  {
+    "id": "maritaro_cover563",
+    "title": "ゆうぐれ文庫",
+    "titleKana": "ゆうぐれぶんこ",
+    "artist": "西山ひとみ",
+    "artistKana": "にしやまひとみ"
+  },
+  {
+    "id": "maritaro_cover564",
+    "title": "戯れごと",
+    "titleKana": "たわむれごと",
+    "artist": "西山ひとみ",
+    "artistKana": "にしやまひとみ"
+  },
+  {
+    "id": "maritaro_cover565",
+    "title": "金糸雀〜カナリア〜",
+    "titleKana": "かなりあ",
+    "artist": "西山ひとみ",
+    "artistKana": "にしやまひとみ"
+  },
+  {
+    "id": "maritaro_cover566",
+    "title": "大阪・あんたの街やから",
+    "titleKana": "おおさかあんたのまちやから",
+    "artist": "西山ひとみ",
+    "artistKana": "にしやまひとみ"
+  },
+  {
+    "id": "maritaro_cover567",
+    "title": "東京の夜は淋しくて",
+    "titleKana": "とうきょうのよるはさびしくて",
+    "artist": "西山ひとみ",
+    "artistKana": "にしやまひとみ"
+  },
+  {
+    "id": "maritaro_cover568",
+    "title": "別れのアドロ",
+    "titleKana": "わかれのあどろ",
+    "artist": "西山ひとみ",
+    "artistKana": "にしやまひとみ"
+  },
+  {
+    "id": "maritaro_cover569",
+    "title": "恋しいよ",
+    "titleKana": "こいしいよ",
+    "artist": "西山ひとみ",
+    "artistKana": "にしやまひとみ"
+  },
+  {
+    "id": "maritaro_cover570",
+    "title": "YMCA",
+    "titleKana": "わいえむしーえー",
+    "artist": "西城秀樹",
+    "artistKana": "さいじょうひでき"
+  },
+  {
+    "id": "maritaro_cover571",
+    "title": "ヤングマン(Y・M・C・A)",
+    "titleKana": "やんぐまんわいえむしーえー",
+    "artist": "西城秀樹",
+    "artistKana": "さいじょうひでき"
+  },
+  {
+    "id": "maritaro_cover572",
+    "title": "傷だらけのローラ",
+    "titleKana": "きずだらけのろーら",
+    "artist": "西城秀樹",
+    "artistKana": "さいじょうひでき"
+  },
+  {
+    "id": "maritaro_cover573",
+    "title": "玄海男歌",
+    "titleKana": "げんかいおと講うた",
+    "artist": "静太郎",
+    "artistKana": "しずかたろう"
+  },
+  {
+    "id": "maritaro_cover574",
+    "title": "冬港",
+    "titleKana": "ふゆみなと",
+    "artist": "静太郎",
+    "artistKana": "しずかたろう"
+  },
+  {
+    "id": "maritaro_cover575",
+    "title": "恋一夜",
+    "titleKana": "こいいちよ",
+    "artist": "静太郎",
+    "artistKana": "しずかたろう"
+  },
+  {
+    "id": "maritaro_cover576",
+    "title": "卒業",
+    "titleKana": "そつぎょう",
+    "artist": "斉藤由貴",
+    "artistKana": "さいとうゆき"
+  },
+  {
+    "id": "maritaro_cover577",
+    "title": "白い炎",
+    "titleKana": "しろいほのお",
+    "artist": "斉藤由貴",
+    "artistKana": "さいとうゆき"
+  },
+  {
+    "id": "maritaro_cover578",
+    "title": "夢の中へ",
+    "titleKana": "ゆめのなかへ",
+    "artist": "夢の中へ",
+    "artistKana": "さいとうゆき"
+  },
+  {
+    "id": "maritaro_cover579",
+    "title": "優しくなりたい",
+    "titleKana": "やさしくなりたい",
+    "artist": "斉藤和義",
+    "artistKana": "さいとうかずよし"
+  },
+  {
+    "id": "maritaro_cover580",
+    "title": "この・・・駅で",
+    "titleKana": "このえきで",
+    "artist": "石井聖子",
+    "artistKana": "いしいせいこ"
+  },
+  {
+    "id": "maritaro_cover581",
+    "title": "CHA CHA CHA",
+    "titleKana": "ちゃちゃちゃ",
+    "artist": "石井明美",
+    "artistKana": "いしいあけみ"
+  },
+  {
+    "id": "maritaro_cover582",
+    "title": "デュエット曲",
+    "titleKana": "でゅえっときょく",
+    "artist": "石原裕次郎&牧村旬子",
+    "artistKana": "いしはらゆうじろうあんどまきむらじゅんこ"
+  },
+  {
+    "id": "maritaro_cover583",
+    "title": "ひとり日本海",
+    "titleKana": "ひとりにほんかい",
+    "artist": "石原詢子",
+    "artistKana": "いしはらじゅんこ"
+  },
+  {
+    "id": "maritaro_cover584",
+    "title": "濃尾恋歌",
+    "titleKana": "のうびこいうた",
+    "artist": "石原詢子",
+    "artistKana": "いし原じゅんこ"
+  },
+  {
+    "id": "maritaro_cover585",
+    "title": "北海暴れん坊",
+    "titleKana": "ほっかいあばれんぼう",
+    "artist": "石上久美子",
+    "artistKana": "いしがみくみこ"
+  },
+  {
+    "id": "maritaro_cover586",
+    "title": "あぁ・・・あんた川",
+    "titleKana": "あああんたがわ",
+    "artist": "石川さゆり",
+    "artistKana": "いしかわさゆり"
+  },
+  {
+    "id": "maritaro_cover587",
+    "title": "かもめの女房",
+    "titleKana": "かもめのにょうぼ",
+    "artist": "石川さゆり",
+    "artistKana": "いしかわさゆり"
+  },
+  {
+    "id": "maritaro_cover588",
+    "title": "飢餓海峡",
+    "titleKana": "きがかいきょう",
+    "artist": "石川さゆり",
+    "artistKana": "いしかわさゆり"
+  },
+  {
+    "id": "maritaro_cover589",
+    "title": "津軽海峡冬景色",
+    "titleKana": "つがるかいきょうふゆげしき",
+    "artist": "石川さゆり",
+    "artistKana": "いしかわさゆり"
+  },
+  {
+    "id": "maritaro_cover590",
+    "title": "転がる石",
+    "titleKana": "ころがるいし",
+    "artist": "石川さゆり",
+    "artistKana": "いしかわさゆり"
+  },
+  {
+    "id": "maritaro_cover591",
+    "title": "肥後の盆唄～炎～",
+    "titleKana": "ひごのぼんうたほのお",
+    "artist": "石川さゆり",
+    "artistKana": "いしかわさゆり"
+  },
+  {
+    "id": "maritaro_cover592",
+    "title": "天城越え",
+    "titleKana": "あまぎごえ",
+    "artist": "石川さゆり",
+    "artistKana": "いしかわさゆり"
+  },
+  {
+    "id": "maritaro_cover593",
+    "title": "まちぶせ",
+    "titleKana": "まちぶせ",
+    "artist": "石川ひとみ",
+    "artistKana": "いしかわひとみ"
+  },
+  {
+    "id": "maritaro_cover594",
+    "title": "ゆれて湘南",
+    "titleKana": "ゆれてしょうなん",
+    "artist": "石川秀美",
+    "artistKana": "いしかわひでみ"
+  },
+  {
+    "id": "maritaro_cover595",
+    "title": "翼をください",
+    "titleKana": "つばさをください",
+    "artist": "赤い鳥",
+    "artistKana": "あかいとり"
+  },
+  {
+    "id": "maritaro_cover596",
+    "title": "雨の高瀬川",
+    "titleKana": "あめのたかせがわ",
+    "artist": "千葉山貴公",
+    "artistKana": "ちばやまたかひろ"
+  },
+  {
+    "id": "maritaro_cover597",
+    "title": "雪恋歌",
+    "titleKana": "ゆきれんか",
+    "artist": "千葉山貴公",
+    "artistKana": "ちばやまたかひろ"
+  },
+  {
+    "id": "maritaro_cover598",
+    "title": "横浜えれじぃ",
+    "titleKana": "よこはまえれじぃ",
+    "artist": "千葉山貴公",
+    "artistKana": "ちばやまたかひろ"
+  },
+  {
+    "id": "maritaro_cover599",
+    "title": "夜半の雪舞い",
+    "titleKana": "よわのゆきまい",
+    "artist": "川原夕季",
+    "artistKana": "かわはらゆき"
+  },
+  {
+    "id": "maritaro_cover600",
+    "title": "遣らずの雨",
+    "titleKana": "やらずのあめ",
+    "artist": "川中美幸",
+    "artistKana": "かわなかみゆき"
+  },
+  {
+    "id": "maritaro_cover601",
+    "title": "吾亦紅〜移りゆく日々",
+    "titleKana": "われもこううつりゆくひび",
+    "artist": "川中美幸",
+    "artistKana": "かわなかみゆき"
+  },
+  {
+    "id": "maritaro_cover602",
+    "title": "母日和",
+    "titleKana": "ははびより",
+    "artist": "川中美幸",
+    "artistKana": "かわなかみゆき"
+  },
+  {
+    "id": "maritaro_cover603",
+    "title": "恋歌ふたたび",
+    "titleKana": "こいうたふたたび",
+    "artist": "川中美幸",
+    "artistKana": "かわなかみゆき"
+  },
+  {
+    "id": "maritaro_cover604",
+    "title": "雲母坂〜きらららざか〜",
+    "titleKana": "きららざか",
+    "artist": "川野夏美",
+    "artistKana": "かわのなつみ"
+  },
+  {
+    "id": "maritaro_cover605",
+    "title": "九官鳥",
+    "titleKana": "きゅうかんちょう",
+    "artist": "川野夏美",
+    "artistKana": "かわのなつみ"
+  },
+  {
+    "id": "maritaro_cover606",
+    "title": "孔雀の純情",
+    "titleKana": "くじゃくのじゅんじょう",
+    "artist": "川野夏美",
+    "artistKana": "かわのなつみ"
+  },
+  {
+    "id": "maritaro_cover607",
+    "title": "悲別〜かなしべつ〜",
+    "titleKana": "かなしべつ",
+    "artist": "川野夏美",
+    "artistKana": "かわのなつみ"
+  },
+  {
+    "id": "maritaro_cover608",
+    "title": "北の恋情歌",
+    "titleKana": "きたのれんじょうか",
+    "artist": "川野夏美",
+    "artistKana": "かわのなつみ"
+  },
+  {
+    "id": "maritaro_cover609",
+    "title": "想い千すじ",
+    "titleKana": "おもいせんすじ",
+    "artist": "川野夏美",
+    "artistKana": "かわのなつみ"
+  },
+  {
+    "id": "maritaro_cover610",
+    "title": "紅い川",
+    "titleKana": "あかいかわ",
+    "artist": "浅田あつこ",
+    "artistKana": "あさだあつこ"
+  },
+  {
+    "id": "maritaro_cover611",
+    "title": "冬の蜉蝣",
+    "titleKana": "ふゆのかげろう",
+    "artist": "浅田あつこ",
+    "artistKana": "あさだあつこ"
+  },
+  {
+    "id": "maritaro_cover612",
+    "title": "神戸",
+    "titleKana": "こうべ",
+    "artist": "前川清",
+    "artistKana": "まえかわきよし"
+  },
+  {
+    "id": "maritaro_cover613",
+    "title": "愛よ静かに眠れ",
+    "titleKana": "あいよしずかにねむれ",
+    "artist": "前川清&石川さゆり",
+    "artistKana": "まえかわきよしあんどいしかわさゆり"
+  },
+  {
+    "id": "maritaro_cover614",
+    "title": "キューティーハニー",
+    "titleKana": "きゅーてぃーはにー",
+    "artist": "前川陽子",
+    "artistKana": "まえかわようこ"
+  },
+  {
+    "id": "maritaro_cover615",
+    "title": "悲恋歌",
+    "titleKana": "ひれんか",
+    "artist": "倉橋ルイ子",
+    "artistKana": "くらはしるいこ"
+  },
+  {
+    "id": "maritaro_cover616",
+    "title": "Secret of My Heart",
+    "titleKana": "しーくれっとおぶまいはーと",
+    "artist": "倉木麻衣",
+    "artistKana": "くらきまい"
+  },
+  {
+    "id": "maritaro_cover617",
+    "title": "渡月橋〜君想ふ〜",
+    "titleKana": "とげつきょうきみおもう",
+    "artist": "倉木麻衣",
+    "artistKana": "くらきまい"
+  },
+  {
+    "id": "maritaro_cover618",
+    "title": "夏色のナンシー",
+    "titleKana": "なついろのなんしー",
+    "artist": "早見優",
+    "artistKana": "はやみゆう"
+  },
+  {
+    "id": "maritaro_cover619",
+    "title": "夢見る少女じゃいられない",
+    "titleKana": "ゆめみるしょうじょじゃいられない",
+    "artist": "相川七瀬",
+    "artistKana": "あいかわななせ"
+  },
+  {
+    "id": "maritaro_cover620",
+    "title": "恋心",
+    "titleKana": "こいごころ",
+    "artist": "相川七瀬",
+    "artistKana": "あいかわななせ"
+  },
+  {
+    "id": "maritaro_cover621",
+    "title": "呼人駅",
+    "titleKana": "よびとえき",
+    "artist": "走裕介",
+    "artistKana": "はしりゆうすけ"
+  },
+  {
+    "id": "maritaro_cover622",
+    "title": "恋懺悔",
+    "titleKana": "こいざんげ",
+    "artist": "走裕介",
+    "artistKana": "はしりゆうすけ"
+  },
+  {
+    "id": "maritaro_cover623",
+    "title": "ここが世界のまんなかだ",
+    "titleKana": "ここがせかいのまんなかだ",
+    "artist": "速水けんたろう・茂森あゆみ",
+    "artistKana": "はやみけんたろうしげもりあゆみ"
+  },
+  {
+    "id": "maritaro_cover624",
+    "title": "初恋",
+    "titleKana": "はつこい",
+    "artist": "村下孝蔵",
+    "artistKana": "むらしたこうぞう"
+  },
+  {
+    "id": "maritaro_cover625",
+    "title": "淡雪の恋-万珠沙華-",
+    "titleKana": "あわゆきのこいまんじゅしゃか",
+    "artist": "村治崇光",
+    "artistKana": "むらじのりみつ"
+  },
+  {
+    "id": "maritaro_cover626",
+    "title": "真昼の月",
+    "titleKana": "まひるのつき",
+    "artist": "村上加代子",
+    "artistKana": "むらかみかよこ"
+  },
+  {
+    "id": "maritaro_cover627",
+    "title": "津軽望郷譜",
+    "titleKana": "つがるぼうきょうふ",
+    "artist": "多岐川舞子",
+    "artistKana": "たきがわまいこ"
+  },
+  {
+    "id": "maritaro_cover628",
+    "title": "木綿のハンカチーフ",
+    "titleKana": "もめんのはんかちーふ",
+    "artist": "太田裕美",
+    "artistKana": "おおたひろみ"
+  },
+  {
+    "id": "maritaro_cover629",
+    "title": "フライディ・チャイナタウン",
+    "titleKana": "ふらいでぃちゃいなたうん",
+    "artist": "泰葉",
+    "artistKana": "やすは"
+  },
+  {
+    "id": "maritaro_cover630",
+    "title": "最後の夜だから",
+    "titleKana": "さいごのよるだから",
+    "artist": "大下香奈",
+    "artistKana": "おおしたかな"
+  },
+  {
+    "id": "maritaro_cover631",
+    "title": "残り香",
+    "titleKana": "のこりが",
+    "artist": "大下香奈",
+    "artistKana": "おおしたかな"
+  },
+  {
+    "id": "maritaro_cover632",
+    "title": "キャシーの噂",
+    "titleKana": "きゃしーのうわさ",
+    "artist": "大橋純子",
+    "artistKana": "おおはしじゅんこ"
+  },
+  {
+    "id": "maritaro_cover633",
+    "title": "シルエット・ロマンス",
+    "titleKana": "しるえっとろまんす",
+    "artist": "大橋純子",
+    "artistKana": "おおはしじゅんこ"
+  },
+  {
+    "id": "maritaro_cover634",
+    "title": "愛のかげろう",
+    "titleKana": "あいのかげろう",
+    "artist": "大月みやこ",
+    "artistKana": "おおつきみやこ"
+  },
+  {
+    "id": "maritaro_cover635",
+    "title": "女の舞",
+    "titleKana": "おんなのまい",
+    "artist": "大月みやこ",
+    "artistKana": "おおつきみやこ"
+  },
+  {
+    "id": "maritaro_cover636",
+    "title": "霧笛の宿",
+    "titleKana": "むてきのやど",
+    "artist": "大月みやこ",
+    "artistKana": "おおつきみやこ"
+  },
+  {
+    "id": "maritaro_cover637",
+    "title": "胡蝶の夢",
+    "titleKana": "こちょうのゆめ",
+    "artist": "大黒摩季",
+    "artistKana": "おおぐろまき"
+  },
+  {
+    "id": "maritaro_cover638",
+    "title": "熱くなれ",
+    "titleKana": "あつくなれ",
+    "artist": "大黒摩季",
+    "artistKana": "おおぐろまき"
+  },
+  {
+    "id": "maritaro_cover639",
+    "title": "津軽祭りサンバ",
+    "titleKana": "つがるまつりさんば",
+    "artist": "大瀬正子",
+    "artistKana": "おおせまさこ"
+  },
+  {
+    "id": "maritaro_cover640",
+    "title": "恋のしのび雨",
+    "titleKana": "こいのしのびあめ",
+    "artist": "大石まどか",
+    "artistKana": "おおいしまどか"
+  },
+  {
+    "id": "maritaro_cover641",
+    "title": "さざんかの宿",
+    "titleKana": "さざんかのやど",
+    "artist": "大川栄策",
+    "artistKana": "おおかわえいさく"
+  },
+  {
+    "id": "maritaro_cover642",
+    "title": "そして僕は途方に暮れる",
+    "titleKana": "そしてぼくはとほうにくれる",
+    "artist": "大沢誉志幸",
+    "artistKana": "おおさわよしゆき"
+  },
+  {
+    "id": "maritaro_cover643",
+    "title": "君の涙は俺がふく",
+    "titleKana": "きみのなみだはおれがふく",
+    "artist": "大門",
+    "artistKana": "だいもん"
+  },
+  {
+    "id": "maritaro_cover644",
+    "title": "勝手にしやがれ",
+    "titleKana": "かってにしやがれ",
+    "artist": "沢田研二",
+    "artistKana": "さわだけんじ"
+  },
+  {
+    "id": "maritaro_cover645",
+    "title": "会いたい",
+    "titleKana": "あいたい",
+    "artist": "沢田知可子",
+    "artistKana": "さわだちかこ"
+  },
+  {
+    "id": "maritaro_cover646",
+    "title": "群青",
+    "titleKana": "ぐんじょう",
+    "artist": "谷村新司",
+    "artistKana": "たにむらしんじ"
+  },
+  {
+    "id": "maritaro_cover647",
+    "title": "不思議なピーチパイ",
+    "titleKana": "ふしぎなぴーちぱい",
+    "artist": "竹内まりや",
+    "artistKana": "たけうちまりや"
+  },
+  {
+    "id": "maritaro_cover648",
+    "title": "駅",
+    "titleKana": "えき",
+    "artist": "竹内まりや",
+    "artistKana": "たけうちまりや"
+  },
+  {
+    "id": "maritaro_cover649",
+    "title": "君たちキウイ・パパイア・マンゴーだね",
+    "titleKana": "きみたちきういぱぱいあまんごーだね",
+    "artist": "中原めいこ",
+    "artistKana": "なかはらめいこ"
+  },
+  {
+    "id": "maritaro_cover650",
+    "title": "東京ららばい",
+    "titleKana": "とうきょうららばい",
+    "artist": "中原理恵",
+    "artistKana": "なかはらりえ"
+  },
+  {
+    "id": "maritaro_cover651",
+    "title": "花",
+    "titleKana": "はな",
+    "artist": "中孝介",
+    "artistKana": "あたりこうすけ"
+  },
+  {
+    "id": "maritaro_cover652",
+    "title": "1/2の神話",
+    "titleKana": "にぶんのいちのしんわ",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover653",
+    "title": "DESIRE",
+    "titleKana": "でざいあー",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover654",
+    "title": "サザン・ウインド",
+    "titleKana": "さざんういんど",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover655",
+    "title": "ジプシー・クイン",
+    "titleKana": "じぷしーくいん",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover656",
+    "title": "スローモーション",
+    "titleKana": "すろーもーしょん",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover657",
+    "title": "セカンド・ラブ",
+    "titleKana": "せかんどらぶ",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover658",
+    "title": "デザイアー",
+    "titleKana": "でざいあー",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover659",
+    "title": "ミ・アモーレ",
+    "titleKana": "みあもーれ",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover660",
+    "title": "禁区",
+    "titleKana": "きんく",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover661",
+    "title": "十戒",
+    "titleKana": "じゅっかい",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover662",
+    "title": "少女A",
+    "titleKana": "しょうじょえー",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover663",
+    "title": "飾りじゃないのよ涙は",
+    "titleKana": "かざりじゃないのよなみだは",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover664",
+    "title": "桃色吐息",
+    "titleKana": "ももいろといき",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover665",
+    "title": "難破船",
+    "titleKana": "なんぱせん",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover666",
+    "title": "二人静「天河伝説殺人事件より」",
+    "titleKana": "ふたりしずかてんかわでんせつさつじんじけんより",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover667",
+    "title": "北ウイング",
+    "titleKana": "きたういんぐ",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover668",
+    "title": "TATOO",
+    "titleKana": "たとぅー",
+    "artist": "中森明菜",
+    "artistKana": "なかもりあきな"
+  },
+  {
+    "id": "maritaro_cover669",
+    "title": "BROTHER",
+    "titleKana": "ぶらざー",
+    "artist": "中村あゆみ",
+    "artistKana": "なかむらあゆみ"
+  },
+  {
+    "id": "maritaro_cover670",
+    "title": "ちょっとやそっとじゃCAN'T GET LOVE",
+    "titleKana": "ちょっとやそっとじゃきゃんとげっとらぶ",
+    "artist": "中村あゆみ",
+    "artistKana": "なかむらあゆみ"
+  },
+  {
+    "id": "maritaro_cover671",
+    "title": "翼の折れたエンジェル",
+    "titleKana": "つばさのおれたえんじぇる",
+    "artist": "中村あゆみ",
+    "artistKana": "なかむらあゆみ"
+  },
+  {
+    "id": "maritaro_cover672",
+    "title": "友達の詩",
+    "titleKana": "ともだちのうた",
+    "artist": "中村中",
+    "artistKana": "なかむらあたる"
+  },
+  {
+    "id": "maritaro_cover673",
+    "title": "悪女",
+    "titleKana": "あくじょ",
+    "artist": "中島みゆき",
+    "artistKana": "なかじまみゆき"
+  },
+  {
+    "id": "maritaro_cover674",
+    "title": "帰れない者たちへ",
+    "titleKana": "かえれないものたちへ",
+    "artist": "中島みゆき",
+    "artistKana": "なかじまみゆき"
+  },
+  {
+    "id": "maritaro_cover675",
+    "title": "銀の龍の背に乗って",
+    "titleKana": "ぎんのりゅうのせにのって",
+    "artist": "暗島みゆき",
+    "artistKana": "なかじまみゆき"
+  },
+  {
+    "id": "maritaro_cover676",
+    "title": "空と君のあいだに",
+    "titleKana": "そらときみのあいだに",
+    "artist": "中島みゆき",
+    "artistKana": "なかじまみゆき"
+  },
+  {
+    "id": "maritaro_cover677",
+    "title": "糸",
+    "titleKana": "いと",
+    "artist": "中島みゆき",
+    "artistKana": "なかじまみゆき"
+  },
+  {
+    "id": "maritaro_cover678",
+    "title": "地上の星",
+    "titleKana": "ちじょうのほし",
+    "artist": "中島みゆき",
+    "artistKana": "なかじまみゆき"
+  },
+  {
+    "id": "maritaro_cover679",
+    "title": "愛情物語",
+    "titleKana": "あいじょうものがたり",
+    "artist": "中島みゆき",
+    "artistKana": "なかじまみゆき"
+  },
+  {
+    "id": "maritaro_cover680",
+    "title": "Orion",
+    "titleKana": "おりおん",
+    "artist": "中島美嘉",
+    "artistKana": "なかしまみか"
+  },
+  {
+    "id": "maritaro_cover681",
+    "title": "YUKI NO HANA",
+    "titleKana": "ゆきのはな",
+    "artist": "中島美嘉",
+    "artistKana": "なかしまみか"
+  },
+  {
+    "id": "maritaro_cover682",
+    "title": "魔法使いサリー",
+    "titleKana": "まほうつかいさりー",
+    "artist": "朝川ひろこ",
+    "artistKana": "あさかわひろこ"
+  },
+  {
+    "id": "maritaro_cover683",
+    "title": "戦士の休息",
+    "titleKana": "せんしのきゅうそく",
+    "artist": "町田義人",
+    "artistKana": "まちだよしと"
+  },
+  {
+    "id": "maritaro_cover684",
+    "title": "遠野物語",
+    "titleKana": "とおのものがたり",
+    "artist": "長山洋子",
+    "artistKana": "ながやまようこ"
+  },
+  {
+    "id": "maritaro_cover685",
+    "title": "恋の津軽十三湖",
+    "titleKana": "こいのつがるじゅうさんこ",
+    "artist": "長山洋子",
+    "artistKana": "ながやまようこ"
+  },
+  {
+    "id": "maritaro_cover686",
+    "title": "蜩",
+    "titleKana": "ひぐらし",
+    "artist": "長山洋子",
+    "artistKana": "ながやまようこ"
+  },
+  {
+    "id": "maritaro_cover687",
+    "title": "じょんから女節",
+    "titleKana": "じょんからおんなぶし",
+    "artist": "長山洋子",
+    "artistKana": "ながやまようこ"
+  },
+  {
+    "id": "maritaro_cover688",
+    "title": "たまゆら",
+    "titleKana": "たまゆら",
+    "artist": "長山洋子",
+    "artistKana": "ながやまようこ"
+  },
+  {
+    "id": "maritaro_cover689",
+    "title": "兄弟船",
+    "titleKana": "きょうだいぶね",
+    "artist": "鳥羽一郎",
+    "artistKana": "とばいちろう"
+  },
+  {
+    "id": "maritaro_cover690",
+    "title": "本能",
+    "titleKana": "ほんのう",
+    "artist": "椎名林檎",
+    "artistKana": "しいなりんご"
+  },
+  {
+    "id": "maritaro_cover691",
+    "title": "五月のバラ",
+    "titleKana": "ごがつのばら",
+    "artist": "塚田三喜夫",
+    "artistKana": "つかだみきお"
+  },
+  {
+    "id": "maritaro_cover692",
+    "title": "恋うつつ",
+    "titleKana": "こいうつつ",
+    "artist": "椿欣也",
+    "artistKana": "つばききんや"
+  },
+  {
+    "id": "maritaro_cover693",
+    "title": "珍島物語",
+    "titleKana": "ちんどものがたり",
+    "artist": "天童よしみ",
+    "artistKana": "てんどうよしみ"
+  },
+  {
+    "id": "maritaro_cover694",
+    "title": "梅いちりん",
+    "titleKana": "うめいちりん",
+    "artist": "天童よしみ",
+    "artistKana": "てんどうよしみ"
+  },
+  {
+    "id": "maritaro_cover695",
+    "title": "止まり木挽歌",
+    "titleKana": "とまりぎばんか",
+    "artist": "田山ひろし",
+    "artistKana": "たやまひろし"
+  },
+  {
+    "id": "maritaro_cover696",
+    "title": "しゃくなげの雨",
+    "titleKana": "しゃくなげのあめ",
+    "artist": "田川寿美",
+    "artistKana": "たがわとしみ"
+  },
+  {
+    "id": "maritaro_cover697",
+    "title": "花になれ-うめ さくら あやめ あじさい ひがんばな",
+    "titleKana": "はなになれうめさくらあやめあじさいひがんばな",
+    "artist": "田川寿美",
+    "artistKana": "たがわとしみ"
+  },
+  {
+    "id": "maritaro_cover698",
+    "title": "花一輪",
+    "titleKana": "はないちりん",
+    "artist": "田川寿美",
+    "artistKana": "たがわとしみ"
+  },
+  {
+    "id": "maritaro_cover699",
+    "title": "女人高野",
+    "titleKana": "にょにんこうや",
+    "artist": "田川寿美",
+    "artistKana": "たガわとしみ"
+  },
+  {
+    "id": "maritaro_cover700",
+    "title": "ボーダーライン",
+    "titleKana": "ぼーだーらいん",
+    "artist": "田島麻美",
+    "artistKana": "たじままみ"
+  },
+  {
+    "id": "maritaro_cover701",
+    "title": "かもめが飛んだ日",
+    "titleKana": "かもめがとんだひ",
+    "artist": "渡辺真知子",
+    "artistKana": "わたなべまちこ"
+  },
+  {
+    "id": "maritaro_cover702",
+    "title": "唇よ、熱く君を語れ",
+    "titleKana": "くちびるよあつくきみをかたれ",
+    "artist": "渡辺真知子",
+    "artistKana": "わたなべまちこ"
+  },
+  {
+    "id": "maritaro_cover703",
+    "title": "迷い道",
+    "titleKana": "まよいみち",
+    "artist": "渡辺真知子",
+    "artistKana": "わたなべまちこ"
+  },
+  {
+    "id": "maritaro_cover704",
+    "title": "Believe",
+    "titleKana": "びりーぶ",
+    "artist": "渡辺美里",
+    "artistKana": "わたなべみさと"
+  },
+  {
+    "id": "maritaro_cover705",
+    "title": "My Revolution",
+    "titleKana": "まいれぼりゅーしょん",
+    "artist": "渡辺美里",
+    "artistKana": "わたなべみさと"
+  },
+  {
+    "id": "maritaro_cover706",
+    "title": "人生は一炊の夢",
+    "titleKana": "じんせいはいっすいのゆめ",
+    "artist": "登代子",
+    "artistKana": "とよこ"
+  },
+  {
+    "id": "maritaro_cover707",
+    "title": "好きになった人",
+    "titleKana": "すきになったひと",
+    "artist": "都はるみ",
+    "artistKana": "みやこはるみ"
+  },
+  {
+    "id": "maritaro_cover708",
+    "title": "亜麻色の髪の乙女",
+    "titleKana": "あまいろのかみのおとめ",
+    "artist": "島谷ひとみ",
+    "artistKana": "しまたにひとみ"
+  },
+  {
+    "id": "maritaro_cover709",
+    "title": "YOSAKOI祭唄",
+    "titleKana": "よさこいまつりうた",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover710",
+    "title": "かあちゃん",
+    "titleKana": "かあちゃん",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover711",
+    "title": "演歌桜",
+    "titleKana": "えんかざくら",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover712",
+    "title": "夏つばき",
+    "titleKana": "なつつばき",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover713",
+    "title": "海鳴りの詩",
+    "titleKana": "うみなりのうた",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover714",
+    "title": "感謝状〜母へのメッセージ〜",
+    "titleKana": "かんしゃじょうははへのめっせーじ",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover715",
+    "title": "夜桜挽歌",
+    "titleKana": "よざくらばんか",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover716",
+    "title": "都会の雀",
+    "titleKana": "とかいのすずめ",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover717",
+    "title": "流れて津軽",
+    "titleKana": "ながれてつがる",
+    "artist": "島津亜矢",
+    "artistKana": "しまづあや"
+  },
+  {
+    "id": "maritaro_cover718",
+    "title": "東京ルージュ",
+    "titleKana": "とうきょうるーじゅ",
+    "artist": "東京倶楽部",
+    "artistKana": "とうきょうくらぶ"
+  },
+  {
+    "id": "maritaro_cover719",
+    "title": "嗚呼、虜。",
+    "titleKana": "ああとりこ",
+    "artist": "桃色商店街",
+    "artistKana": "ももいろしょうてんがい"
+  },
+  {
+    "id": "maritaro_cover720",
+    "title": "冬桜",
+    "titleKana": "ふゆざくら",
+    "artist": "湯原昌幸",
+    "artistKana": "ゆはらまさゆき"
+  },
+  {
+    "id": "maritaro_cover721",
+    "title": "紅い糸",
+    "titleKana": "あかいいと",
+    "artist": "藤あや子",
+    "artistKana": "ふじあやこ"
+  },
+  {
+    "id": "maritaro_cover722",
+    "title": "雪深深",
+    "titleKana": "ゆきしんしん",
+    "artist": "藤あや子",
+    "artistKana": "ふじあやこ"
+  },
+  {
+    "id": "maritaro_cover723",
+    "title": "圭子の夢は夜ひらく",
+    "titleKana": "けいこのゆめはよるひらく",
+    "artist": "藤圭子",
+    "artistKana": "ふじけいこ"
+  },
+  {
+    "id": "maritaro_cover724",
+    "title": "緋牡丹博徒",
+    "titleKana": "ひぼたんばくと",
+    "artist": "藤圭子",
+    "artistKana": "ふじけいこ"
+  },
+  {
+    "id": "maritaro_cover725",
+    "title": "横浜ららばい",
+    "titleKana": "よこはまららばい",
+    "artist": "藤原正",
+    "artistKana": "ふじわらただし"
+  },
+  {
+    "id": "maritaro_cover726",
+    "title": "愛が生まれた日",
+    "titleKana": "あいがうまれたひ",
+    "artist": "藤谷美和子&大内義昭",
+    "artistKana": "ふじたにみわこあんどおおうちよしあき"
+  },
+  {
+    "id": "maritaro_cover727",
+    "title": "お正月",
+    "titleKana": "おしょうがつ",
+    "artist": "童謡",
+    "artistKana": "どうよう"
+  },
+  {
+    "id": "maritaro_cover728",
+    "title": "壊れかけのRadio",
+    "titleKana": "こわれかけのれでぃお",
+    "artist": "徳永英明",
+    "artistKana": "とくながひであき"
+  },
+  {
+    "id": "maritaro_cover729",
+    "title": "レイニーブルー",
+    "titleKana": "れいにーぶるー",
+    "artist": "徳永英明",
+    "artistKana": "...とくながひであき"
+  },
+  {
+    "id": "maritaro_cover730",
+    "title": "酔っぱらっちゃった",
+    "titleKana": "よっぱらっちゃった",
+    "artist": "内海美幸",
+    "artistKana": "うつみみゆき"
+  },
+  {
+    "id": "maritaro_cover731",
+    "title": "ホテル・サンセット",
+    "titleKana": "ほてるさんせっと",
+    "artist": "内田あかり",
+    "artistKana": "うちだあかり"
+  },
+  {
+    "id": "maritaro_cover732",
+    "title": "好色一代女",
+    "titleKana": "こうしょくいちだいおんな",
+    "artist": "内田あかり",
+    "artistKana": "うちだあかり"
+  },
+  {
+    "id": "maritaro_cover733",
+    "title": "鳴らない電話",
+    "titleKana": "ならないでんわ",
+    "artist": "内田あかり",
+    "artistKana": "うちだあかり"
+  },
+  {
+    "id": "maritaro_cover734",
+    "title": "新宿はぐれ鳥",
+    "titleKana": "しんじゅくはぐれどり",
+    "artist": "内藤やす子",
+    "artistKana": "ないとうやすこ"
+  },
+  {
+    "id": "maritaro_cover735",
+    "title": "想い出ぼろぼろ",
+    "titleKana": "おもいでぼろぼろ",
+    "artist": "内藤やす子",
+    "artistKana": "ないとうやすこ"
+  },
+  {
+    "id": "maritaro_cover736",
+    "title": "弟よ",
+    "titleKana": "おとうとよ",
+    "artist": "内藤やす子",
+    "artistKana": "ないとうやすこ"
+  },
+  {
+    "id": "maritaro_cover737",
+    "title": "もくれん",
+    "titleKana": "もくれん",
+    "artist": "南かなこ",
+    "artistKana": "みなみかなこ"
+  },
+  {
+    "id": "maritaro_cover738",
+    "title": "夢一夜",
+    "titleKana": "ゆめひとよ",
+    "artist": "南こうせつ",
+    "artistKana": "みなみこうせつ"
+  },
+  {
+    "id": "maritaro_cover739",
+    "title": "雪宿",
+    "titleKana": "ゆきやど",
+    "artist": "南郷あきら",
+    "artistKana": "なんごうあきら"
+  },
+  {
+    "id": "maritaro_cover740",
+    "title": "氷雨",
+    "titleKana": "ひさめ",
+    "artist": "日野美歌",
+    "artistKana": "ひのみか"
+  },
+  {
+    "id": "maritaro_cover741",
+    "title": "ザンザ岬",
+    "titleKana": "ざんざみさき",
+    "artist": "入山アキ子",
+    "artistKana": "いりやまあきこ"
+  },
+  {
+    "id": "maritaro_cover742",
+    "title": "月に笑う蝶",
+    "titleKana": "つきにわらうちょう",
+    "artist": "入山アキ子",
+    "artistKana": "いりやまあきこ"
+  },
+  {
+    "id": "maritaro_cover743",
+    "title": "夢芝居",
+    "titleKana": "ゆめしばい",
+    "artist": "梅沢富美男",
+    "artistKana": "うめざわふみお"
+  },
+  {
+    "id": "maritaro_cover744",
+    "title": "磐越西線ひとり",
+    "titleKana": "ばんえつさいせんひとり",
+    "artist": "梅田心愛",
+    "artistKana": "うめだここあ"
+  },
+  {
+    "id": "maritaro_cover745",
+    "title": "春なのに",
+    "titleKana": "はるなのに",
+    "artist": "柏原芳恵",
+    "artistKana": "かしわばらよしえ"
+  },
+  {
+    "id": "maritaro_cover746",
+    "title": "別れの理由",
+    "titleKana": "わかれのりゆう",
+    "artist": "白川ゆう子",
+    "artistKana": "しらかわゆうこ"
+  },
+  {
+    "id": "maritaro_cover747",
+    "title": "パープル・タウン",
+    "titleKana": "ぱーぷるたうん",
+    "artist": "八神純子",
+    "artistKana": "やがみじゅんこ"
+  },
+  {
+    "id": "maritaro_cover748",
+    "title": "みずいろの雨",
+    "titleKana": "みずいろのあめ",
+    "artist": "八神純子",
+    "artistKana": "やがみじゅんこ"
+  },
+  {
+    "id": "maritaro_cover749",
+    "title": "想いでのスクリーン",
+    "titleKana": "おもいでのすくりーん",
+    "artist": "八神純子",
+    "artistKana": "やがみじゅんこ"
+  },
+  {
+    "id": "maritaro_cover750",
+    "title": "おんな港町",
+    "titleKana": "おんなみなとまち",
+    "artist": "八代亜紀",
+    "artistKana": "やしろあき"
+  },
+  {
+    "id": "maritaro_cover751",
+    "title": "哀しみよ隣で眠れ",
+    "titleKana": "かなしみよとなりでねむれ",
+    "artist": "八代亜紀",
+    "artistKana": "やしろあき"
+  },
+  {
+    "id": "maritaro_cover752",
+    "title": "雨の慕情",
+    "titleKana": "あめのぼじょう",
+    "artist": "八代亜紀",
+    "artistKana": "やしろあき"
+  },
+  {
+    "id": "maritaro_cover753",
+    "title": "海猫",
+    "titleKana": "うみねこ",
+    "artist": "八代亜紀",
+    "artistKana": "やしろあき"
+  },
+  {
+    "id": "maritaro_cover754",
+    "title": "舟唄",
+    "titleKana": "ふなうた",
+    "artist": "八代亜紀",
+    "artistKana": "やしろあき"
+  },
+  {
+    "id": "maritaro_cover755",
+    "title": "I LOVE YOU",
+    "titleKana": "あいらぶゆー",
+    "artist": "尾崎豊",
+    "artistKana": "おざきゆたか"
+  },
+  {
+    "id": "maritaro_cover756",
+    "title": "お祭りマンボ",
+    "titleKana": "おまつりまんぼ",
+    "artist": "美空ひばり",
+    "artistKana": "みそらひばり"
+  },
+  {
+    "id": "maritaro_cover757",
+    "title": "愛燦燦",
+    "titleKana": "あいさんさん",
+    "artist": "美空ひばり",
+    "artistKana": "みそらひばり"
+  },
+  {
+    "id": "maritaro_cover758",
+    "title": "関東春雨傘",
+    "titleKana": "かんとうはるさめがさ",
+    "artist": "美空ひばり",
+    "artistKana": "みそらひばり"
+  },
+  {
+    "id": "maritaro_cover759",
+    "title": "佐渡情話",
+    "titleKana": "さどじょうわ",
+    "artist": "美空ひばり",
+    "artistKana": "みそらひばり"
+  },
+  {
+    "id": "maritaro_cover760",
+    "title": "三味線マドロス",
+    "titleKana": "しゃみせんまどろす",
+    "artist": "美空ひばり",
+    "artistKana": "みそらひばり"
+  },
+  {
+    "id": "maritaro_cover761",
+    "title": "真っ赤な太陽",
+    "titleKana": "まっかなたいよう",
+    "artist": "美空ひばり",
+    "artistKana": "みそらひばり"
+  },
+  {
+    "id": "maritaro_cover762",
+    "title": "川の流れのように",
+    "titleKana": "かわのながれのように",
+    "artist": "美空ひばり",
+    "artistKana": "みそらひばり"
+  },
+  {
+    "id": "maritaro_cover763",
+    "title": "悲しき口笛",
+    "titleKana": "かなしきくちぶえ",
+    "artist": "美空ひばり",
+    "artistKana": "みそらひばり"
+  },
+  {
+    "id": "maritaro_cover764",
+    "title": "あなたと⋯With you",
+    "titleKana": "あなたとうぃずゆー",
+    "artist": "美月さち子",
+    "artistKana": "みづきさちこ"
+  },
+  {
+    "id": "maritaro_cover765",
+    "title": "至上の愛〜Return to me〜",
+    "titleKana": "しじょうのあいりたーんとぅーみー",
+    "artist": "美心",
+    "artistKana": "みこ"
+  },
+  {
+    "id": "maritaro_cover766",
+    "title": "さそり座の女",
+    "titleKana": "さそりざのおんな",
+    "artist": "美川憲一",
+    "artistKana": "みかわけんいち"
+  },
+  {
+    "id": "maritaro_cover767",
+    "title": "シバザクラ",
+    "titleKana": "しばざくら",
+    "artist": "姫貴さゆり",
+    "artistKana": "ひめきさゆり"
+  },
+  {
+    "id": "maritaro_cover768",
+    "title": "きよしのズンドコ節",
+    "titleKana": "きよしのずんどこぶし",
+    "artist": "氷川きよし",
+    "artistKana": "ひかわきよし"
+  },
+  {
+    "id": "maritaro_cover769",
+    "title": "櫻",
+    "titleKana": "さくら",
+    "artist": "氷川きよし",
+    "artistKana": "ひかわきよし"
+  },
+  {
+    "id": "maritaro_cover770",
+    "title": "Depend on you",
+    "titleKana": "でぃぺんどおんゆー",
+    "artist": "浜崎あゆみ",
+    "artistKana": "はまさきあゆみ"
+  },
+  {
+    "id": "maritaro_cover771",
+    "title": "Mirrorcle World",
+    "titleKana": "みらくるわーるど",
+    "artist": "浜崎あゆみ",
+    "artistKana": "はまさきあゆみ"
+  },
+  {
+    "id": "maritaro_cover772",
+    "title": "Poker face",
+    "titleKana": "ぽーかーふぇいす",
+    "artist": "浜崎あゆみ",
+    "artistKana": "はまさきあゆみ"
+  },
+  {
+    "id": "maritaro_cover773",
+    "title": "M",
+    "titleKana": "えむ",
+    "artist": "浜崎あゆみ",
+    "artistKana": "はまさきあゆみ"
+  },
+  {
+    "id": "maritaro_cover774",
+    "title": "沖縄ブルース",
+    "titleKana": "おきなわぶるーす",
+    "artist": "富士みれい",
+    "artistKana": "ふじみれい"
+  },
+  {
+    "id": "maritaro_cover775",
+    "title": "シクラメンのかほり",
+    "titleKana": "しくらめんのかほり",
+    "artist": "布施明",
+    "artistKana": "ふせあきら"
+  },
+  {
+    "id": "maritaro_cover776",
+    "title": "君は薔薇より美しい",
+    "titleKana": "きみはばらよりうつくしい",
+    "artist": "布施明",
+    "artistKana": "ふせあきら"
+  },
+  {
+    "id": "maritaro_cover777",
+    "title": "夜雨抄",
+    "titleKana": "よさめしょう",
+    "artist": "服部浩子",
+    "artistKana": "はっとりひろこ"
+  },
+  {
+    "id": "maritaro_cover778",
+    "title": "北の出世船",
+    "titleKana": "きたのしゅっせぶね",
+    "artist": "福田こうへい",
+    "artistKana": "ふくだこうへい"
+  },
+  {
+    "id": "maritaro_cover779",
+    "title": "志～こころざし～",
+    "titleKana": "こころざし",
+    "artist": "福田こうへい",
+    "artistKana": "ふくだこうへい"
+  },
+  {
+    "id": "maritaro_cover780",
+    "title": "峠越え",
+    "titleKana": "とうげごえ",
+    "artist": "福田こうへい",
+    "artistKana": "ふくだこうへい"
+  },
+  {
+    "id": "maritaro_cover781",
+    "title": "哀歌(エレジー)",
+    "titleKana": "えれじー",
+    "artist": "平井堅",
+    "artistKana": "ひらいけん"
+  },
+  {
+    "id": "maritaro_cover782",
+    "title": "マスカット",
+    "titleKana": "ますかっと",
+    "artist": "平原綾香",
+    "artistKana": "ひらはらあやか"
+  },
+  {
+    "id": "maritaro_cover783",
+    "title": "永遠の夢の中で",
+    "titleKana": "えいえんのゆめのなかで",
+    "artist": "平野ひろし",
+    "artistKana": "ひらのひろし"
+  },
+  {
+    "id": "maritaro_cover784",
+    "title": "紅蓮の華",
+    "titleKana": "ぐれんのはな",
+    "artist": "平野ひろし",
+    "artistKana": "ひらのひろし"
+  },
+  {
+    "id": "maritaro_cover785",
+    "title": "女鬼龍院",
+    "titleKana": "おんなきりゅういん",
+    "artist": "米倉ますみ",
+    "artistKana": "よねくらますみ"
+  },
+  {
+    "id": "maritaro_cover786",
+    "title": "Flamingo",
+    "titleKana": "ふらみんご",
+    "artist": "米津玄師",
+    "artistKana": "よねづけんし"
+  },
+  {
+    "id": "maritaro_cover787",
+    "title": "Lemon",
+    "titleKana": "れもん",
+    "artist": "米津玄師",
+    "artistKana": "よねづけんし"
+  },
+  {
+    "id": "maritaro_cover788",
+    "title": "LOSER",
+    "titleKana": "るーざー",
+    "artist": "米津玄師",
+    "artistKana": "よねづけんし"
+  },
+  {
+    "id": "maritaro_cover789",
+    "title": "M八七",
+    "titleKana": "えむはちはちなな",
+    "artist": "米津玄師",
+    "artistKana": "よねづけんし"
+  },
+  {
+    "id": "maritaro_cover790",
+    "title": "もののけ姫",
+    "titleKana": "もののけひめ",
+    "artist": "米良美一",
+    "artistKana": "めらよしかず"
+  },
+  {
+    "id": "maritaro_cover791",
+    "title": "ラブ・バラード",
+    "titleKana": "らぶばらーど",
+    "artist": "保科有里",
+    "artistKana": "ほしなゆり"
+  },
+  {
+    "id": "maritaro_cover792",
+    "title": "さくらの花よ泣きなさい",
+    "titleKana": "さくらのはなよなきなさい",
+    "artist": "保科有里",
+    "artistKana": "ほしなゆり"
+  },
+  {
+    "id": "maritaro_cover793",
+    "title": "ざんげの値打ちもない",
+    "titleKana": "ざんげのねうちもない",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover794",
+    "title": "その日のために",
+    "titleKana": "そのひのために",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover795",
+    "title": "愛は一期一会",
+    "titleKana": "あいはいちごいちえ",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover796",
+    "title": "棄てるものがあるうちはいい",
+    "titleKana": "すてるものがあるうちはいい",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover797",
+    "title": "泣いてジェラシー",
+    "titleKana": "ないてじぇらしー",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover798",
+    "title": "港のリリー",
+    "titleKana": "みなとのりりー",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover799",
+    "title": "石狩挽歌",
+    "titleKana": "いしかりばんか",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover800",
+    "title": "風の午後",
+    "titleKana": "かぜのごご",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover801",
+    "title": "雨の思い出",
+    "titleKana": "あめのおもいで",
+    "artist": "北原ミレイ",
+    "artistKana": "きたはらみれい"
+  },
+  {
+    "id": "maritaro_cover802",
+    "title": "なみだ百年",
+    "titleKana": "なみだひゃくねん",
+    "artist": "北川裕二",
+    "artistKana": "きたがわゆうじ"
+  },
+  {
+    "id": "maritaro_cover803",
+    "title": "真っ赤なワイン",
+    "titleKana": "まっかなわいん",
+    "artist": "北沢麻衣",
+    "artistKana": "きたざわまい"
+  },
+  {
+    "id": "maritaro_cover804",
+    "title": "Begin",
+    "titleKana": "びぎん",
+    "artist": "北野井子",
+    "artistKana": "きたのしょうこ"
+  },
+  {
+    "id": "maritaro_cover805",
+    "title": "ひとり宿場町",
+    "titleKana": "ひとりしゅくばまち",
+    "artist": "北野都",
+    "artistKana": "きたのみやこ"
+  },
+  {
+    "id": "maritaro_cover806",
+    "title": "リボン",
+    "titleKana": "りぼん",
+    "artist": "堀ちえみ",
+    "artistKana": "ほりちえみ"
+  },
+  {
+    "id": "maritaro_cover807",
+    "title": "メモリーグラス",
+    "titleKana": "めもりーぐらす",
+    "artist": "堀江淳",
+    "artistKana": "ほりえじゅん"
+  },
+  {
+    "id": "maritaro_cover808",
+    "title": "キャンディキャンディ",
+    "titleKana": "きゃんでぃきゃんでぃ",
+    "artist": "堀江美都子",
+    "artistKana": "ほりえみつこ"
+  },
+  {
+    "id": "maritaro_cover809",
+    "title": "都会の天使たち",
+    "titleKana": "とかいのてんしたち",
+    "artist": "堀内孝雄&桂銀淑",
+    "artistKana": "ほりうちたかおあんどけいうんすく"
+  },
+  {
+    "id": "maritaro_cover810",
+    "title": "ふたりで竜馬をやろうじゃないか",
+    "titleKana": "ふたりでりょうまをやろうじゃないか",
+    "artist": "堀内孝雄with五木ひろし",
+    "artistKana": "ほりうちたかおうぃずいつきひろし"
+  },
+  {
+    "id": "maritaro_cover811",
+    "title": "1986年のマリリン",
+    "titleKana": "せんきゅうひゃくはちじゅうろくねんのまりりん",
+    "artist": "本田美奈子",
+    "artistKana": "ほんだみなこ"
+  },
+  {
+    "id": "maritaro_cover812",
+    "title": "Temptation（誘惑）",
+    "titleKana": "てんぷてーしょんゆうわく",
+    "artist": "本田美奈子",
+    "artistKana": "ほんだみなこ"
+  },
+  {
+    "id": "maritaro_cover813",
+    "title": "home",
+    "titleKana": "ほーむ",
+    "artist": "木山裕策",
+    "artistKana": "きやまゆうさく"
+  },
+  {
+    "id": "maritaro_cover814",
+    "title": "雪唄",
+    "titleKana": "ゆきうた",
+    "artist": "木村徹二",
+    "artistKana": "きむらてつじ"
+  },
+  {
+    "id": "maritaro_cover815",
+    "title": "J",
+    "titleKana": "じぇい",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover816",
+    "title": "あなたがすべて〜Only Love〜",
+    "titleKana": "あなたがすべておんりーらぶ",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover817",
+    "title": "こぼれ花",
+    "titleKana": "こぼればな",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover818",
+    "title": "どん底",
+    "titleKana": "どんぞこ",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover819",
+    "title": "ナザレの舟唄",
+    "titleKana": "わざれのふなうた",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover820",
+    "title": "ノラ",
+    "titleKana": "のら",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover821",
+    "title": "哀愁エリア",
+    "titleKana": "あいしゅうえりあ",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover822",
+    "title": "鴎⋯カモメ",
+    "titleKana": "かもめ",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover823",
+    "title": "北の駅",
+    "titleKana": "きたのえき",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover824",
+    "title": "女の漁歌",
+    "titleKana": "おんなのりょうか",
+    "artist": "門倉有希",
+    "artistKana": "かどくらゆき"
+  },
+  {
+    "id": "maritaro_cover825",
+    "title": "夜叉の海",
+    "titleKana": "やしゃのうみ",
+    "artist": "立樹みか",
+    "artistKana": "たちきみか"
+  },
+  {
+    "id": "maritaro_cover826",
+    "title": "やがて春",
+    "titleKana": "やがてはる",
+    "artist": "野川みどり",
+    "artistKana": "のがわみどり"
+  },
+  {
+    "id": "maritaro_cover827",
+    "title": "雪国恋人形",
+    "titleKana": "ゆきぐにこいにんぎょう",
+    "artist": "野中彩央里",
+    "artistKana": "のなかさおり"
+  },
+  {
+    "id": "maritaro_cover828",
+    "title": "冬枯れの町から",
+    "titleKana": "ふゆがれのまちから",
+    "artist": "矢野裕子",
+    "artistKana": "やのゆうこ"
+  },
+  {
+    "id": "maritaro_cover829",
+    "title": "Woman\"Wの悲劇\"より",
+    "titleKana": "うーまんダブルのひげきより",
+    "artist": "薬師丸ひろ子",
+    "artistKana": "やくしまるひろこ"
+  },
+  {
+    "id": "maritaro_cover830",
+    "title": "セーラー服と機関銃",
+    "titleKana": "せーらーふくときかんじゅう",
+    "artist": "薬師丸ひろ子",
+    "artistKana": "やくしまるひろこ"
+  },
+  {
+    "id": "maritaro_cover831",
+    "title": "メインテーマ",
+    "titleKana": "めいんてーま",
+    "artist": "薬師丸ひろ子",
+    "artistKana": "やくしまるひろこ"
+  },
+  {
+    "id": "maritaro_cover832",
+    "title": "探偵物語",
+    "titleKana": "たんていものがたり",
+    "artist": "薬師丸ひろ子",
+    "artistKana": "やくしまるひろこ"
+  },
+  {
+    "id": "maritaro_cover833",
+    "title": "SAZANKA",
+    "titleKana": "さざんか",
+    "artist": "祐真キキ",
+    "artistKana": "すけざねきき"
+  },
+  {
+    "id": "maritaro_cover834",
+    "title": "キャンペーン曲",
+    "titleKana": "きゃんぺーんきょく",
+    "artist": "裕木奈美恵",
+    "artistKana": "ゆうきなみえ"
+  },
+  {
+    "id": "maritaro_cover835",
+    "title": "夢の途中",
+    "titleKana": "ゆめのとちゅう",
+    "artist": "来生たかお",
+    "artistKana": "きすぎたかお"
+  },
+  {
+    "id": "maritaro_cover836",
+    "title": "モナリザ",
+    "titleKana": "もなりざ",
+    "artist": "流つよし",
+    "artistKana": "ながれつよし"
+  },
+  {
+    "id": "maritaro_cover837",
+    "title": "空になりたい涙",
+    "titleKana": "そらになりたいなみだ",
+    "artist": "林あさ美",
+    "artistKana": "はやしあさみ"
+  },
+  {
+    "id": "maritaro_cover838",
+    "title": "この愛に",
+    "titleKana": "このあいに",
+    "artist": "林るり子",
+    "artistKana": "はやしるりこ"
+  },
+  {
+    "id": "maritaro_cover839",
+    "title": "あいたい",
+    "titleKana": "あいたい",
+    "artist": "林部智史",
+    "artistKana": "はやしべさとし"
+  },
+  {
+    "id": "maritaro_cover840",
+    "title": "泣けへんよ",
+    "titleKana": "なけへんよ",
+    "artist": "鈴木ゆかり",
+    "artistKana": "すずきゆかり"
+  },
+  {
+    "id": "maritaro_cover841",
+    "title": "デュエット曲",
+    "titleKana": "でゅえっときょく",
+    "artist": "鈴木聖美&鈴木雅之",
+    "artistKana": "すずききよみあんどすずきまさゆき"
+  },
+  {
+    "id": "maritaro_cover842",
+    "title": "昼顔ボレロ",
+    "titleKana": "ひるがおぼれろ",
+    "artist": "恋川いろは",
+    "artistKana": "こいかわいろは"
+  },
+  {
+    "id": "maritaro_cover843",
+    "title": "千本桜",
+    "titleKana": "せんぼんざくら",
+    "artist": "和楽器バンド",
+    "artistKana": "わがっきばんど"
+  },
+  {
+    "id": "maritaro_cover844",
+    "title": "サイレントマジョリティー",
+    "titleKana": "さいれんとまじょりてぃー",
+    "artist": "欅坂46",
+    "artistKana": "けやきざかふぉーてぃーしっくす"
+  },
+  {
+    "id": "maritaro_cover845",
+    "title": "悪魔になりきる",
+    "titleKana": "あくまになりきる",
+    "artist": "濱田マリ",
+    "artistKana": "はまだまり"
+  }
+]

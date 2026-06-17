@@ -254,13 +254,13 @@
 <body>
 
 <header>
-    <h1>🎤 KaraokeKey v2</h1>
+    <h1>🎤 カラオケ歌唱記録アプリ</h1>
 </header>
 
 <main>
     <div class="guide-banner">
         <div>
-            <strong>💡 お知らせ：</strong>マイリスト検索の使いやすさを改善しました！文字を入力すると、すぐ下に検索結果が表示されます。
+            <strong>【お知らせ】</strong><br>・右「図解ページ」利用のススメ。<br>・「マイリスト検索」結果表示場所改善。	<br>・「OWNER_DATA」追加。
         </div>
         <button class="btn-guide-link" onclick="window.open('guide.html', '_self')">図解ページを開く 📖</button>
     </div>
@@ -354,7 +354,7 @@
     <section class="cloud-panel">
         <div class="cloud-title">🌐 クラウド名曲カタログ</div>
         <select id="cloud-select" onchange="loadCloudPreview()">
-            <option value="">-- ジャンルを選択して覗き見 --</option>
+            <option value="">-- ジャンルを選択して覗き見＆リスト追加 --</option>
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1950s_hits.json">1950年代ヒット曲</option>
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1960s_hits.json">1960年代ヒット曲</option>
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1970s_hits.json">1970年代ヒット曲</option>
@@ -370,6 +370,8 @@
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_bossa_nova_collection.json">J-ボサノバ</option>
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/cinematic_passionato_collection.json">シネマ・パッショナート</option>
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_shoka_doyo_collection.json">文部省唱歌・童謡</option>
+			<option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/mariko_songs.json">OWNER_M</option>
+			<option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/reika_original_song.json">OWNER_R</option>
         </select>
 
         <div id="preview-box" style="display: none;">
@@ -392,7 +394,7 @@
         <div class="backup-title">⚙️ データ管理（データ消失を防ぐ重要なお願い）</div>
         <div style="background-color: rgba(207, 102, 121, 0.12); border-left: 3px solid var(--error); padding: 0.6rem; margin-bottom: 0.8rem; border-radius: 4px; font-size: 0.8rem; line-height: 1.4;">
             <strong style="color: var(--error); display: block; margin-bottom: 0.1rem;">⚠️ ご注意ください</strong>
-            本アプリのデータはブラウザ内に保存されます。キャッシュ削除を行うと登録データがリセットされますので、定期的に「ファイルに保存」を行ってください。
+            本アプリのデータはブラウザ内に保存され、キャッシュ削除を行うと登録データがリセットされます。初期値データはアプリコードとして記入されており、リセットで復活しますが、あとから追加したデータは完全に消えます。<U>必ず、定期的に「ファイルに保存」を行ってください。「JSONファイル」として保存されます。「テキストエディタ」を使っての「ファイル名変更」、「内容追加変更」が可能です。</U>
         </div>
         <div class="backup-btns">
             <button class="btn-backup btn-export" onclick="exportData()">データをファイルに保存</button>

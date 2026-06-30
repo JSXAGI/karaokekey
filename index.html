@@ -332,16 +332,18 @@
         <button class="btn-add" onclick="addSong()">リストに追加</button>
     </section>
 
-    <section class="controls">
-        <input type="text" id="search-word" placeholder="マイリスト内をその場で検索..." oninput="renderSongs()" style="flex: 2;">
-        <select id="sort-order" onchange="renderSongs()" style="flex: 1;">
-            <option value="newest">追加順 (新)</option>
-            <option value="title">曲名 (あいうえお順)</option>
-            <option value="artist">歌手 (あいうえお順)</option>
-            <option value="year">年代 (新しい順)</option>
-            <option value="rating">自信度 (高い順)</option>
-        </select>
-    </section>
+<section class="controls">
+    <input type="text" id="search-word" placeholder="マイリスト内をその場で検索..." oninput="renderSongs()" style="flex: 2;">
+    <select id="sort-order" onchange="renderSongs()" style="flex: 1;">
+        <option value="newest">追加順 (新)</option>
+        <option value="title">曲名 (あいうえお順)</option>
+        <option value="artist">歌手 (あいうえお順)</option>
+        <option value="year">年代 (新しい順)</option>
+        <option value="rating">自信度 (高い順)</option>
+    </select>
+    <!-- 追加箇所 -->
+    <button onclick="clearAllSongs()" style="background:var(--error); color:white; border:none; padding:0.5rem; cursor:pointer; border-radius:4px;">マイリスト内楽曲全削除</button>
+</section
 
     <div id="search-results-panel" class="search-results-panel" style="display: none;">
         <div class="search-results-title">
@@ -396,7 +398,7 @@
         <div class="backup-title">⚙️ データ管理（データ消失を防ぐ重要なお願い）</div>
         <div style="background-color: rgba(207, 102, 121, 0.12); border-left: 3px solid var(--error); padding: 0.6rem; margin-bottom: 0.8rem; border-radius: 4px; font-size: 0.8rem; line-height: 1.4;">
             <strong style="color: var(--error); display: block; margin-bottom: 0.1rem;">⚠️ ご注意ください</strong>
-            本アプリのデータはブラウザ内に保存され、キャッシュ削除を行うと登録データがリセットされます。初期値データはアプリコードとして記入されており、リセットで復活しますが、あとから追加したデータは完全に消えます。<U>必ず、定期的に「ファイルに保存」を行ってください。「JSONファイル」として保存されます。「テキストエディタ」を使っての「ファイル名変更」、「内容追加変更」が可能です。</U>
+            本アプリのデータはブラウザ内に保存され、キャッシュ削除を行うと登録データがリセットされます。初期値データはアプリコードとして記入されており、リセットで復活しますが、あとから追加したデータは完全に消えます。<U>必ず、定期的に「ファイルに保存」を行ってください。「JSONファイル」として保存されます。「テキストエディタ」を使っての「ファイル名変更」、「内容追加変更」が可能です。</U><br>※上記にある「マイリスト楽曲全削除」実行すると、マイリストは完全に空になります。
         </div>
         <div class="backup-btns">
             <button class="btn-backup btn-export" onclick="exportData()">データをファイルに保存</button>
@@ -576,6 +578,17 @@
             if(currentCloudSongs.length > 0) renderCloudPreview(); 
         }
     }
+	function clearAllSongs() {
+    if (songs.length === 0) return alert('削除する楽曲がありません。');
+    
+    if (confirm('本当にマイリストの全楽曲を削除しますか？この操作は取り消せません。')) {
+        songs = []; // メモリ上の配列を空に
+        localStorage.removeItem('karaoke-songs'); // 保存データを削除
+        renderSongs(); // 画面を更新
+        if(currentCloudSongs.length > 0) renderCloudPreview();
+        alert('マイリストを空にしました。');
+    }
+}
 
     // クラウドカタログ取得
     function loadCloudPreview() {

@@ -102,5 +102,9 @@
   { "id": "akina_s53_a", "title": "unfixable", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "あんふぃくさぶる", "artistKana": "なかもりあきな", "year": "2015", "genre": "J-POP", "memo": "53thシングルA面 / 全編英語詞ハードナンバー" },
   { "id": "akina_s53_b", "title": "雨月", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "うげつ", "artistKana": "なかもりあきな", "year": "2015", "genre": "J-POP", "memo": "53thシングルB面 / 美麗日本語バラード" },
   { "id": "akina_s54_a", "title": "ひらり-SAKURA-", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "ひらりさくら", "artistKana": "なかもりあきな", "year": "2016", "genre": "J-POP", "memo": "54thシングルA面 / 新藤晴一プロデュース" },
-  { "id": "akina_s54_b", "title": "FIXER", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "ふぃくさー", "artistKana": "なかもりあきな", "year": "2016", "genre": "J-POP", "memo": "54thシングルB面 / EDMサウンド 映画主題歌" }
-]
+  { "id": "akina_s54_b", "title": "FIXER", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "ふぃくさー", "artistKana": "なかもりあきな", "year": "2016", "genre": "J-POP", "memo": "54thシングルB面 / EDMサウンド 映画主題歌" },
+  { "id": "akina_s55_a", "title": "Merry Christmas, My Heart", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "めりーくりすますまいはーと", "artistKana": "なかもりあきな", "year": "2025", "genre": "J-POP", "memo": "55thシングル / 配信限定シングル" },
+  { "id": "akina_s56_a", "title": "ごめんと、すきと、", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "ごめんとすきと", "artistKana": "なかもりあきな", "year": "2026", "genre": "J-POP", "memo": "56thシングル" },
+  { "id": "akina_s56_b", "title": "カサブランカ", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "かさぶらんか", "artistKana": "なかもりあきな", "year": "2026", "genre": "J-POP", "memo": "56thシングル" },
+  { "id": "akina_s56_c", "title": "FAKE", "artist": "中森明菜", "key": "原曲キー", "rating": 0, "titleKana": "ふぇいく", "artistKana": "なかもりあきな", "year": "2026", "genre": "J-POP", "memo": "56thシングル" }
+]  

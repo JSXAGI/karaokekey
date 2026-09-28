@@ -120,8 +120,9 @@
             background: var(--surface);
             padding: 1rem;
             border-radius: 8px;
+            align-items: center;
         }
-        .controls input, .controls select { padding: 0.6rem; font-size: 0.9rem; }
+        .controls input { padding: 0.6rem; font-size: 0.9rem; }
 
         /* 検索窓の真下にパッと出る検索結果専用エリア */
         .search-results-panel {
@@ -216,13 +217,6 @@
             align-items: center;
             gap: 1rem;
         }
-        .btn-guide-link {
-            width: auto;
-            padding: 0.4rem 0.8rem;
-            font-size: 0.75rem;
-            background-color: var(--secondary);
-            color: var(--bg);
-        }
 
         /* リストスタイル */
         .song-list { list-style: none; padding: 0; margin: 0; }
@@ -260,20 +254,19 @@
 <main>
     <div class="guide-banner">
         <div>
-            <strong>【お知らせ】：</strong>・右「図解ページ」ご利用のススメ。・「マイリスト検索」結果表示場所改善。・「OWNER_DATA」追加。
-        </div>
-        <button class="btn-guide-link" onclick="window.open('guide.html', '_self')">図解ページを開く 📖</button>
+            <strong>【お知らせ】</strong><br>・データの扱いについて、途中の注意書きをご確認ください。
+        </div>        
     </div>
 
     <section class="card">
         <div class="input-row">
             <div class="input-group">
                 <label>曲名 <span style="color:var(--error)">*</span></label>
-                <input type="text" id="song-title" placeholder="例: 残響散歌">
+                <input type="text" id="song-title" placeholder="例: ドレミの歌">
             </div>
             <div class="input-group">
                 <label>アーティスト <span style="color:var(--error)">*</span></label>
-                <input type="text" id="song-artist" placeholder="例: Aimer">
+                <input type="text" id="song-artist" placeholder="例: サウンド・オブ・ミュージック">
             </div>
         </div>
 
@@ -332,18 +325,10 @@
         <button class="btn-add" onclick="addSong()">リストに追加</button>
     </section>
 
-<section class="controls">
-    <input type="text" id="search-word" placeholder="マイリスト内をその場で検索..." oninput="renderSongs()" style="flex: 2;">
-    <select id="sort-order" onchange="renderSongs()" style="flex: 1;">
-        <option value="newest">追加順 (新)</option>
-        <option value="title">曲名 (あいうえお順)</option>
-        <option value="artist">歌手 (あいうえお順)</option>
-        <option value="year">年代 (新しい順)</option>
-        <option value="rating">自信度 (高い順)</option>
-    </select>
-    <!-- 追加箇所 -->
-    <button onclick="clearAllSongs()" style="background:var(--error); color:white; border:none; padding:0.5rem; cursor:pointer; border-radius:4px;">マイリスト内楽曲全削除</button>
-</section
+    <section class="controls">
+        <input type="text" id="search-word" placeholder="マイリスト内をその場で検索..." oninput="renderSongs()" style="flex: 1;">
+        <button onclick="clearAllSongs()" style="background:var(--error); color:white; border:none; padding:0.6rem 0.8rem; cursor:pointer; border-radius:4px; font-size:0.85rem; width:auto; white-space:nowrap;">マイリスト内楽曲全削除</button>
+    </section>
 
     <div id="search-results-panel" class="search-results-panel" style="display: none;">
         <div class="search-results-title">
@@ -371,11 +356,7 @@
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_blues_best_collection.json">J-ブルース</option>
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_bossa_nova_collection.json">J-ボサノバ</option>
             <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/cinematic_passionato_collection.json">シネマ・パッショナート</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_shoka_doyo_collection.json">文部省唱歌・童謡</option>
-			<option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/mariko_songs.json">OWNER_M1</option>
-			<option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/maritaro_cover.json">OWNER_M2</option>
-			<option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/reika_original_song.json">OWNER_R</option>
-			<option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/akina_single.json">OWNER_A</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_shoka_doyo_collection.json">文部省唱歌・童謡</option>			
         </select>
 
         <div id="preview-box" style="display: none;">
@@ -398,7 +379,7 @@
         <div class="backup-title">⚙️ データ管理（データ消失を防ぐ重要なお願い）</div>
         <div style="background-color: rgba(207, 102, 121, 0.12); border-left: 3px solid var(--error); padding: 0.6rem; margin-bottom: 0.8rem; border-radius: 4px; font-size: 0.8rem; line-height: 1.4;">
             <strong style="color: var(--error); display: block; margin-bottom: 0.1rem;">⚠️ ご注意ください</strong>
-            本アプリのデータはブラウザ内に保存され、キャッシュ削除を行うと登録データがリセットされます。初期値データはアプリコードとして記入されており、リセットで復活しますが、あとから追加したデータは完全に消えます。<U>必ず、定期的に「ファイルに保存」を行ってください。「JSONファイル」として保存されます。「テキストエディタ」を使っての「ファイル名変更」、「内容追加変更」が可能です。</U><br>※上記にある「マイリスト楽曲全削除」実行すると、マイリストは完全に空になります。
+            本アプリのデータはブラウザ内に保存され、キャッシュ削除を行うと登録データがリセットされます。初期値データはアプリコードとして記入されており、リセットで復活しますが、あとから追加したデータは完全に消えます。<u>必ず、定期的に「ファイルに保存」を行ってください。「JSONファイル」として保存されます。「テキストエディタ」を使っての「ファイル名変更」、「内容追加変更」が可能です。</u><br>※上記にある「マイリスト楽曲全削除」実行すると、マイリストは完全に空になります。
         </div>
         <div class="backup-btns">
             <button class="btn-backup btn-export" onclick="exportData()">データをファイルに保存</button>
@@ -406,7 +387,25 @@
             <input type="file" id="file-input" accept=".json" onchange="importData(event)" style="display: none;">
         </div>
     </section>
-
+    <!-- 📄 PDF参考資料セクション -->
+    <section class="card" style="border: 1px solid rgba(3, 218, 198, 0.3);">
+        <div style="font-size: 0.95rem; font-weight: bold; color: var(--secondary); margin-bottom: 0.8rem;">
+            📄 ヒット曲参考資料 (PDF)
+        </div>
+        <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0; margin-bottom: 0.8rem;">
+            曲名や歌手名をタップするとYouTube検索が開く参照用リストです。
+        </p>
+        <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.9rem;">
+            <li style="margin-bottom: 0.6rem; display: flex; justify-content: space-between; align-items: center; background: var(--surface-light); padding: 0.6rem 0.8rem; border-radius: 4px;">
+                <span>🎵 楽曲歌手＿年代別ヒットソング</span>
+                <a href="./楽曲歌手＿年代別ヒットソング.pdf" target="_blank" rel="noopener noreferrer" style="color: var(--secondary); text-decoration: none; font-weight: bold; font-size: 0.85rem; border: 1px solid var(--secondary); padding: 0.2rem 0.6rem; border-radius: 4px;">開く ↗</a>
+            </li>
+            <li style="display: flex; justify-content: space-between; align-items: center; background: var(--surface-light); padding: 0.6rem 0.8rem; border-radius: 4px;">
+                <span>🎸 洋楽年代別ヒット曲</span>
+                <a href="./洋楽年代別ヒット曲.pdf" target="_blank" rel="noopener noreferrer" style="color: var(--secondary); text-decoration: none; font-weight: bold; font-size: 0.85rem; border: 1px solid var(--secondary); padding: 0.2rem 0.6rem; border-radius: 4px;">開く ↗</a>
+            </li>
+        </ul>
+    </section>
     <div class="list-section-title">📋 登録済みのマイリスト（全曲一覧）</div>
     <ul id="song-list" class="song-list"></ul>
 </main>
@@ -419,32 +418,13 @@
         });
     }
 
-    // 21曲初期サンプル
+    // 2曲初期サンプルデータ設定
     let songs = JSON.parse(localStorage.getItem('karaoke-songs'));
 
     if (songs === null) {
         songs = [
-            { id: "s2020a", title: "アイドル", titleKana: "あいどる", artist: "YOASOBI", artistKana: "よあそび", key: "原曲キー", rating: 4, year: "2023", genre: "ポップス, アニソン", memo: "世界的大ヒット曲。テンポが速いので滑舌に注意！" },
-            { id: "s2020b", title: "ドライフラワー", titleKana: "どらいふらわー", artist: "優里", artistKana: "ゆうり", key: "-1", rating: 5, year: "2020", genre: "バラード", memo: "サビのエモーショナルな高音を出せると最高に気持ちいい。" },
-            { id: "s2020c", title: "炎", titleKana: "ほむら", artist: "LiSA", artistKana: "りさ", key: "原曲キー", rating: 4, year: "2020", genre: "アニソン", memo: "劇場版「鬼滅の刃」主題歌。壮大に歌い上げるバラード。" },
-            { id: "s2010a", title: "Lemon", titleKana: "れもん", artist: "米津玄師", artistKana: "よねづけんし", key: "原曲キー", rating: 5, year: "2018", genre: "J-POP", memo: "カラオケランキングで驚異的な記録を作ったモンスター曲。" },
-            { id: "s2010b", title: "恋", titleKana: "こい", artist: "星野源", artistKana: "ほしのげん", key: "+1", rating: 4, year: "2016", genre: "ポップス", memo: "みんなで「恋ダンス」を踊りながら盛り上がれる定番曲。" },
-            { id: "s2010c", title: "マリーゴールド", titleKana: "まりーごーるど", artist: "あいみょん", artistKana: "あいみょん", key: "-2", rating: 5, year: "2018", genre: "J-POP", memo: "ストレートで歌いやすい。心地よい初夏の風を感じて。" },
-            { id: "s2000a", title: "キセキ", titleKana: "きせき", artist: "GReeeeN", artistKana: "ぐりーん", key: "原曲キー", rating: 5, year: "2008", genre: "J-POP", memo: "全員で大合唱できる最高の青春ソング。" },
-            { id: "s2000b", title: "ハナミズキ", titleKana: "はなみずき", artist: "一青窈", artistKana: "ひととよう", key: "原曲キー", rating: 4, year: "2004", genre: "バラード", memo: "平成で最も歌われたカラオケの女王。丁寧に言葉を紡ぐように。" },
-            { id: "s2000c", title: "TSUNAMI", titleKana: "つなみ", artist: "サザンオールスターズ", artistKana: "さざんおーるすたーず", key: "-1", rating: 4, year: "2000", genre: "J-POP", memo: "2000年の歴史的大ヒットバラード。大人の色気を漂わせて。" },
-            { id: "s1990a", title: "Tomorrow never knows", titleKana: "とぅもろーねばーーのーず", artist: "Mr.Children", artistKana: "みすたーちるどれん", key: "-2", rating: 4, year: "1994", genre: "J-POP", memo: "ミスチル最大のヒット曲。大サビ的高音の伸びが勝負どころ。" },
-            { id: "s1990b", title: "丸の内サディスティック", titleKana: "まるのうちさdeぃすてぃっく", artist: "椎名林檎", artistKana: "しいなりんご", key: "原曲キー", rating: 5, year: "1999", genre: "ロック/ジャズ", memo: "コード進行が天才的。お洒落でリズムに乗ると最高にカッコいい。" },
-            { id: "s1990c", title: "残酷な天使のテーゼ", titleKana: "ざんこくなてんしのてーぜ", artist: "高橋洋子", artistKana: "たかはしようこ", key: "原曲キー", rating: 5, year: "1995", genre: "アニソン", memo: "カラオケ界の絶対王者。世代を超えて100%盛り上がります。" },
-            { id: "s1980a", title: "赤いスイートピー", titleKana: "あかいすいーとぴー", artist: "松田聖子", artistKana: "まつだせいこ", key: "原曲キー", rating: 5, year: "1982", genre: "アイドル歌謡", memo: "80年代ポップスの金字塔。優しく可愛らしく歌うのがコツ。" },
-            { id: "s1980b", title: "フレンズ", titleKana: "ふれんず", artist: "REBECCA", artistKana: "れべっか", key: "+2", rating: 4, year: "1985", genre: "ロック", memo: "パワフルな女性ボーカルロック。イントロからテンション上がります。" },
-            { id: "s1980c", title: "ルビーの指環", titleKana: "ルビーのゆびわ", artist: "寺尾聰", artistKana: "てらおあきら", key: "原曲キー", rating: 4, year: "1981", genre: "シティポップ", memo: "渋い低音ボイスが活きる名曲。気怠くニヒルに歌いこなしたい。" },
-            { id: "s1970a", title: "UFO", titleKana: "ゆーふぉー", artist: "ピンク・レディー", artistKana: "ぴんくれでぃー", key: "原曲キー", rating: 4, year: "1977", genre: "歌謡曲", memo: "イントロの「手を合わせて！」から全力でポーズを決めよう。" },
-            { id: "s1970b", title: "勝手にしやがれ", titleKana: "かってにしやがれ", artist: "沢田研二", artistKana: "さわだけんじ", key: "原曲キー", rating: 5, year: "1977", genre: "歌謡曲", memo: "ジュリーの代表曲。サビの「ア・ア・ア」で手を振るのを忘れずに。" },
-            { id: "s1970c", title: "神田川", titleKana: "かんだがわ", artist: "かぐや姫", artistKana: "かぐやひめ", key: "-1", rating: 4, year: "1973", genre: "フォーク", memo: "昭和フォークの超名曲。哀愁を帯びたメロディを噛み締めて。" },
-            { id: "s1960a", title: "上を向いて歩こう", titleKana: "うえをむいてあるこう", artist: "坂本九", artistKana: "さかもときゅう", key: "原曲キー", rating: 5, year: "1961", genre: "歌謡曲", memo: "世界で最も有名な日本の歌（SUKIYAKI）。口笛も響かせたい。" },
-            { id: "s1960b", title: "ブルー・シャトウ", titleKana: "ぶるーしゃとう", artist: "ジャッキー吉川とブルー・コメッツ", artistKana: "ぶるーこめっつ", key: "原曲キー", rating: 4, year: "1967", genre: "グループ・サウンズ", memo: "「森と〜泉に〜」のフレーズで有名。GSブームの頂点に輝く名曲。" },
-            { id: "s1960c", title: "恋のバカンス", titleKana: "こいのばかんす", artist: "ザ・ピーナッツ", artistKana: "ざぴーなっつ", key: "原曲キー", rating: 4, year: "1963", genre: "ポップス/歌謡曲", memo: "ハモリが決まると最高に気持ちいい、和製ポップスの傑作。" }
+            { id: "s2020a", title: "（例）ドレミの歌", titleKana: "どれみのうた", artist: "サウンド・オブ・ミュージック", artistKana: "さうんど・おぶ・みゅーじっく", key: "0", rating: 5, year: "1959", genre: "ミュージカル", memo: "カラオケ基本歌唱に役立ちます。" },
+            { id: "s2020b", title: "楽曲タイトル", titleKana: "タイトル仮名", artist: "歌手名", artistKana: "歌手名仮名", key: "原曲キー", rating: 0, year: "リリース年", genre: "楽曲ジャンル", memo: "最上記で楽曲追加した時やカタログから楽曲追加した場合、下記の例、「ドレミの歌」のように表示されます。「マイリスト内楽曲全削除」で、ここにある楽曲は全部消せますが、ブラウザリロードした場合、初期値の二つは復元しますが、追加したものは全て削除されます。「⚠️注意書き」を必ず御覧下さい。" }
         ];
         localStorage.setItem('karaoke-songs', JSON.stringify(songs));
     }
@@ -480,31 +460,20 @@
     // メイン描画
     function renderSongs() {
         const searchWord = document.getElementById('search-word').value.toLowerCase().trim();
-        const sortOrder = document.getElementById('sort-order').value;
 
         const allList = document.getElementById('song-list');
         const resultsPanel = document.getElementById('search-results-panel');
-        const JackResultList = document.getElementById('search-results-list');
+        const searchResultsList = document.getElementById('search-results-list');
         const resultsCountStr = document.getElementById('search-results-count');
 
-        let sortedSongs = [...songs];
-        sortedSongs.sort((a, b) => {
-            switch(sortOrder) {
-                case 'newest': return b.id.localeCompare(a.id);
-                case 'title': return (a.titleKana || a.title).localeCompare(b.titleKana || b.title, 'ja');
-                case 'artist': return (a.artistKana || a.artist).localeCompare(b.artistKana || b.artist, 'ja');
-                case 'year': return (b.year || 0) - (a.year || 0);
-                case 'rating': return (b.rating || 0) - (a.rating || 0);
-                default: return 0;
-            }
-        });
+        let displaySongs = [...songs];
 
         // 1. 全曲一覧描画
         allList.innerHTML = '';
-        if (sortedSongs.length === 0) {
+        if (displaySongs.length === 0) {
             allList.innerHTML = '<div style="text-align:center;color:#666;padding:2rem;">まだお気に入りの曲が登録されていません</div>';
         } else {
-            sortedSongs.forEach(song => {
+            displaySongs.forEach(song => {
                 const li = document.createElement('li');
                 li.className = 'song-item';
                 li.innerHTML = createSongHtml(song);
@@ -515,12 +484,12 @@
         // 2. 検索窓の真下の結果エリア
         if (!searchWord) {
             resultsPanel.style.display = 'none';
-            JackResultList.innerHTML = '';
+            searchResultsList.innerHTML = '';
         } else {
             resultsPanel.style.display = 'block';
-            JackResultList.innerHTML = '';
+            searchResultsList.innerHTML = '';
 
-            let filtered = sortedSongs.filter(song => {
+            let filtered = displaySongs.filter(song => {
                 const targetText = `${song.title} ${song.artist} ${song.titleKana||''} ${song.artistKana||''} ${song.year||''} ${song.memo||''}`.toLowerCase();
                 return targetText.includes(searchWord);
             });
@@ -528,13 +497,13 @@
             resultsCountStr.innerText = `${filtered.length} 曲見つかりました`;
 
             if (filtered.length === 0) {
-                JackResultList.innerHTML = '<div style="text-align:center;color:#aaa;padding:1rem;font-size:0.9rem;">一致する曲がマイリスト内にありません</div>';
+                searchResultsList.innerHTML = '<div style="text-align:center;color:#aaa;padding:1rem;font-size:0.9rem;">一致する曲がマイリスト内にありません</div>';
             } else {
                 filtered.forEach(song => {
                     const li = document.createElement('li');
                     li.className = 'song-item';
                     li.innerHTML = createSongHtml(song);
-                    JackResultList.appendChild(li);
+                    searchResultsList.appendChild(li);
                 });
             }
         }
@@ -575,20 +544,28 @@
             songs = songs.filter(song => song.id !== id);
             localStorage.setItem('karaoke-songs', JSON.stringify(songs));
             renderSongs();
-            if(currentCloudSongs.length > 0) renderCloudPreview(); 
+            if (document.getElementById('preview-box').style.display !== 'none' && currentCloudSongs.length > 0) {
+                renderCloudPreview(); 
+            }
         }
     }
-	function clearAllSongs() {
-    if (songs.length === 0) return alert('削除する楽曲がありません。');
-    
-    if (confirm('本当にマイリストの全楽曲を削除しますか？この操作は取り消せません。')) {
-        songs = []; // メモリ上の配列を空に
-        localStorage.removeItem('karaoke-songs'); // 保存データを削除
-        renderSongs(); // 画面を更新
-        if(currentCloudSongs.length > 0) renderCloudPreview();
-        alert('マイリストを空にしました。');
+
+    function clearAllSongs() {
+        if (songs.length === 0) return alert('削除する楽曲がありません。');
+        
+        if (confirm('本当にマイリストの全楽曲を削除しますか？この操作は取り消せません。')) {
+            songs = [];
+            localStorage.removeItem('karaoke-songs');
+            renderSongs();
+
+            // カタログ表示も初期化して閉じる
+            document.getElementById('preview-box').style.display = 'none';
+            document.getElementById('cloud-select').value = '';
+            currentCloudSongs = [];
+
+            alert('マイリストを空にしました。');
+        }
     }
-}
 
     // クラウドカタログ取得
     function loadCloudPreview() {
@@ -703,7 +680,12 @@
         if (count > 0) {
             localStorage.setItem('karaoke-songs', JSON.stringify(songs));
             renderSongs();         
-            renderCloudPreview();  
+            
+            // カタログ表示を閉じて選択をリセット
+            document.getElementById('preview-box').style.display = 'none';
+            document.getElementById('cloud-select').value = '';
+            currentCloudSongs = [];
+
             alert(`チェックした ${count} 曲をマイリストに吸い込みました！🚀`);
         } else {
             alert('新しくチェックされた曲がありません。');
@@ -739,7 +721,9 @@
                     });
                     localStorage.setItem('karaoke-songs', JSON.stringify(songs));
                     renderSongs();
-                    if(currentCloudSongs.length > 0) renderCloudPreview();
+                    if (document.getElementById('preview-box').style.display !== 'none' && currentCloudSongs.length > 0) {
+                        renderCloudPreview();
+                    }
                     alert('データの復元が完了しました！');
                 }
             } catch (err) {

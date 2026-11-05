@@ -298,36 +298,36 @@
                 <div class="input-row">
                     <div class="input-group">
                         <label>曲名ふりがな</label>
-                        <input type="text" id="song-title-kana" placeholder="例: ざんきょうさんか">
+                        <input type="text" id="song-title-kana" placeholder="例: どれみのうた">
                     </div>
                     <div class="input-group">
                         <label>アーティストふりがな</label>
-                        <input type="text" id="song-artist-kana" placeholder="例: えめ">
+                        <input type="text" id="song-artist-kana" placeholder="例: さうんど・おぶ・みゅーじっく">
                     </div>
                 </div>
                 <div class="input-row">
                     <div class="input-group">
                         <label>リリース年</label>
-                        <input type="number" id="song-year" placeholder="例: 2021" min="1950" max="2099">
+                        <input type="number" id="song-year" placeholder="例: 1959" min="1950" max="2099">
                     </div>
                     <div class="input-group">
                         <label>ジャンル/タグ</label>
-                        <input type="text" id="song-genre" placeholder="例: アニソン, バラード">
+                        <input type="text" id="song-genre" placeholder="例: 文部省唱歌・童謡">
                     </div>
                 </div>
                 <div class="input-group">
                     <label>ひとことメモ</label>
-                    <textarea id="song-memo" placeholder="例: ラスサビの高音に注意！"></textarea>
+                    <textarea id="song-memo" placeholder="例: 映画サウンド・オブ・ミュージックの中で使われた"></textarea>
                 </div>
             </div>
         </details>
 
-        <button class="btn-add" onclick="addSong()">③リストに追加</button>
+        <button class="btn-add" onclick="addSong()">③ リストに追加</button>
     </section>
 
     <section class="controls">
         <input type="text" id="search-word" placeholder="マイリスト内をその場で検索..." oninput="renderSongs()" style="flex: 1;">
-        <button onclick="clearAllSongs()" style="background:var(--error); color:white; border:none; padding:0.6rem 0.8rem; cursor:pointer; border-radius:4px; font-size:0.85rem; width:auto; white-space:nowrap;">②マイリスト内楽曲全削除</button>
+        <button onclick="clearAllSongs()" style="background:var(--error); color:white; border:none; padding:0.6rem 0.8rem; cursor:pointer; border-radius:4px; font-size:0.85rem; width:auto; white-space:nowrap;">② マイリスト内楽曲全削除</button>
     </section>
 
     <div id="search-results-panel" class="search-results-panel" style="display: none;">
@@ -342,21 +342,21 @@
         <div class="cloud-title">🌐 クラウド名曲カタログ</div>
         <select id="cloud-select" onchange="loadCloudPreview()">
             <option value="">= ジャンルを選択＆楽曲リスト追加 =</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1950s_hits.json">1950年代ヒット曲</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1960s_hits.json">1960年代ヒット曲</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1970s_hits.json">1970年代ヒット曲</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1980s_hits.json">1980年代ヒット曲</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1990s_hits.json">1990年代ヒット曲</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/2000s_hits.json">2000年代ヒット曲</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/2010s_hits.json">2010年代ヒット曲</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/2020s_hits.json">2020年代ヒット曲</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/folk_songs_list.json">フォークソング</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/group_sounds_best_collection.json">グループ・サウンズ</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_enka_ultimate_collection.json">日本の心・演歌188選</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_blues_best_collection.json">J-ブルース</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_bossa_nova_collection.json">J-ボサノバ</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/cinematic_passionato_collection.json">シネマ・パッショナート</option>
-            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_shoka_doyo_collection.json">文部省唱歌・童謡</option>			
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1950s_hits.json">🎵 1950年代ヒット曲</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1960s_hits.json">🎵 1960年代ヒット曲</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1970s_hits.json">🎵 1970年代ヒット曲</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1980s_hits.json">🎵 1980年代ヒット曲</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/1990s_hits.json">🎵 1990年代ヒット曲</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/2000s_hits.json">🎵 2000年代ヒット曲</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/2010s_hits.json">🎵 2010年代ヒット曲</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/2020s_hits.json">🎵 2020年代ヒット曲</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/folk_songs_list.json">🎸 フォークソング</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/group_sounds_best_collection.json">🎸 グループ・サウンズ</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_enka_ultimate_collection.json">🎙️ 日本の心・演歌188選</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_blues_best_collection.json">🎷 J-ブルース</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_bossa_nova_collection.json">🎷 J-ボサノバ</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/cinematic_passionato_collection.json">🎷 シネマ・パッショナート</option>
+            <option value="https://raw.githubusercontent.com/JSXAGI/karaokekey/refs/heads/main/jsondatafile/japanese_shoka_doyo_collection.json">🎵 文部省唱歌・童謡</option>			
         </select>
 
         <div id="preview-box" style="display: none;">
@@ -378,11 +378,11 @@
     <section class="backup-panel">
         <div class="backup-title">⚙️ データ管理（データ消失を防ぐ重要なお願い）</div>
         <div style="background-color: rgba(207, 102, 121, 0.12); border-left: 3px solid var(--error); padding: 0.6rem; margin-bottom: 0.8rem; border-radius: 4px; font-size: 0.6rem; line-height: 1.4;">
-            <strong style="color: var(--error); display: block; margin-bottom: 0.1rem;">⚠️ ご注意ください</strong>
-            本アプリのデータはブラウザ内に保存され、キャッシュ削除を行うと登録データがリセットされます。<br><U>🙋必ず、定期的に「ファイルに保存」を行ってください。「JSONファイル」として保存されます。</U><br>保存した「JSONファイル」は、「テキストエディタ」を使っての「ファイル名変更」、「内容追加変更」が可能です。<br>⚠️上記にある「マイリスト楽曲全削除」実行すると、マイリストは完全に空になります。<br><br><B><U>🍀利用手順🍀</U></B><br>①初期値データ確認。初期値「ドレミの歌」などはアプリコードとして記入されており、ブラウザリロードのリセットでも復活しますが、後から追加したデータは完全に消えます。<br>②「マイリスト内楽曲全削除」で初期値を削除。<br>③冒頭の楽曲追加かリストから楽曲データの追加。<br>④データファイルに保存。<br>
+            <strong style="color: var(--error); display: block; margin-bottom: 0.1rem;">⚠ ️ご注意ください</strong>
+            本アプリのデータはブラウザ内に保存され、キャッシュ削除を行うと登録データがリセットされます。<br>🙋 必ず<U>定期的に④の「ファイルに保存」を行ってください。</U><br>👉 デバイスのストレージに「JSONファイル」として保存されますので、保存後にご確認ください。<br>保存した「JSONファイル」は、「テキストエディタ」を使っての「ファイル名変更」、「内容追加変更」が可能です。<br>⚠️ 上記にある②の「マイリスト楽曲全削除」実行すると、マイリストは完全に空になります。<br><br><B><U>🍀 利用手順 🍀</U></B><br>①初期値データ確認。初期値「ドレミの歌」などはアプリコードとして記入されており、ブラウザリロードのリセットでも復活しますが、後から追加したデータは完全に消えます。<br>②「マイリスト内楽曲全削除」で初期値を削除。<br>③冒頭の楽曲追加かリストから楽曲データの追加。<br>④データファイルに保存。<br>
         </div>
         <div class="backup-btns">
-            <button class="btn-backup btn-export" onclick="exportData()">④データをファイルに保存</button>
+            <button class="btn-backup btn-export" onclick="exportData()">④ データをファイルに保存</button>
             <button class="btn-backup btn-import" onclick="document.getElementById('file-input').click()">ファイルを読み込む</button>
             <input type="file" id="file-input" accept=".json" onchange="importData(event)" style="display: none;">
         </div>
@@ -393,7 +393,7 @@
             📄 ヒット曲参考資料 (PDF)
         </div>
         <p style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0; margin-bottom: 0.8rem;">
-            曲名や歌手名をタップするとYouTube検索が開く参照用リストです。
+            曲名や歌手名をタップするとYouTube検索が開く参照用リストです。<br>(※APKアプリ化ではデータリンク非活性に。PDFはダウンロード利用を。)
         </p>
         <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.9rem;">
             <li style="margin-bottom: 0.6rem; display: flex; justify-content: space-between; align-items: center; background: var(--surface-light); padding: 0.6rem 0.8rem; border-radius: 4px;">
@@ -406,7 +406,7 @@
             </li>
         </ul>
     </section>
-    <div class="list-section-title">📋 ①登録済みのマイリスト（全曲一覧）</div>
+    <div class="list-section-title">📋 ① 登録済みのマイリスト（全曲一覧）</div>
     <ul id="song-list" class="song-list"></ul>
 </main>
 
@@ -424,7 +424,7 @@
     if (songs === null) {
         songs = [
             { id: "s2020a", title: "（例）ドレミの歌", titleKana: "どれみのうた", artist: "サウンド・オブ・ミュージック", artistKana: "さうんど・おぶ・みゅーじっく", key: "0", rating: 5, year: "1959", genre: "ミュージカル", memo: "カラオケ基本歌唱に役立ちます。" },
-            { id: "s2020b", title: "楽曲タイトル", titleKana: "タイトル仮名", artist: "歌手名", artistKana: "歌手名仮名", key: "原曲キー", rating: 0, year: "リリース年", genre: "楽曲ジャンル", memo: "最上記で楽曲追加した時やカタログから楽曲追加した場合、上記の例、「ドレミの歌」のように表示されます。<br>🎵「マイリスト内楽曲全削除」で追加楽曲全て削除されますが、初期値の2つはブラウザリロードで復元します。<br>🙋上記「データ管理（データ消失を防ぐ重要なお願い）」をご確認後、初期値は削除で、ご自身のデータを追加がマイリスト作成の手順となります。" }
+            { id: "s2020b", title: "楽曲タイトル", titleKana: "タイトル仮名", artist: "歌手名", artistKana: "歌手名仮名", key: "原曲キー", rating: 0, year: "リリース年", genre: "楽曲ジャンル", memo: "最上記で楽曲追加した時やカタログから楽曲追加した場合、上記の例、「ドレミの歌」のように表示されます。<br>🎵 「マイリスト内楽曲全削除」で追加楽曲全て削除されますが、初期値の2つはブラウザリロードで復元します。<br>🙋 上記「データ管理（データ消失を防ぐ重要なお願い）」をご確認後、初期値は削除で、ご自身のデータを追加がマイリスト作成の手順となります。" }
         ];
         localStorage.setItem('karaoke-songs', JSON.stringify(songs));
     }
